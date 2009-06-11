@@ -1,0 +1,5540 @@
+*network generic_network
+*vertices 2161
+1 "Alexander Pittsburgiensis" 0.000000 0.000000 ellipse 
+2 "Pleckaitis" 0.000000 0.000000 ellipse 
+3 "Mark R. Wayne" 0.000000 0.000000 ellipse 
+4 "Jordanus" 0.000000 0.000000 ellipse 
+5 "Mayamaxima" 0.000000 0.000000 ellipse 
+6 "Inve" 0.000000 0.000000 ellipse 
+7 "Sobotta" 0.000000 0.000000 ellipse 
+8 "Kondzio1990" 0.000000 0.000000 ellipse 
+9 "Eborae" 0.000000 0.000000 ellipse 
+10 "Bohmhammel" 0.000000 0.000000 ellipse 
+11 "Leithient" 0.000000 0.000000 ellipse 
+12 "Miguel Chong" 0.000000 0.000000 ellipse 
+13 "Avgvstvs" 0.000000 0.000000 ellipse 
+14 "SPS" 0.000000 0.000000 ellipse 
+15 "Sguerreros" 0.000000 0.000000 ellipse 
+16 "Ioshus_Rocchio" 0.000000 0.000000 ellipse 
+17 "Jpfw" 0.000000 0.000000 ellipse 
+18 "Dobryden" 0.000000 0.000000 ellipse 
+19 "BanjoMan" 0.000000 0.000000 ellipse 
+20 "Carbonix" 0.000000 0.000000 ellipse 
+21 "VirVerborum" 0.000000 0.000000 ellipse 
+22 "Scolasticus" 0.000000 0.000000 ellipse 
+23 "Nemonihil" 0.000000 0.000000 ellipse 
+24 "ممتاز" 0.000000 0.000000 ellipse 
+25 "Irus" 0.000000 0.000000 ellipse 
+26 "Bartholomeus" 0.000000 0.000000 ellipse 
+27 "Amphitrite" 0.000000 0.000000 ellipse 
+28 "Constantius" 0.000000 0.000000 ellipse 
+29 "InfernoXV" 0.000000 0.000000 ellipse 
+30 "Vu Duc Thang" 0.000000 0.000000 ellipse 
+31 "ErinGelesky" 0.000000 0.000000 ellipse 
+32 "Stefan.p21" 0.000000 0.000000 ellipse 
+33 "Sirala" 0.000000 0.000000 ellipse 
+34 "Magister equitum " 0.000000 0.000000 ellipse 
+35 "Bellemichelle" 0.000000 0.000000 ellipse 
+36 "Porcarius" 0.000000 0.000000 ellipse 
+37 "Fabio703" 0.000000 0.000000 ellipse 
+38 "Mnikh" 0.000000 0.000000 ellipse 
+39 "ThbdGrrd" 0.000000 0.000000 ellipse 
+40 "Jirai Gumo" 0.000000 0.000000 ellipse 
+41 "Werdan7" 0.000000 0.000000 ellipse 
+42 "Habemusluigi" 0.000000 0.000000 ellipse 
+43 "Dimitar Dragnev" 0.000000 0.000000 ellipse 
+44 "Trachina" 0.000000 0.000000 ellipse 
+45 "Airridi" 0.000000 0.000000 ellipse 
+46 "Gabriel Beecham" 0.000000 0.000000 ellipse 
+47 "Mingan" 0.000000 0.000000 ellipse 
+48 "1locs" 0.000000 0.000000 ellipse 
+49 "Symposiarch" 0.000000 0.000000 ellipse 
+50 "Ricardus" 0.000000 0.000000 ellipse 
+51 "Menelik3" 0.000000 0.000000 ellipse 
+52 "Etrüsk" 0.000000 0.000000 ellipse 
+53 "Obstructus" 0.000000 0.000000 ellipse 
+54 "EDUCA33E" 0.000000 0.000000 ellipse 
+55 "Ugon Harlejev" 0.000000 0.000000 ellipse 
+56 "Andry" 0.000000 0.000000 ellipse 
+57 "328cia" 0.000000 0.000000 ellipse 
+58 "Ckube3at" 0.000000 0.000000 ellipse 
+59 "Sobekneferu" 0.000000 0.000000 ellipse 
+60 "Martinvoll" 0.000000 0.000000 ellipse 
+61 "Koj" 0.000000 0.000000 ellipse 
+62 "Latinagranda" 0.000000 0.000000 ellipse 
+63 "Deodatus Agricolina" 0.000000 0.000000 ellipse 
+64 "Saruoh" 0.000000 0.000000 ellipse 
+65 "Mattheus Ianus" 0.000000 0.000000 ellipse 
+66 "Aekos" 0.000000 0.000000 ellipse 
+67 "Vallzoulou" 0.000000 0.000000 ellipse 
+68 "Didaskalos" 0.000000 0.000000 ellipse 
+69 "Danbury" 0.000000 0.000000 ellipse 
+70 "Xlegiofalco" 0.000000 0.000000 ellipse 
+71 "Vitito" 0.000000 0.000000 ellipse 
+72 "Nörgel" 0.000000 0.000000 ellipse 
+73 "Periergeia" 0.000000 0.000000 ellipse 
+74 "Ginosbot" 0.000000 0.000000 ellipse 
+75 "IVSTINVS" 0.000000 0.000000 ellipse 
+76 "YuanShikai" 0.000000 0.000000 ellipse 
+77 "Dtobias" 0.000000 0.000000 ellipse 
+78 "Steve Irwin" 0.000000 0.000000 ellipse 
+79 "Adam Episcopus" 0.000000 0.000000 ellipse 
+80 "Ste" 0.000000 0.000000 ellipse 
+81 "Nemo Occidaneus" 0.000000 0.000000 ellipse 
+82 "Ekrub-ntyh" 0.000000 0.000000 ellipse 
+83 "Georgeos Diaz-Montexano" 0.000000 0.000000 ellipse 
+84 "Flamevox" 0.000000 0.000000 ellipse 
+85 "Sk741" 0.000000 0.000000 ellipse 
+86 "Neander" 0.000000 0.000000 ellipse 
+87 "Ice201" 0.000000 0.000000 ellipse 
+88 "ModelIssue" 0.000000 0.000000 ellipse 
+89 "Maxima m" 0.000000 0.000000 ellipse 
+90 "Roamata" 0.000000 0.000000 ellipse 
+91 "Christianus" 0.000000 0.000000 ellipse 
+92 "D Ambulans" 0.000000 0.000000 ellipse 
+93 "IOHANNES DE SAXOMONTIUM" 0.000000 0.000000 ellipse 
+94 "Marinumbm" 0.000000 0.000000 ellipse 
+95 "Yuyu" 0.000000 0.000000 ellipse 
+96 "What？" 0.000000 0.000000 ellipse 
+97 "Blub-bla" 0.000000 0.000000 ellipse 
+98 "Sedecim-nonus" 0.000000 0.000000 ellipse 
+99 "Hiltfredus" 0.000000 0.000000 ellipse 
+100 "Lio" 0.000000 0.000000 ellipse 
+101 "Methodius" 0.000000 0.000000 ellipse 
+102 "Brian" 0.000000 0.000000 ellipse 
+103 "Panglossa" 0.000000 0.000000 ellipse 
+104 "Neq00" 0.000000 0.000000 ellipse 
+105 "Pollux" 0.000000 0.000000 ellipse 
+106 "Editor at Large" 0.000000 0.000000 ellipse 
+107 "Nebrascalvr" 0.000000 0.000000 ellipse 
+108 "Tobias K." 0.000000 0.000000 ellipse 
+109 "Sciptor" 0.000000 0.000000 ellipse 
+110 "Ziko" 0.000000 0.000000 ellipse 
+111 "Treanna" 0.000000 0.000000 ellipse 
+112 "Miranda" 0.000000 0.000000 ellipse 
+113 "NuclearWarhead" 0.000000 0.000000 ellipse 
+114 "Tiberis" 0.000000 0.000000 ellipse 
+115 "Oliverkroll" 0.000000 0.000000 ellipse 
+116 "Luv2ride926" 0.000000 0.000000 ellipse 
+117 "GRUNNIUS COROCOTTA" 0.000000 0.000000 ellipse 
+118 "Mehlhut" 0.000000 0.000000 ellipse 
+119 "Elmicko" 0.000000 0.000000 ellipse 
+120 "Diderot" 0.000000 0.000000 ellipse 
+121 "Cicero" 0.000000 0.000000 ellipse 
+122 "A. B." 0.000000 0.000000 ellipse 
+123 "Jorgejhms" 0.000000 0.000000 ellipse 
+124 "Zginder" 0.000000 0.000000 ellipse 
+125 "Magcf" 0.000000 0.000000 ellipse 
+126 "Aradic" 0.000000 0.000000 ellipse 
+127 "Billiot" 0.000000 0.000000 ellipse 
+128 "Nilfanion" 0.000000 0.000000 ellipse 
+129 "Jackgmitchell" 0.000000 0.000000 ellipse 
+130 "Kleiner Koreaner" 0.000000 0.000000 ellipse 
+131 "Jørn.Rudolph" 0.000000 0.000000 ellipse 
+132 "QuicksilverJohny" 0.000000 0.000000 ellipse 
+133 "Orange.man" 0.000000 0.000000 ellipse 
+134 "Y.E. Clément" 0.000000 0.000000 ellipse 
+135 "Mars412" 0.000000 0.000000 ellipse 
+136 "334a" 0.000000 0.000000 ellipse 
+137 "Matth" 0.000000 0.000000 ellipse 
+138 "Fferrante" 0.000000 0.000000 ellipse 
+139 "Ctibi" 0.000000 0.000000 ellipse 
+140 "Bff" 0.000000 0.000000 ellipse 
+141 "Jipre" 0.000000 0.000000 ellipse 
+142 "Mpozzi" 0.000000 0.000000 ellipse 
+143 "Seewolf" 0.000000 0.000000 ellipse 
+144 "Tridensneptuni" 0.000000 0.000000 ellipse 
+145 "Hebrides" 0.000000 0.000000 ellipse 
+146 "KakistocraticLawL" 0.000000 0.000000 ellipse 
+147 "HAMM" 0.000000 0.000000 ellipse 
+148 "Vanisaac" 0.000000 0.000000 ellipse 
+149 "Andronikos Komnenos" 0.000000 0.000000 ellipse 
+150 "Georgiana72" 0.000000 0.000000 ellipse 
+151 "Siebrand" 0.000000 0.000000 ellipse 
+152 "Gerbilo" 0.000000 0.000000 ellipse 
+153 "Oscarvr" 0.000000 0.000000 ellipse 
+154 "Roscchius P. Coltranus" 0.000000 0.000000 ellipse 
+155 "VolkovBot" 0.000000 0.000000 ellipse 
+156 "Drpagel" 0.000000 0.000000 ellipse 
+157 "Amicus" 0.000000 0.000000 ellipse 
+158 "Remigius Matheus" 0.000000 0.000000 ellipse 
+159 "Horatius" 0.000000 0.000000 ellipse 
+160 "Thorongil CVI" 0.000000 0.000000 ellipse 
+161 "Mercy" 0.000000 0.000000 ellipse 
+162 "Dieter Zoubek" 0.000000 0.000000 ellipse 
+163 "Contrapunctus" 0.000000 0.000000 ellipse 
+164 "Rex Nebrascorum" 0.000000 0.000000 ellipse 
+165 "DIEGO RICARDO PEREIRA" 0.000000 0.000000 ellipse 
+166 "N-Nachtigal" 0.000000 0.000000 ellipse 
+167 "Vituzzu" 0.000000 0.000000 ellipse 
+168 "Jeep1688" 0.000000 0.000000 ellipse 
+169 "Ronald Hartman" 0.000000 0.000000 ellipse 
+170 "Neta90" 0.000000 0.000000 ellipse 
+171 "Herodotus84" 0.000000 0.000000 ellipse 
+172 "BradKittenbrink" 0.000000 0.000000 ellipse 
+173 "Recitator" 0.000000 0.000000 ellipse 
+174 "IESVS" 0.000000 0.000000 ellipse 
+175 "Likeacatfromjapan" 0.000000 0.000000 ellipse 
+176 "Gaius Augustus" 0.000000 0.000000 ellipse 
+177 "Noumenon" 0.000000 0.000000 ellipse 
+178 "Sippel2707" 0.000000 0.000000 ellipse 
+179 "Jzung" 0.000000 0.000000 ellipse 
+180 "Matthias Gerth" 0.000000 0.000000 ellipse 
+181 "Nicolas59" 0.000000 0.000000 ellipse 
+182 "Martin Zahnd" 0.000000 0.000000 ellipse 
+183 "Domitilla168" 0.000000 0.000000 ellipse 
+184 "Leeheonjin" 0.000000 0.000000 ellipse 
+185 "Myces" 0.000000 0.000000 ellipse 
+186 "Edoardo" 0.000000 0.000000 ellipse 
+187 "AlbertoRaie" 0.000000 0.000000 ellipse 
+188 "Lord Hidelan" 0.000000 0.000000 ellipse 
+189 "Kurushimus" 0.000000 0.000000 ellipse 
+190 "Columella" 0.000000 0.000000 ellipse 
+191 "Penarc" 0.000000 0.000000 ellipse 
+192 "Ballista" 0.000000 0.000000 ellipse 
+193 "Paul foulquier" 0.000000 0.000000 ellipse 
+194 "Wars" 0.000000 0.000000 ellipse 
+195 "William" 0.000000 0.000000 ellipse 
+196 "Gidonb" 0.000000 0.000000 ellipse 
+197 "Bocianski" 0.000000 0.000000 ellipse 
+198 "Ghibodeus" 0.000000 0.000000 ellipse 
+199 "Apollo Augustus Ku" 0.000000 0.000000 ellipse 
+200 "Dan-Philipp" 0.000000 0.000000 ellipse 
+201 "Ego" 0.000000 0.000000 ellipse 
+202 "Usurpedaccount" 0.000000 0.000000 ellipse 
+203 "PullToOpen" 0.000000 0.000000 ellipse 
+204 "Jayvdb" 0.000000 0.000000 ellipse 
+205 "Ggonnell" 0.000000 0.000000 ellipse 
+206 "Barbarossa I" 0.000000 0.000000 ellipse 
+207 "Gabriel Svoboda" 0.000000 0.000000 ellipse 
+208 "Andrew_Dalby" 0.000000 0.000000 ellipse 
+209 "PRauda" 0.000000 0.000000 ellipse 
+210 "David traill" 0.000000 0.000000 ellipse 
+211 "Ojy" 0.000000 0.000000 ellipse 
+212 "Oat1996" 0.000000 0.000000 ellipse 
+213 "Destrict" 0.000000 0.000000 ellipse 
+214 "Alcides Flores" 0.000000 0.000000 ellipse 
+215 "Ioshus Rocchio" 0.000000 0.000000 ellipse 
+216 "Hic Vir" 0.000000 0.000000 ellipse 
+217 "My name" 0.000000 0.000000 ellipse 
+218 "Wortes" 0.000000 0.000000 ellipse 
+219 "Federicus" 0.000000 0.000000 ellipse 
+220 "Creative" 0.000000 0.000000 ellipse 
+221 "Dionysius simplex" 0.000000 0.000000 ellipse 
+222 "Tragedy710" 0.000000 0.000000 ellipse 
+223 "Isapdlg" 0.000000 0.000000 ellipse 
+224 "Dmvalio lat" 0.000000 0.000000 ellipse 
+225 "Jahiegel" 0.000000 0.000000 ellipse 
+226 "WikiDreamer Bot" 0.000000 0.000000 ellipse 
+227 "Quidam" 0.000000 0.000000 ellipse 
+228 "IanRacey" 0.000000 0.000000 ellipse 
+229 "Kerrymccue" 0.000000 0.000000 ellipse 
+230 "Mentula" 0.000000 0.000000 ellipse 
+231 "Shota" 0.000000 0.000000 ellipse 
+232 "Astyanax" 0.000000 0.000000 ellipse 
+233 "Rbrandao" 0.000000 0.000000 ellipse 
+234 "Besselfunctions" 0.000000 0.000000 ellipse 
+235 "Thomas Ruefner" 0.000000 0.000000 ellipse 
+236 "Aerin" 0.000000 0.000000 ellipse 
+237 "UrsusDCLXXIII" 0.000000 0.000000 ellipse 
+238 "Ptcamn" 0.000000 0.000000 ellipse 
+239 "Alexanderr" 0.000000 0.000000 ellipse 
+240 "Timpul" 0.000000 0.000000 ellipse 
+241 "Cratyx" 0.000000 0.000000 ellipse 
+242 "EgoSumBene" 0.000000 0.000000 ellipse 
+243 "Franciscus" 0.000000 0.000000 ellipse 
+244 "Ahincks" 0.000000 0.000000 ellipse 
+245 "Odium habeo in Ciceronem" 0.000000 0.000000 ellipse 
+246 "Mithridates" 0.000000 0.000000 ellipse 
+247 "Möchtegern" 0.000000 0.000000 ellipse 
+248 "Xario" 0.000000 0.000000 ellipse 
+249 "Dom. Aleksander" 0.000000 0.000000 ellipse 
+250 "DMIax" 0.000000 0.000000 ellipse 
+251 "Chdeppisch" 0.000000 0.000000 ellipse 
+252 "Maximilianus germanicus" 0.000000 0.000000 ellipse 
+253 "Ciconius Vinolentus" 0.000000 0.000000 ellipse 
+254 "CalRis25" 0.000000 0.000000 ellipse 
+255 "Georgius" 0.000000 0.000000 ellipse 
+256 "DaGizza" 0.000000 0.000000 ellipse 
+257 "Angela" 0.000000 0.000000 ellipse 
+258 "Norbu" 0.000000 0.000000 ellipse 
+259 "Pippus" 0.000000 0.000000 ellipse 
+260 "J-l.hazael-massieux" 0.000000 0.000000 ellipse 
+261 "Ioshus Rocchio#Theoria musicae" 0.000000 0.000000 ellipse 
+262 "Romina" 0.000000 0.000000 ellipse 
+263 "WHLing" 0.000000 0.000000 ellipse 
+264 "Lotic" 0.000000 0.000000 ellipse 
+265 "Thōmās" 0.000000 0.000000 ellipse 
+266 "Hgav" 0.000000 0.000000 ellipse 
+267 "Grammaticus" 0.000000 0.000000 ellipse 
+268 "SoothingR" 0.000000 0.000000 ellipse 
+269 "Abderitestatos" 0.000000 0.000000 ellipse 
+270 "Olegzima" 0.000000 0.000000 ellipse 
+271 "Alexander Pottus" 0.000000 0.000000 ellipse 
+272 "Kevinus" 0.000000 0.000000 ellipse 
+273 "BishkekRocks" 0.000000 0.000000 ellipse 
+274 "Ger0n!m0" 0.000000 0.000000 ellipse 
+275 "Zarfkitty" 0.000000 0.000000 ellipse 
+276 "Usome" 0.000000 0.000000 ellipse 
+277 "Samwaltz" 0.000000 0.000000 ellipse 
+278 "Brion VIBBER" 0.000000 0.000000 ellipse 
+279 "Nicephorus" 0.000000 0.000000 ellipse 
+280 "Wikicapursium" 0.000000 0.000000 ellipse 
+281 "Tangotango" 0.000000 0.000000 ellipse 
+282 "FAPerspiciens" 0.000000 0.000000 ellipse 
+283 "Iedda" 0.000000 0.000000 ellipse 
+284 "Timichal" 0.000000 0.000000 ellipse 
+285 "Alexandros" 0.000000 0.000000 ellipse 
+286 "Justinbb" 0.000000 0.000000 ellipse 
+287 "Acis" 0.000000 0.000000 ellipse 
+288 "Qvid.novi" 0.000000 0.000000 ellipse 
+289 "Alex1011" 0.000000 0.000000 ellipse 
+290 "Micheleciondolopapista" 0.000000 0.000000 ellipse 
+291 "Crom" 0.000000 0.000000 ellipse 
+292 "Askøy" 0.000000 0.000000 ellipse 
+293 "Glmuenter" 0.000000 0.000000 ellipse 
+294 "Brandmeister" 0.000000 0.000000 ellipse 
+295 "Finnicus" 0.000000 0.000000 ellipse 
+296 "GreaterLondon" 0.000000 0.000000 ellipse 
+297 "L'omo del batocio" 0.000000 0.000000 ellipse 
+298 "MarcelMelzer" 0.000000 0.000000 ellipse 
+299 "Avitus" 0.000000 0.000000 ellipse 
+300 "PAD" 0.000000 0.000000 ellipse 
+301 "BiT" 0.000000 0.000000 ellipse 
+302 "Phocoena Glauca" 0.000000 0.000000 ellipse 
+303 "Baronnet" 0.000000 0.000000 ellipse 
+304 "Teemu Maki" 0.000000 0.000000 ellipse 
+305 "Zcvl1991" 0.000000 0.000000 ellipse 
+306 "Chaddy" 0.000000 0.000000 ellipse 
+307 "SieBot" 0.000000 0.000000 ellipse 
+308 "Ukexpat" 0.000000 0.000000 ellipse 
+309 "Bepp" 0.000000 0.000000 ellipse 
+310 "K. Iuventius Philippius" 0.000000 0.000000 ellipse 
+311 "Brownout" 0.000000 0.000000 ellipse 
+312 "Boricuaeddie" 0.000000 0.000000 ellipse 
+313 "R.Veenman" 0.000000 0.000000 ellipse 
+314 "Josephus johannes" 0.000000 0.000000 ellipse 
+315 "Matilda" 0.000000 0.000000 ellipse 
+316 "Dextri" 0.000000 0.000000 ellipse 
+317 "Kenmayer" 0.000000 0.000000 ellipse 
+318 "Skvattram" 0.000000 0.000000 ellipse 
+319 "Ptyx" 0.000000 0.000000 ellipse 
+320 "Leporellus" 0.000000 0.000000 ellipse 
+321 "Mephistophilus" 0.000000 0.000000 ellipse 
+322 "Spiritus Eversor" 0.000000 0.000000 ellipse 
+323 "Jurpel" 0.000000 0.000000 ellipse 
+324 "Phranciscusmagnus" 0.000000 0.000000 ellipse 
+325 "Budelberger" 0.000000 0.000000 ellipse 
+326 "Numidix" 0.000000 0.000000 ellipse 
+327 "Golem Ryder" 0.000000 0.000000 ellipse 
+328 "Emachinest3256" 0.000000 0.000000 ellipse 
+329 "Codeispoetry" 0.000000 0.000000 ellipse 
+330 "MichaelReet" 0.000000 0.000000 ellipse 
+331 "Wikifex" 0.000000 0.000000 ellipse 
+332 "Carl Daniels" 0.000000 0.000000 ellipse 
+333 "Ulner" 0.000000 0.000000 ellipse 
+334 "Inferi redivivus" 0.000000 0.000000 ellipse 
+335 "Jeffq" 0.000000 0.000000 ellipse 
+336 "Ophiccius" 0.000000 0.000000 ellipse 
+337 "Maris stella" 0.000000 0.000000 ellipse 
+338 "Egmont" 0.000000 0.000000 ellipse 
+339 "Maximusaemilianus" 0.000000 0.000000 ellipse 
+340 "Matithyahu" 0.000000 0.000000 ellipse 
+341 "Renebeto" 0.000000 0.000000 ellipse 
+342 "Davide Tansini" 0.000000 0.000000 ellipse 
+343 "T. Gnaevus Faber" 0.000000 0.000000 ellipse 
+344 "Bardeluc" 0.000000 0.000000 ellipse 
+345 "Shadowfax" 0.000000 0.000000 ellipse 
+346 "Nodoubt9203" 0.000000 0.000000 ellipse 
+347 "Adamus Mathaeus Hungaricus" 0.000000 0.000000 ellipse 
+348 "Latinum" 0.000000 0.000000 ellipse 
+349 "ViskonBot" 0.000000 0.000000 ellipse 
+350 "EgmondEvers" 0.000000 0.000000 ellipse 
+351 "Sint Aldegonde" 0.000000 0.000000 ellipse 
+352 "LionhardusCiampa" 0.000000 0.000000 ellipse 
+353 "LLLex" 0.000000 0.000000 ellipse 
+354 "Junafani" 0.000000 0.000000 ellipse 
+355 "Marcus Venetivs" 0.000000 0.000000 ellipse 
+356 "Thetrvemoeschi" 0.000000 0.000000 ellipse 
+357 "Iacobus" 0.000000 0.000000 ellipse 
+358 "Omnesvulnerantun" 0.000000 0.000000 ellipse 
+359 "Sinister Petrus" 0.000000 0.000000 ellipse 
+360 "SimonaFergusson" 0.000000 0.000000 ellipse 
+361 "Nympha Tempestatis" 0.000000 0.000000 ellipse 
+362 "Volucris" 0.000000 0.000000 ellipse 
+363 "Fmdurazzo" 0.000000 0.000000 ellipse 
+364 "LkNsngth" 0.000000 0.000000 ellipse 
+365 "Peshe" 0.000000 0.000000 ellipse 
+366 "Gangleri" 0.000000 0.000000 ellipse 
+367 "Mkt.berlin88" 0.000000 0.000000 ellipse 
+368 "Regel" 0.000000 0.000000 ellipse 
+369 "Slade" 0.000000 0.000000 ellipse 
+370 "AleksG" 0.000000 0.000000 ellipse 
+371 "Geoffrey Calabria" 0.000000 0.000000 ellipse 
+372 "Mercator salvationis" 0.000000 0.000000 ellipse 
+373 "TheModernArdeo" 0.000000 0.000000 ellipse 
+374 "Atlan da Gonozal" 0.000000 0.000000 ellipse 
+375 "Baetulensis" 0.000000 0.000000 ellipse 
+376 "Davide21" 0.000000 0.000000 ellipse 
+377 "Antur" 0.000000 0.000000 ellipse 
+378 "Glutexo" 0.000000 0.000000 ellipse 
+379 "Fdepa7na" 0.000000 0.000000 ellipse 
+380 "Clayt" 0.000000 0.000000 ellipse 
+381 "Leo Belgicus" 0.000000 0.000000 ellipse 
+382 "Niels" 0.000000 0.000000 ellipse 
+383 "Edumig" 0.000000 0.000000 ellipse 
+384 "Franchus" 0.000000 0.000000 ellipse 
+385 "Rodrigobeltransuito" 0.000000 0.000000 ellipse 
+386 "Muñata" 0.000000 0.000000 ellipse 
+387 "Aurea" 0.000000 0.000000 ellipse 
+388 "Rufus" 0.000000 0.000000 ellipse 
+389 "Sinister_Petrus" 0.000000 0.000000 ellipse 
+390 "El Mexicano" 0.000000 0.000000 ellipse 
+391 "Cb" 0.000000 0.000000 ellipse 
+392 "Tuor" 0.000000 0.000000 ellipse 
+393 "Bacus15" 0.000000 0.000000 ellipse 
+394 "Kuiper" 0.000000 0.000000 ellipse 
+395 "Gratianus" 0.000000 0.000000 ellipse 
+396 "Kelovy" 0.000000 0.000000 ellipse 
+397 "Asymptotes" 0.000000 0.000000 ellipse 
+398 "Aeneaspius" 0.000000 0.000000 ellipse 
+399 "cerasus" 0.000000 0.000000 ellipse 
+400 "Lupusdei" 0.000000 0.000000 ellipse 
+401 "Laurentius Euricus Arceus Contrerasius" 0.000000 0.000000 ellipse 
+402 "Clgmlr" 0.000000 0.000000 ellipse 
+403 "Vercassivellaunus" 0.000000 0.000000 ellipse 
+404 "Ginosal" 0.000000 0.000000 ellipse 
+405 "Anguilla" 0.000000 0.000000 ellipse 
+406 "Royannès" 0.000000 0.000000 ellipse 
+407 "Kutkut16" 0.000000 0.000000 ellipse 
+408 "Schultz" 0.000000 0.000000 ellipse 
+409 "Tonyfroio" 0.000000 0.000000 ellipse 
+410 "Vitiza" 0.000000 0.000000 ellipse 
+411 "Izidor" 0.000000 0.000000 ellipse 
+412 "Vasthi" 0.000000 0.000000 ellipse 
+413 "Velvetron" 0.000000 0.000000 ellipse 
+414 "Synthebot" 0.000000 0.000000 ellipse 
+415 "CenozoicEra" 0.000000 0.000000 ellipse 
+416 "Gallina" 0.000000 0.000000 ellipse 
+417 "Panellet" 0.000000 0.000000 ellipse 
+418 "Nwolff.sdb" 0.000000 0.000000 ellipse 
+419 "Melhiors14" 0.000000 0.000000 ellipse 
+420 "Bac5665" 0.000000 0.000000 ellipse 
+421 "A-Taul" 0.000000 0.000000 ellipse 
+422 "SPQRobin" 0.000000 0.000000 ellipse 
+423 "Leohenrique0908" 0.000000 0.000000 ellipse 
+424 "Hyperboreanus" 0.000000 0.000000 ellipse 
+425 "Jebba" 0.000000 0.000000 ellipse 
+426 "Tobias Conradi" 0.000000 0.000000 ellipse 
+427 "Rex Latini" 0.000000 0.000000 ellipse 
+428 "Drae-Klae" 0.000000 0.000000 ellipse 
+429 "Adrian Comollo" 0.000000 0.000000 ellipse 
+430 "Muzhiq" 0.000000 0.000000 ellipse 
+431 "Iustinus" 0.000000 0.000000 ellipse 
+432 "Esteban97" 0.000000 0.000000 ellipse 
+433 "Stefano" 0.000000 0.000000 ellipse 
+434 "Haruspex" 0.000000 0.000000 ellipse 
+435 "Eubulides" 0.000000 0.000000 ellipse 
+436 "Mendax" 0.000000 0.000000 ellipse 
+437 "Firilacroco" 0.000000 0.000000 ellipse 
+438 "Gau" 0.000000 0.000000 ellipse 
+439 "Demetrius" 0.000000 0.000000 ellipse 
+440 "Clemensjohanneshaag" 0.000000 0.000000 ellipse 
+441 "Myce¯s" 0.000000 0.000000 ellipse 
+442 "Misterioso" 0.000000 0.000000 ellipse 
+443 "Agustinus I" 0.000000 0.000000 ellipse 
+444 "Iulius Caesar" 0.000000 0.000000 ellipse 
+445 "Mazito" 0.000000 0.000000 ellipse 
+446 "Slovenin" 0.000000 0.000000 ellipse 
+447 "Bepimela" 0.000000 0.000000 ellipse 
+448 "Jamartineztena" 0.000000 0.000000 ellipse 
+449 "Agriope" 0.000000 0.000000 ellipse 
+450 "Pepperoni e carciofi" 0.000000 0.000000 ellipse 
+451 "Wmdiem" 0.000000 0.000000 ellipse 
+452 "Vincde 15" 0.000000 0.000000 ellipse 
+453 "Tmi222" 0.000000 0.000000 ellipse 
+454 "André Oliva" 0.000000 0.000000 ellipse 
+455 "Kdehl" 0.000000 0.000000 ellipse 
+456 "Ovilavanus" 0.000000 0.000000 ellipse 
+457 "Holdshelp" 0.000000 0.000000 ellipse 
+458 "Ponchitus" 0.000000 0.000000 ellipse 
+459 "Bonicolli" 0.000000 0.000000 ellipse 
+460 "Max Terry" 0.000000 0.000000 ellipse 
+461 "Magister equitum" 0.000000 0.000000 ellipse 
+462 "HV" 0.000000 0.000000 ellipse 
+463 "Pius" 0.000000 0.000000 ellipse 
+464 "Ken123" 0.000000 0.000000 ellipse 
+465 "Vervictorio" 0.000000 0.000000 ellipse 
+466 "Newtrierlauracohen" 0.000000 0.000000 ellipse 
+467 "Sergei Zivukov" 0.000000 0.000000 ellipse 
+468 "Mathiasrex" 0.000000 0.000000 ellipse 
+469 "Linuxerist" 0.000000 0.000000 ellipse 
+470 "Riana" 0.000000 0.000000 ellipse 
+471 "Jinxuandi" 0.000000 0.000000 ellipse 
+472 "Zetaursae" 0.000000 0.000000 ellipse 
+473 "Blahma" 0.000000 0.000000 ellipse 
+474 "Kicior99" 0.000000 0.000000 ellipse 
+475 "Decius" 0.000000 0.000000 ellipse 
+476 "Davus618" 0.000000 0.000000 ellipse 
+477 "Sarefo" 0.000000 0.000000 ellipse 
+478 "Magnus Homo" 0.000000 0.000000 ellipse 
+479 "Cooljeanius" 0.000000 0.000000 ellipse 
+480 "Stephanus Leo Geranus" 0.000000 0.000000 ellipse 
+481 "Wiki La Wiki" 0.000000 0.000000 ellipse 
+482 "Tomisti" 0.000000 0.000000 ellipse 
+483 "Cn. Cornelius Lentulus" 0.000000 0.000000 ellipse 
+484 "Adamcervenka" 0.000000 0.000000 ellipse 
+485 "Rémih" 0.000000 0.000000 ellipse 
+486 "Koavf" 0.000000 0.000000 ellipse 
+487 "Eduardus" 0.000000 0.000000 ellipse 
+488 "Marccio Lima" 0.000000 0.000000 ellipse 
+489 "FridericusRex" 0.000000 0.000000 ellipse 
+490 "Bonza" 0.000000 0.000000 ellipse 
+491 "Amalia" 0.000000 0.000000 ellipse 
+492 "Tomensnaben" 0.000000 0.000000 ellipse 
+493 "FiriBot" 0.000000 0.000000 ellipse 
+494 "Hoopydink" 0.000000 0.000000 ellipse 
+495 "Henricus Pelagius" 0.000000 0.000000 ellipse 
+496 "Constantine" 0.000000 0.000000 ellipse 
+497 "Zathras" 0.000000 0.000000 ellipse 
+498 "Jackmitchell" 0.000000 0.000000 ellipse 
+499 "JPense" 0.000000 0.000000 ellipse 
+500 "Caoru sacumia" 0.000000 0.000000 ellipse 
+501 "Alex Down" 0.000000 0.000000 ellipse 
+502 "Santi Arbós" 0.000000 0.000000 ellipse 
+503 "Magistermagis" 0.000000 0.000000 ellipse 
+504 "Dietrich" 0.000000 0.000000 ellipse 
+505 "Schnoeselmaschine" 0.000000 0.000000 ellipse 
+506 "榎" 0.000000 0.000000 ellipse 
+507 "Raphdvoj" 0.000000 0.000000 ellipse 
+508 "StigBot" 0.000000 0.000000 ellipse 
+509 "Aurelius" 0.000000 0.000000 ellipse 
+510 "Saforrest" 0.000000 0.000000 ellipse 
+511 "Niallus" 0.000000 0.000000 ellipse 
+512 "Thomas W." 0.000000 0.000000 ellipse 
+513 "Johann_Wolfgang" 0.000000 0.000000 ellipse 
+514 "Howcheng" 0.000000 0.000000 ellipse 
+515 "Laurentius" 0.000000 0.000000 ellipse 
+516 "TottyBot" 0.000000 0.000000 ellipse 
+517 "Ian Merrill" 0.000000 0.000000 ellipse 
+518 "Viele-baeren" 0.000000 0.000000 ellipse 
+519 "Ariannucciala" 0.000000 0.000000 ellipse 
+520 "Caesarion" 0.000000 0.000000 ellipse 
+521 "Dejudicibus" 0.000000 0.000000 ellipse 
+522 "Hunchoming" 0.000000 0.000000 ellipse 
+523 "Almamater" 0.000000 0.000000 ellipse 
+524 "Sempronius Tyro" 0.000000 0.000000 ellipse 
+525 "MosheA" 0.000000 0.000000 ellipse 
+526 "Abyssus" 0.000000 0.000000 ellipse 
+527 "Carlossuarez46" 0.000000 0.000000 ellipse 
+528 "Breymayer" 0.000000 0.000000 ellipse 
+529 "Tuvic" 0.000000 0.000000 ellipse 
+530 "Archaeologus" 0.000000 0.000000 ellipse 
+531 "Magreyn" 0.000000 0.000000 ellipse 
+532 "Thecurran" 0.000000 0.000000 ellipse 
+533 "Dalibor Bosits" 0.000000 0.000000 ellipse 
+534 "Veneficus" 0.000000 0.000000 ellipse 
+535 "Kalajoki" 0.000000 0.000000 ellipse 
+536 "Emijrp" 0.000000 0.000000 ellipse 
+537 "Vrlpep 12552" 0.000000 0.000000 ellipse 
+538 "Tirvos7" 0.000000 0.000000 ellipse 
+539 "Euniana" 0.000000 0.000000 ellipse 
+540 "Gundisalvus Xerezensis" 0.000000 0.000000 ellipse 
+541 "IllamDicam" 0.000000 0.000000 ellipse 
+542 "Alektryon" 0.000000 0.000000 ellipse 
+543 "Kikadue" 0.000000 0.000000 ellipse 
+544 "Radjewwj" 0.000000 0.000000 ellipse 
+545 "Hana a go go" 0.000000 0.000000 ellipse 
+546 "Dwo" 0.000000 0.000000 ellipse 
+547 "Polaris999" 0.000000 0.000000 ellipse 
+548 "Andrew" 0.000000 0.000000 ellipse 
+549 "Bernardus" 0.000000 0.000000 ellipse 
+550 "Jsreed5" 0.000000 0.000000 ellipse 
+551 "AnonMoos" 0.000000 0.000000 ellipse 
+552 "Viele-baerenbot" 0.000000 0.000000 ellipse 
+553 "Andys" 0.000000 0.000000 ellipse 
+554 "Paniac15" 0.000000 0.000000 ellipse 
+555 "Vlada" 0.000000 0.000000 ellipse 
+556 "Pere prlpz" 0.000000 0.000000 ellipse 
+557 "Sigmundg" 0.000000 0.000000 ellipse 
+558 "Mr Funkypants" 0.000000 0.000000 ellipse 
+559 "Sombre" 0.000000 0.000000 ellipse 
+560 "Lucianus Pictator" 0.000000 0.000000 ellipse 
+561 "Bakaid" 0.000000 0.000000 ellipse 
+562 "Rwflamingus" 0.000000 0.000000 ellipse 
+563 "Finnrind" 0.000000 0.000000 ellipse 
+564 "Rex rotus ibiulum" 0.000000 0.000000 ellipse 
+565 "Retterama" 0.000000 0.000000 ellipse 
+566 "Ioscius_Rocchius" 0.000000 0.000000 ellipse 
+567 "Adamas" 0.000000 0.000000 ellipse 
+568 "Tenkin" 0.000000 0.000000 ellipse 
+569 "DragonBot" 0.000000 0.000000 ellipse 
+570 "Restinpeace54" 0.000000 0.000000 ellipse 
+571 "Frenchie" 0.000000 0.000000 ellipse 
+572 "Kanjoku" 0.000000 0.000000 ellipse 
+573 "Pheb" 0.000000 0.000000 ellipse 
+574 "Space mulus" 0.000000 0.000000 ellipse 
+575 ".anaconda" 0.000000 0.000000 ellipse 
+576 "Sroulik" 0.000000 0.000000 ellipse 
+577 "AndrewNJ" 0.000000 0.000000 ellipse 
+578 "Paiev" 0.000000 0.000000 ellipse 
+579 "Commment" 0.000000 0.000000 ellipse 
+580 "Sabilonia" 0.000000 0.000000 ellipse 
+581 "Legbatterij-Argonautica" 0.000000 0.000000 ellipse 
+582 "Tarotarotaro" 0.000000 0.000000 ellipse 
+583 "Coreiusdraco" 0.000000 0.000000 ellipse 
+584 "Islandazi" 0.000000 0.000000 ellipse 
+585 "Jofeu" 0.000000 0.000000 ellipse 
+586 "Didacus" 0.000000 0.000000 ellipse 
+587 "$traigt-$hoota" 0.000000 0.000000 ellipse 
+588 "Elborgo" 0.000000 0.000000 ellipse 
+589 "FortHuntington" 0.000000 0.000000 ellipse 
+590 "Paulusradkus" 0.000000 0.000000 ellipse 
+591 "Gnarl" 0.000000 0.000000 ellipse 
+592 "Tharoth" 0.000000 0.000000 ellipse 
+593 "Sebesta" 0.000000 0.000000 ellipse 
+594 "Alexander Potest" 0.000000 0.000000 ellipse 
+595 "Wyohan" 0.000000 0.000000 ellipse 
+596 "Pistache" 0.000000 0.000000 ellipse 
+597 "General-Osiris" 0.000000 0.000000 ellipse 
+598 "Potitusumrerum" 0.000000 0.000000 ellipse 
+599 "Bsm15" 0.000000 0.000000 ellipse 
+600 "Marcus Magus" 0.000000 0.000000 ellipse 
+601 "Martkos" 0.000000 0.000000 ellipse 
+602 "Mik3spot" 0.000000 0.000000 ellipse 
+603 "Amor a Roma" 0.000000 0.000000 ellipse 
+604 "Eccehomo" 0.000000 0.000000 ellipse 
+605 "Arges" 0.000000 0.000000 ellipse 
+606 "Kerberosdelhades" 0.000000 0.000000 ellipse 
+607 "Pedro Nonualco" 0.000000 0.000000 ellipse 
+608 "Bersl2" 0.000000 0.000000 ellipse 
+609 "Crux" 0.000000 0.000000 ellipse 
+610 "Rana philogeographica" 0.000000 0.000000 ellipse 
+611 "Irenaeus" 0.000000 0.000000 ellipse 
+612 "Bjankuloski06la" 0.000000 0.000000 ellipse 
+613 "Spiliotopoulos dimitris" 0.000000 0.000000 ellipse 
+614 "Matthias 144" 0.000000 0.000000 ellipse 
+615 "Redfalcon" 0.000000 0.000000 ellipse 
+616 "Thijs!bot" 0.000000 0.000000 ellipse 
+617 "Millbot" 0.000000 0.000000 ellipse 
+618 "Lladinwrbach" 0.000000 0.000000 ellipse 
+619 "Bastique" 0.000000 0.000000 ellipse 
+620 "Sahmeditor" 0.000000 0.000000 ellipse 
+621 "Andreas Müller" 0.000000 0.000000 ellipse 
+622 "Geitost" 0.000000 0.000000 ellipse 
+623 "Haza-w" 0.000000 0.000000 ellipse 
+624 "Buscodiensis" 0.000000 0.000000 ellipse 
+625 "Paulus7" 0.000000 0.000000 ellipse 
+626 "Zickzack" 0.000000 0.000000 ellipse 
+627 "Nathaig" 0.000000 0.000000 ellipse 
+628 "Suisui" 0.000000 0.000000 ellipse 
+629 "Eric Shalov" 0.000000 0.000000 ellipse 
+630 "Francesco" 0.000000 0.000000 ellipse 
+631 "IVLIVS" 0.000000 0.000000 ellipse 
+632 "Eusebiopn" 0.000000 0.000000 ellipse 
+633 "Conniechengnt" 0.000000 0.000000 ellipse 
+634 "Crushti" 0.000000 0.000000 ellipse 
+635 "Greenwavepi" 0.000000 0.000000 ellipse 
+636 "BotMultichill" 0.000000 0.000000 ellipse 
+637 "Ćwiklińsky" 0.000000 0.000000 ellipse 
+638 "SALMANASSAR II REX" 0.000000 0.000000 ellipse 
+639 "Andy120" 0.000000 0.000000 ellipse 
+640 "Henriquecebola" 0.000000 0.000000 ellipse 
+641 "Jeneme" 0.000000 0.000000 ellipse 
+642 "Mycēs" 0.000000 0.000000 ellipse 
+643 "Chaemera" 0.000000 0.000000 ellipse 
+644 "Alex Potts" 0.000000 0.000000 ellipse 
+645 "Rnajera" 0.000000 0.000000 ellipse 
+646 "Clamengh" 0.000000 0.000000 ellipse 
+647 "Effeietsanders" 0.000000 0.000000 ellipse 
+648 "GastelEtzwane" 0.000000 0.000000 ellipse 
+649 "Shez 16" 0.000000 0.000000 ellipse 
+650 "Andy85719" 0.000000 0.000000 ellipse 
+651 "JustSwim" 0.000000 0.000000 ellipse 
+652 "Storeye" 0.000000 0.000000 ellipse 
+653 "Franciscus Xaverius" 0.000000 0.000000 ellipse 
+654 "Corvus Boreae" 0.000000 0.000000 ellipse 
+655 "Xanthos" 0.000000 0.000000 ellipse 
+656 "Dharbigt" 0.000000 0.000000 ellipse 
+657 "JackBritz" 0.000000 0.000000 ellipse 
+658 "MMN" 0.000000 0.000000 ellipse 
+659 "Antoaninho" 0.000000 0.000000 ellipse 
+660 "Abaz" 0.000000 0.000000 ellipse 
+661 "Screen stalker" 0.000000 0.000000 ellipse 
+662 "Greengirl09" 0.000000 0.000000 ellipse 
+663 "Cristixav" 0.000000 0.000000 ellipse 
+664 "Alter Fritz" 0.000000 0.000000 ellipse 
+665 "SoloTitano" 0.000000 0.000000 ellipse 
+666 "Tximist" 0.000000 0.000000 ellipse 
+667 "Tricialana" 0.000000 0.000000 ellipse 
+668 "Axezz" 0.000000 0.000000 ellipse 
+669 "Tedius Zanarukando" 0.000000 0.000000 ellipse 
+670 "Johney" 0.000000 0.000000 ellipse 
+671 "Robin Hood" 0.000000 0.000000 ellipse 
+672 "Aphaia" 0.000000 0.000000 ellipse 
+673 "Okarina" 0.000000 0.000000 ellipse 
+674 "Vcelloho" 0.000000 0.000000 ellipse 
+675 "Strattonshire" 0.000000 0.000000 ellipse 
+676 "Marcus Terentius Bibliophilus" 0.000000 0.000000 ellipse 
+677 "Le K-li" 0.000000 0.000000 ellipse 
+678 "Caesaramissus" 0.000000 0.000000 ellipse 
+679 "Alimicia985" 0.000000 0.000000 ellipse 
+680 "André Müller" 0.000000 0.000000 ellipse 
+681 "Domhail" 0.000000 0.000000 ellipse 
+682 "J'raxis" 0.000000 0.000000 ellipse 
+683 "Godsavethequeen" 0.000000 0.000000 ellipse 
+684 "Uri" 0.000000 0.000000 ellipse 
+685 "Loricapilum" 0.000000 0.000000 ellipse 
+686 "Metallica`s biggest fan" 0.000000 0.000000 ellipse 
+687 "Meno25" 0.000000 0.000000 ellipse 
+688 "RuszkiHos" 0.000000 0.000000 ellipse 
+689 "Fabius Graecus" 0.000000 0.000000 ellipse 
+690 "Thanatosimii" 0.000000 0.000000 ellipse 
+691 "odrigobeltransuito" 0.000000 0.000000 ellipse 
+692 "Interlingua" 0.000000 0.000000 ellipse 
+693 "Mardilius" 0.000000 0.000000 ellipse 
+694 "Aeolus5" 0.000000 0.000000 ellipse 
+695 "YourEyesOnly" 0.000000 0.000000 ellipse 
+696 "Steventity" 0.000000 0.000000 ellipse 
+697 "FerrousWolf" 0.000000 0.000000 ellipse 
+698 "Sarazyn" 0.000000 0.000000 ellipse 
+699 "Meditari" 0.000000 0.000000 ellipse 
+700 "Ioscius" 0.000000 0.000000 ellipse 
+701 "Numitor" 0.000000 0.000000 ellipse 
+702 "Vanrechem" 0.000000 0.000000 ellipse 
+703 "Echemus" 0.000000 0.000000 ellipse 
+704 "Thesaurus" 0.000000 0.000000 ellipse 
+705 "Eliz81" 0.000000 0.000000 ellipse 
+706 "Alèxandros" 0.000000 0.000000 ellipse 
+707 "Fraterhugo" 0.000000 0.000000 ellipse 
+708 "Accurimbono" 0.000000 0.000000 ellipse 
+709 "Cenobite" 0.000000 0.000000 ellipse 
+710 "Bogitor" 0.000000 0.000000 ellipse 
+711 "Fg68at" 0.000000 0.000000 ellipse 
+712 "Claudiusgiomini" 0.000000 0.000000 ellipse 
+713 "Jecowa" 0.000000 0.000000 ellipse 
+714 "Hégésippe Cormier" 0.000000 0.000000 ellipse 
+715 "AtilimGunesBaydin" 0.000000 0.000000 ellipse 
+716 "HOTMAILcity" 0.000000 0.000000 ellipse 
+717 "OekelWm" 0.000000 0.000000 ellipse 
+718 "Carkuni" 0.000000 0.000000 ellipse 
+719 "Guillauminus" 0.000000 0.000000 ellipse 
+720 "El Mexicano-SUL" 0.000000 0.000000 ellipse 
+721 "GiovaneScuola2006" 0.000000 0.000000 ellipse 
+722 "Cimmerianus" 0.000000 0.000000 ellipse 
+723 "鳳凰天翔" 0.000000 0.000000 ellipse 
+724 "Jules Kuiper" 0.000000 0.000000 ellipse 
+725 "Nickm57" 0.000000 0.000000 ellipse 
+726 "Hanseaticus" 0.000000 0.000000 ellipse 
+727 "Wento" 0.000000 0.000000 ellipse 
+728 "SpeedOfSound" 0.000000 0.000000 ellipse 
+729 "Alcman" 0.000000 0.000000 ellipse 
+730 "Sapiens23" 0.000000 0.000000 ellipse 
+731 "Lycaon" 0.000000 0.000000 ellipse 
+732 "Christobaldus" 0.000000 0.000000 ellipse 
+733 "Quistnix" 0.000000 0.000000 ellipse 
+734 "Cdcarter" 0.000000 0.000000 ellipse 
+735 "Teksing" 0.000000 0.000000 ellipse 
+736 "Valeria" 0.000000 0.000000 ellipse 
+737 "Addax" 0.000000 0.000000 ellipse 
+738 "Benphillips" 0.000000 0.000000 ellipse 
+739 "Marnap" 0.000000 0.000000 ellipse 
+740 "Glycon" 0.000000 0.000000 ellipse 
+741 "Cengiz" 0.000000 0.000000 ellipse 
+742 "Severina" 0.000000 0.000000 ellipse 
+743 "Sipalius" 0.000000 0.000000 ellipse 
+744 "OrbiliusMagister" 0.000000 0.000000 ellipse 
+745 "Makoto5" 0.000000 0.000000 ellipse 
+746 "Eckhart Triebel" 0.000000 0.000000 ellipse 
+747 "Haxor Petrus" 0.000000 0.000000 ellipse 
+748 "Martinor" 0.000000 0.000000 ellipse 
+749 "V79benno" 0.000000 0.000000 ellipse 
+750 "Aph" 0.000000 0.000000 ellipse 
+751 "Antonella Lignani" 0.000000 0.000000 ellipse 
+752 "Ovid688" 0.000000 0.000000 ellipse 
+753 "Ejeytijera" 0.000000 0.000000 ellipse 
+754 "Fernadopozomx" 0.000000 0.000000 ellipse 
+755 "Michał" 0.000000 0.000000 ellipse 
+756 "Girdi" 0.000000 0.000000 ellipse 
+757 "Shanechane" 0.000000 0.000000 ellipse 
+758 "Vespasianus" 0.000000 0.000000 ellipse 
+759 "Bbx" 0.000000 0.000000 ellipse 
+760 "Filippo2192" 0.000000 0.000000 ellipse 
+761 "Disdero" 0.000000 0.000000 ellipse 
+762 "Assyrius Luciferianus" 0.000000 0.000000 ellipse 
+763 "Pirate" 0.000000 0.000000 ellipse 
+764 "Diamond" 0.000000 0.000000 ellipse 
+765 "Pythagoras" 0.000000 0.000000 ellipse 
+766 "Mutichou" 0.000000 0.000000 ellipse 
+767 "Widconroy" 0.000000 0.000000 ellipse 
+768 "Darev" 0.000000 0.000000 ellipse 
+769 "Interwiki de" 0.000000 0.000000 ellipse 
+770 "Michel Mapaliey" 0.000000 0.000000 ellipse 
+771 "Lupambulus" 0.000000 0.000000 ellipse 
+772 "Hubertus45" 0.000000 0.000000 ellipse 
+773 "Ego quoque" 0.000000 0.000000 ellipse 
+774 "Neptunitridens" 0.000000 0.000000 ellipse 
+775 "Rakela" 0.000000 0.000000 ellipse 
+776 "Senator Patrizius" 0.000000 0.000000 ellipse 
+777 "Bondke" 0.000000 0.000000 ellipse 
+778 "Er Komandante" 0.000000 0.000000 ellipse 
+779 "Kresspahl" 0.000000 0.000000 ellipse 
+780 "Zio Sam" 0.000000 0.000000 ellipse 
+781 "Iulianus" 0.000000 0.000000 ellipse 
+782 "Z°" 0.000000 0.000000 ellipse 
+783 "PDD" 0.000000 0.000000 ellipse 
+784 "Julian Mendez" 0.000000 0.000000 ellipse 
+785 "TimothyChenAllen" 0.000000 0.000000 ellipse 
+786 "NeacusHaerus" 0.000000 0.000000 ellipse 
+787 "Charmion" 0.000000 0.000000 ellipse 
+788 "EVula" 0.000000 0.000000 ellipse 
+789 "Concord" 0.000000 0.000000 ellipse 
+790 "Dominvs" 0.000000 0.000000 ellipse 
+791 "Gregor Kneussel" 0.000000 0.000000 ellipse 
+792 "Aristocrat" 0.000000 0.000000 ellipse 
+793 "ViciBelga" 0.000000 0.000000 ellipse 
+794 "Tevye latin" 0.000000 0.000000 ellipse 
+795 "Jaime v torres heredia" 0.000000 0.000000 ellipse 
+796 "Scriptor Texatis" 0.000000 0.000000 ellipse 
+797 "Valentino Ciccocioppo" 0.000000 0.000000 ellipse 
+798 "Marc mage" 0.000000 0.000000 ellipse 
+799 "Fabullus" 0.000000 0.000000 ellipse 
+800 "Patricius" 0.000000 0.000000 ellipse 
+801 "ZorroIII" 0.000000 0.000000 ellipse 
+802 "Iohannes Malleus" 0.000000 0.000000 ellipse 
+803 "AdeMatt" 0.000000 0.000000 ellipse 
+804 "Nicolas17" 0.000000 0.000000 ellipse 
+805 "Amphytrite" 0.000000 0.000000 ellipse 
+806 "Satesclop" 0.000000 0.000000 ellipse 
+807 "Itsmine" 0.000000 0.000000 ellipse 
+808 "Ehjort" 0.000000 0.000000 ellipse 
+809 "Studens007" 0.000000 0.000000 ellipse 
+810 "Momo" 0.000000 0.000000 ellipse 
+811 "Germanicus" 0.000000 0.000000 ellipse 
+812 "Jon Harald Søby" 0.000000 0.000000 ellipse 
+813 "Wayne's Quicky Lube" 0.000000 0.000000 ellipse 
+814 "VanBot" 0.000000 0.000000 ellipse 
+815 "Matriz De Dolor" 0.000000 0.000000 ellipse 
+816 "Stéphane Voyer" 0.000000 0.000000 ellipse 
+817 "Patrickneil" 0.000000 0.000000 ellipse 
+818 "AJM" 0.000000 0.000000 ellipse 
+819 "Razorflame" 0.000000 0.000000 ellipse 
+820 "Beda venerabilis" 0.000000 0.000000 ellipse 
+821 "Giuglio" 0.000000 0.000000 ellipse 
+822 "Gaetulius" 0.000000 0.000000 ellipse 
+823 "Tiberti" 0.000000 0.000000 ellipse 
+824 "Cometstyles" 0.000000 0.000000 ellipse 
+825 "Lolownia" 0.000000 0.000000 ellipse 
+826 "Manuel Trujillo Berges" 0.000000 0.000000 ellipse 
+827 "J-ishikawa" 0.000000 0.000000 ellipse 
+828 "Analeigh" 0.000000 0.000000 ellipse 
+829 "AndreasPraefcke" 0.000000 0.000000 ellipse 
+830 "Primus Agustus Magnus" 0.000000 0.000000 ellipse 
+831 "Mr. Tickles" 0.000000 0.000000 ellipse 
+832 "Stemel" 0.000000 0.000000 ellipse 
+833 "Freddyballo" 0.000000 0.000000 ellipse 
+834 "Laurentus" 0.000000 0.000000 ellipse 
+835 "Mogle" 0.000000 0.000000 ellipse 
+836 "HerbaDulcis" 0.000000 0.000000 ellipse 
+837 "Rttrt" 0.000000 0.000000 ellipse 
+838 "Rusticus" 0.000000 0.000000 ellipse 
+839 "Juliannus" 0.000000 0.000000 ellipse 
+840 "J Doomen" 0.000000 0.000000 ellipse 
+841 "Eyrolles" 0.000000 0.000000 ellipse 
+842 "Parra" 0.000000 0.000000 ellipse 
+843 "International Baby Raping Society" 0.000000 0.000000 ellipse 
+844 "SizarieldoR" 0.000000 0.000000 ellipse 
+845 "Euku" 0.000000 0.000000 ellipse 
+846 "Framhein" 0.000000 0.000000 ellipse 
+847 "Mortein" 0.000000 0.000000 ellipse 
+848 "Limetom" 0.000000 0.000000 ellipse 
+849 "ThomasEspy" 0.000000 0.000000 ellipse 
+850 "Cpfevereiro" 0.000000 0.000000 ellipse 
+851 "Hesiod" 0.000000 0.000000 ellipse 
+852 "Jeff" 0.000000 0.000000 ellipse 
+853 "Theodericus Niger" 0.000000 0.000000 ellipse 
+854 "Caponer" 0.000000 0.000000 ellipse 
+855 "Bradgib" 0.000000 0.000000 ellipse 
+856 "Stevewashburn" 0.000000 0.000000 ellipse 
+857 "Roland2" 0.000000 0.000000 ellipse 
+858 "Hall1901" 0.000000 0.000000 ellipse 
+859 "Diegogrez" 0.000000 0.000000 ellipse 
+860 "Regina clara" 0.000000 0.000000 ellipse 
+861 "Jatrobat" 0.000000 0.000000 ellipse 
+862 "Darkcat21" 0.000000 0.000000 ellipse 
+863 "Romulus Vercingetorix" 0.000000 0.000000 ellipse 
+864 "Petrus Albertus Iunius" 0.000000 0.000000 ellipse 
+865 "Christopherfair" 0.000000 0.000000 ellipse 
+866 "Rexgustav" 0.000000 0.000000 ellipse 
+867 "Ingratus" 0.000000 0.000000 ellipse 
+868 "Dch" 0.000000 0.000000 ellipse 
+869 "Flavianus Evaristus Pirici" 0.000000 0.000000 ellipse 
+870 "Flauius Claudius Iulianus" 0.000000 0.000000 ellipse 
+871 "Jirka" 0.000000 0.000000 ellipse 
+872 "Aedyss" 0.000000 0.000000 ellipse 
+873 "Codice1000.la" 0.000000 0.000000 ellipse 
+874 "David Carolinus" 0.000000 0.000000 ellipse 
+875 "Titus Tatius" 0.000000 0.000000 ellipse 
+876 "Picus viridis" 0.000000 0.000000 ellipse 
+877 "Sariel Xavier" 0.000000 0.000000 ellipse 
+878 "Bill Thayer" 0.000000 0.000000 ellipse 
+879 "Kartin" 0.000000 0.000000 ellipse 
+880 "Tryforceful" 0.000000 0.000000 ellipse 
+881 "4m4z1ng" 0.000000 0.000000 ellipse 
+882 "Wwooter" 0.000000 0.000000 ellipse 
+883 "Eduardo Costa" 0.000000 0.000000 ellipse 
+884 "Algenib" 0.000000 0.000000 ellipse 
+885 "LERK" 0.000000 0.000000 ellipse 
+886 "Enricus" 0.000000 0.000000 ellipse 
+887 "Montivagus" 0.000000 0.000000 ellipse 
+888 "Fellicita" 0.000000 0.000000 ellipse 
+889 "WikiDreamer" 0.000000 0.000000 ellipse 
+890 "Sokabs" 0.000000 0.000000 ellipse 
+891 "Gosr87" 0.000000 0.000000 ellipse 
+892 "JASpencer" 0.000000 0.000000 ellipse 
+893 "Rogerius3" 0.000000 0.000000 ellipse 
+894 "Horatius Velmont" 0.000000 0.000000 ellipse 
+895 "Stan Shebs" 0.000000 0.000000 ellipse 
+896 "Adeptus" 0.000000 0.000000 ellipse 
+897 "Rational thinker" 0.000000 0.000000 ellipse 
+898 "Tjodhild" 0.000000 0.000000 ellipse 
+899 "AquilaTeRego" 0.000000 0.000000 ellipse 
+900 "Vincehad57" 0.000000 0.000000 ellipse 
+901 "Karasjaa" 0.000000 0.000000 ellipse 
+902 "Pail" 0.000000 0.000000 ellipse 
+903 "Sportula" 0.000000 0.000000 ellipse 
+904 "Tylar" 0.000000 0.000000 ellipse 
+905 "Julian.cancino" 0.000000 0.000000 ellipse 
+906 "Zidel333" 0.000000 0.000000 ellipse 
+907 "Nomad" 0.000000 0.000000 ellipse 
+908 "Ugly And Obedient Sheep" 0.000000 0.000000 ellipse 
+909 "Cupivistine Noscere?" 0.000000 0.000000 ellipse 
+910 "Ioannites" 0.000000 0.000000 ellipse 
+911 "Robert E. Masznicz" 0.000000 0.000000 ellipse 
+912 "Hendricus" 0.000000 0.000000 ellipse 
+913 "Spoff" 0.000000 0.000000 ellipse 
+914 "Peteranthony" 0.000000 0.000000 ellipse 
+915 "Wotorix" 0.000000 0.000000 ellipse 
+916 "IMP·C·IVLIVS·CAESAR·DIVVS" 0.000000 0.000000 ellipse 
+917 "Gef756" 0.000000 0.000000 ellipse 
+918 "Aholtman" 0.000000 0.000000 ellipse 
+919 "Passera" 0.000000 0.000000 ellipse 
+920 "Ranthrock" 0.000000 0.000000 ellipse 
+921 "Mashiah Davidson" 0.000000 0.000000 ellipse 
+922 "Peksus" 0.000000 0.000000 ellipse 
+923 "Tbook" 0.000000 0.000000 ellipse 
+924 "Metju" 0.000000 0.000000 ellipse 
+925 "Airf" 0.000000 0.000000 ellipse 
+926 "Szalakóta" 0.000000 0.000000 ellipse 
+927 "Andreas326" 0.000000 0.000000 ellipse 
+928 "MarKar" 0.000000 0.000000 ellipse 
+929 "Glelli" 0.000000 0.000000 ellipse 
+930 "Undegaussable" 0.000000 0.000000 ellipse 
+931 "Boivie" 0.000000 0.000000 ellipse 
+932 "AndonicO" 0.000000 0.000000 ellipse 
+933 "Venturius" 0.000000 0.000000 ellipse 
+934 "Lacertus" 0.000000 0.000000 ellipse 
+935 "Jasperdoomen" 0.000000 0.000000 ellipse 
+936 "Flavius Basiliscus" 0.000000 0.000000 ellipse 
+937 "Carlomorino" 0.000000 0.000000 ellipse 
+938 "Fagairolles 34" 0.000000 0.000000 ellipse 
+939 "Lefairhum" 0.000000 0.000000 ellipse 
+940 "Lūcifer" 0.000000 0.000000 ellipse 
+941 "The Doc" 0.000000 0.000000 ellipse 
+942 "Bolo1729" 0.000000 0.000000 ellipse 
+943 "Jackson070792" 0.000000 0.000000 ellipse 
+944 "Cunctator" 0.000000 0.000000 ellipse 
+945 "Tonkeli" 0.000000 0.000000 ellipse 
+946 "Gustavocarra" 0.000000 0.000000 ellipse 
+947 "Gulielmus Rotellus" 0.000000 0.000000 ellipse 
+948 "Alensha" 0.000000 0.000000 ellipse 
+949 "Fau.li" 0.000000 0.000000 ellipse 
+950 "Mafrius" 0.000000 0.000000 ellipse 
+951 "Bavo" 0.000000 0.000000 ellipse 
+952 "Poster99" 0.000000 0.000000 ellipse 
+953 "Luciantodoran" 0.000000 0.000000 ellipse 
+954 "Zandramas" 0.000000 0.000000 ellipse 
+955 "Max" 0.000000 0.000000 ellipse 
+956 "Eilraet" 0.000000 0.000000 ellipse 
+957 "Kosmalios" 0.000000 0.000000 ellipse 
+958 "Goerissen" 0.000000 0.000000 ellipse 
+959 "Baloc" 0.000000 0.000000 ellipse 
+960 "Comakut" 0.000000 0.000000 ellipse 
+961 "Probatio" 0.000000 0.000000 ellipse 
+962 "KaeZar" 0.000000 0.000000 ellipse 
+963 "Josera" 0.000000 0.000000 ellipse 
+964 "Perfectionator" 0.000000 0.000000 ellipse 
+965 "Steblin" 0.000000 0.000000 ellipse 
+966 "Nipisiquit" 0.000000 0.000000 ellipse 
+967 "20percent" 0.000000 0.000000 ellipse 
+968 "Teuus" 0.000000 0.000000 ellipse 
+969 "Rebeccae" 0.000000 0.000000 ellipse 
+970 "Thomas Aquinatis" 0.000000 0.000000 ellipse 
+971 "Rgrg" 0.000000 0.000000 ellipse 
+972 "Textus" 0.000000 0.000000 ellipse 
+973 "Baoyan" 0.000000 0.000000 ellipse 
+974 "Mateusz Lemôlálô" 0.000000 0.000000 ellipse 
+975 "Ut Libet" 0.000000 0.000000 ellipse 
+976 "Gökhan" 0.000000 0.000000 ellipse 
+977 "Cives Lupiaensis" 0.000000 0.000000 ellipse 
+978 "Student" 0.000000 0.000000 ellipse 
+979 "R. Hillgentleman" 0.000000 0.000000 ellipse 
+980 "Jacobus R. Pendraconis" 0.000000 0.000000 ellipse 
+981 "Suizokukan" 0.000000 0.000000 ellipse 
+982 "Ryulong" 0.000000 0.000000 ellipse 
+983 "CIVIS ROMANVS" 0.000000 0.000000 ellipse 
+984 "Iasoncristatus" 0.000000 0.000000 ellipse 
+985 "Sergio" 0.000000 0.000000 ellipse 
+986 "Abrams407" 0.000000 0.000000 ellipse 
+987 "Augustus" 0.000000 0.000000 ellipse 
+988 "Danielsaw" 0.000000 0.000000 ellipse 
+989 "OlausRex" 0.000000 0.000000 ellipse 
+990 "FolkRock" 0.000000 0.000000 ellipse 
+991 "Iacobus Recensor" 0.000000 0.000000 ellipse 
+992 "ManN" 0.000000 0.000000 ellipse 
+993 "Ouro" 0.000000 0.000000 ellipse 
+994 "Trulala" 0.000000 0.000000 ellipse 
+995 "Trevirgola" 0.000000 0.000000 ellipse 
+996 "Mathias-S" 0.000000 0.000000 ellipse 
+997 "Anarkangel" 0.000000 0.000000 ellipse 
+998 "Threehundredrutuliwithhatchets" 0.000000 0.000000 ellipse 
+999 "Martin Fiedler" 0.000000 0.000000 ellipse 
+1000 "Dubno" 0.000000 0.000000 ellipse 
+1001 "Ghaly" 0.000000 0.000000 ellipse 
+1002 "Sulla" 0.000000 0.000000 ellipse 
+1003 "Marcus90" 0.000000 0.000000 ellipse 
+1004 "Marcus91" 0.000000 0.000000 ellipse 
+1005 "Catullus" 0.000000 0.000000 ellipse 
+1006 "Kai su teknon" 0.000000 0.000000 ellipse 
+1007 "Dousfandangus" 0.000000 0.000000 ellipse 
+1008 "Hughcharlesparker" 0.000000 0.000000 ellipse 
+1009 "Rautopia" 0.000000 0.000000 ellipse 
+1010 "Spreetin" 0.000000 0.000000 ellipse 
+1011 "Jaroslavleff" 0.000000 0.000000 ellipse 
+1012 "Panairjdde" 0.000000 0.000000 ellipse 
+1013 "Gloria" 0.000000 0.000000 ellipse 
+1014 "Fparri" 0.000000 0.000000 ellipse 
+1015 "Wutsje" 0.000000 0.000000 ellipse 
+1016 "Pookypower123" 0.000000 0.000000 ellipse 
+1017 "Richardus" 0.000000 0.000000 ellipse 
+1018 "Dvightius K. Schrute" 0.000000 0.000000 ellipse 
+1019 "Aeneas" 0.000000 0.000000 ellipse 
+1020 "FritzG" 0.000000 0.000000 ellipse 
+1021 "Gaius Iulius Caesar" 0.000000 0.000000 ellipse 
+1022 "Infinito" 0.000000 0.000000 ellipse 
+1023 "Jmb" 0.000000 0.000000 ellipse 
+1024 "Hostiensis" 0.000000 0.000000 ellipse 
+1025 "Arria Belli" 0.000000 0.000000 ellipse 
+1026 "Cyrius" 0.000000 0.000000 ellipse 
+1027 "Tomatejc" 0.000000 0.000000 ellipse 
+1028 "Dvd93" 0.000000 0.000000 ellipse 
+1029 "Nexus Polaris" 0.000000 0.000000 ellipse 
+1030 "Limbus" 0.000000 0.000000 ellipse 
+1031 "Trismegistos" 0.000000 0.000000 ellipse 
+1032 "EpicurideGregePorcus" 0.000000 0.000000 ellipse 
+1033 "Väterchen" 0.000000 0.000000 ellipse 
+1034 "Tkinias" 0.000000 0.000000 ellipse 
+1035 "Harrissimo" 0.000000 0.000000 ellipse 
+1036 "Musso" 0.000000 0.000000 ellipse 
+1037 "RoamBot" 0.000000 0.000000 ellipse 
+1038 "Whitney Carter" 0.000000 0.000000 ellipse 
+1039 "Crittertmj" 0.000000 0.000000 ellipse 
+1040 "Alatius" 0.000000 0.000000 ellipse 
+1041 "Yes0song" 0.000000 0.000000 ellipse 
+1042 "Complex" 0.000000 0.000000 ellipse 
+1043 "Jasper Zanjani" 0.000000 0.000000 ellipse 
+1044 "Wikifuxor" 0.000000 0.000000 ellipse 
+1045 "Alison" 0.000000 0.000000 ellipse 
+1046 "Constantinus" 0.000000 0.000000 ellipse 
+1047 "Jack Drago" 0.000000 0.000000 ellipse 
+1048 "Dornenkrone" 0.000000 0.000000 ellipse 
+1049 "AbcD - Neu" 0.000000 0.000000 ellipse 
+1050 "Pastranus" 0.000000 0.000000 ellipse 
+1051 "PolarBot" 0.000000 0.000000 ellipse 
+1052 "K.sakamoto" 0.000000 0.000000 ellipse 
+1053 "Ooswesthoesbes" 0.000000 0.000000 ellipse 
+1054 "Kordas" 0.000000 0.000000 ellipse 
+1055 "Caffagianfrualiceit" 0.000000 0.000000 ellipse 
+1056 "Laleena" 0.000000 0.000000 ellipse 
+1057 "Roberto.catini" 0.000000 0.000000 ellipse 
+1058 "Bavozz" 0.000000 0.000000 ellipse 
+1059 "Juvenalis1982" 0.000000 0.000000 ellipse 
+1060 "SECUTOR" 0.000000 0.000000 ellipse 
+1061 "Robin Patterson" 0.000000 0.000000 ellipse 
+1062 "Rsoca" 0.000000 0.000000 ellipse 
+1063 "Mundialecter" 0.000000 0.000000 ellipse 
+1064 "Nickesty" 0.000000 0.000000 ellipse 
+1065 "Jondel" 0.000000 0.000000 ellipse 
+1066 "SimonATL" 0.000000 0.000000 ellipse 
+1067 "Jan&Raf" 0.000000 0.000000 ellipse 
+1068 "KGF" 0.000000 0.000000 ellipse 
+1069 "IacobusAmor" 0.000000 0.000000 ellipse 
+1070 "V0d4n" 0.000000 0.000000 ellipse 
+1071 "Reynaldo" 0.000000 0.000000 ellipse 
+1072 "Pulchracolumba" 0.000000 0.000000 ellipse 
+1073 "Fgz" 0.000000 0.000000 ellipse 
+1074 "Ytzcoyotl" 0.000000 0.000000 ellipse 
+1075 "ST47" 0.000000 0.000000 ellipse 
+1076 "Tommy Kronkvist" 0.000000 0.000000 ellipse 
+1077 "Varina" 0.000000 0.000000 ellipse 
+1078 "Pablo" 0.000000 0.000000 ellipse 
+1079 "El Quebrado" 0.000000 0.000000 ellipse 
+1080 "Frunchas" 0.000000 0.000000 ellipse 
+1081 "Andrew Dalby" 0.000000 0.000000 ellipse 
+1082 "Doops" 0.000000 0.000000 ellipse 
+1083 "Nooj" 0.000000 0.000000 ellipse 
+1084 "Adelphus" 0.000000 0.000000 ellipse 
+1085 "Wayne" 0.000000 0.000000 ellipse 
+1086 "Alpunk" 0.000000 0.000000 ellipse 
+1087 "Shultz" 0.000000 0.000000 ellipse 
+1088 "JackgoPack4" 0.000000 0.000000 ellipse 
+1089 "Meisteringer" 0.000000 0.000000 ellipse 
+1090 "Wolfgang1018" 0.000000 0.000000 ellipse 
+1091 "Minor" 0.000000 0.000000 ellipse 
+1092 "Kwoww" 0.000000 0.000000 ellipse 
+1093 "Falcus Vicus Altus" 0.000000 0.000000 ellipse 
+1094 "KlausSchiwinsky" 0.000000 0.000000 ellipse 
+1095 "Iunes" 0.000000 0.000000 ellipse 
+1096 "Snakesteuben" 0.000000 0.000000 ellipse 
+1097 "Per Angusta" 0.000000 0.000000 ellipse 
+1098 "Drugonot" 0.000000 0.000000 ellipse 
+1099 "Hispaniae cicero" 0.000000 0.000000 ellipse 
+1100 "Iulio Philippus" 0.000000 0.000000 ellipse 
+1101 "DJP" 0.000000 0.000000 ellipse 
+1102 "Dante" 0.000000 0.000000 ellipse 
+1103 "Guitarmatt" 0.000000 0.000000 ellipse 
+1104 "Angr" 0.000000 0.000000 ellipse 
+1105 "Naevus" 0.000000 0.000000 ellipse 
+1106 "Franciscus61" 0.000000 0.000000 ellipse 
+1107 "Macar" 0.000000 0.000000 ellipse 
+1108 "Robertus Sundrivus" 0.000000 0.000000 ellipse 
+1109 "Hamburger" 0.000000 0.000000 ellipse 
+1110 "Battroid" 0.000000 0.000000 ellipse 
+1111 "RedSolution" 0.000000 0.000000 ellipse 
+1112 "Derbyadhag" 0.000000 0.000000 ellipse 
+1113 "Alexandre Guimarães" 0.000000 0.000000 ellipse 
+1114 "Andjam" 0.000000 0.000000 ellipse 
+1115 "Jordan Timothy James Busson" 0.000000 0.000000 ellipse 
+1116 "Xlibertasx" 0.000000 0.000000 ellipse 
+1117 "Nessi Lulu Kleo" 0.000000 0.000000 ellipse 
+1118 "Isiacus" 0.000000 0.000000 ellipse 
+1119 "Amphora" 0.000000 0.000000 ellipse 
+1120 "Avicula cantat" 0.000000 0.000000 ellipse 
+1121 "Staycourt" 0.000000 0.000000 ellipse 
+1122 "Videturquod" 0.000000 0.000000 ellipse 
+1123 "TheMexican" 0.000000 0.000000 ellipse 
+1124 "Arminius" 0.000000 0.000000 ellipse 
+1125 "Khazar II" 0.000000 0.000000 ellipse 
+1126 "Hexagon1" 0.000000 0.000000 ellipse 
+1127 "Eleanor909" 0.000000 0.000000 ellipse 
+1128 "TimBits" 0.000000 0.000000 ellipse 
+1129 "Johannes pragensis" 0.000000 0.000000 ellipse 
+1130 "Christophore" 0.000000 0.000000 ellipse 
+1131 "Alain Schneider" 0.000000 0.000000 ellipse 
+1132 "K" 0.000000 0.000000 ellipse 
+1133 "Andrejj" 0.000000 0.000000 ellipse 
+1134 "Prjaeger" 0.000000 0.000000 ellipse 
+1135 "Ssolbergj" 0.000000 0.000000 ellipse 
+1136 "Johnkfrost" 0.000000 0.000000 ellipse 
+1137 "Torgivus" 0.000000 0.000000 ellipse 
+1138 "Patty" 0.000000 0.000000 ellipse 
+1139 "Alvare" 0.000000 0.000000 ellipse 
+1140 "David.Mestel" 0.000000 0.000000 ellipse 
+1141 "SpeDIt" 0.000000 0.000000 ellipse 
+1142 "Theodorus Filius Iacobi" 0.000000 0.000000 ellipse 
+1143 "FaSb" 0.000000 0.000000 ellipse 
+1144 "Miccoh" 0.000000 0.000000 ellipse 
+1145 "Miloos" 0.000000 0.000000 ellipse 
+1146 "Kunipoo" 0.000000 0.000000 ellipse 
+1147 "TheZebu" 0.000000 0.000000 ellipse 
+1148 "Cantor" 0.000000 0.000000 ellipse 
+1149 "Ahasverus" 0.000000 0.000000 ellipse 
+1150 "Warlock" 0.000000 0.000000 ellipse 
+1151 "SonniWP" 0.000000 0.000000 ellipse 
+1152 "LATINcrazy" 0.000000 0.000000 ellipse 
+1153 "Dolichocephalus" 0.000000 0.000000 ellipse 
+1154 "DeathWalking" 0.000000 0.000000 ellipse 
+1155 "Uncle Titus" 0.000000 0.000000 ellipse 
+1156 "Ipse" 0.000000 0.000000 ellipse 
+1157 "Gizurr" 0.000000 0.000000 ellipse 
+1158 "Thivierr" 0.000000 0.000000 ellipse 
+1159 "Qualia" 0.000000 0.000000 ellipse 
+1160 "LUCIUS OPTIMATES" 0.000000 0.000000 ellipse 
+1161 "Tooj117" 0.000000 0.000000 ellipse 
+1162 "Burke107" 0.000000 0.000000 ellipse 
+1163 "Zhaladshar" 0.000000 0.000000 ellipse 
+1164 "Jonathan de Boyne Pollard" 0.000000 0.000000 ellipse 
+1165 "Marius Draco" 0.000000 0.000000 ellipse 
+1166 "LaosLos" 0.000000 0.000000 ellipse 
+1167 "Anxova" 0.000000 0.000000 ellipse 
+1168 "Caligula Ceasar" 0.000000 0.000000 ellipse 
+1169 "Mdd" 0.000000 0.000000 ellipse 
+1170 "WillowW" 0.000000 0.000000 ellipse 
+1171 "Hitler" 0.000000 0.000000 ellipse 
+1172 "Donjanssen" 0.000000 0.000000 ellipse 
+1173 "Tacitean" 0.000000 0.000000 ellipse 
+1174 "Seb35" 0.000000 0.000000 ellipse 
+1175 "Reccanello" 0.000000 0.000000 ellipse 
+1176 "Lew XXI" 0.000000 0.000000 ellipse 
+1177 "Paweł ze Szczecina" 0.000000 0.000000 ellipse 
+1178 "Spezialist" 0.000000 0.000000 ellipse 
+1179 "Amicitia" 0.000000 0.000000 ellipse 
+1180 "Jramosruiz" 0.000000 0.000000 ellipse 
+1181 "Zirland" 0.000000 0.000000 ellipse 
+1182 "ILVI" 0.000000 0.000000 ellipse 
+1183 "Alpine-helmut" 0.000000 0.000000 ellipse 
+1184 "Achim" 0.000000 0.000000 ellipse 
+1185 "Fortis" 0.000000 0.000000 ellipse 
+1186 "Monachus nobilis" 0.000000 0.000000 ellipse 
+1187 "Xaverius Graniensis" 0.000000 0.000000 ellipse 
+1188 "Seansoo" 0.000000 0.000000 ellipse 
+1189 "Coreydragon" 0.000000 0.000000 ellipse 
+1190 "Wrzlprmft" 0.000000 0.000000 ellipse 
+1191 "Poslfit" 0.000000 0.000000 ellipse 
+1192 "Linkadr" 0.000000 0.000000 ellipse 
+1193 "Thukydides-Fan" 0.000000 0.000000 ellipse 
+1194 "WCL" 0.000000 0.000000 ellipse 
+1195 "JuliaFelix" 0.000000 0.000000 ellipse 
+1196 "Niki K" 0.000000 0.000000 ellipse 
+1197 "RitaBleisch" 0.000000 0.000000 ellipse 
+1198 "Caemgenius Hecken" 0.000000 0.000000 ellipse 
+1199 "Verbex" 0.000000 0.000000 ellipse 
+1200 "KIZU" 0.000000 0.000000 ellipse 
+1201 "Fortuita" 0.000000 0.000000 ellipse 
+1202 "Circaeum" 0.000000 0.000000 ellipse 
+1203 "Donatus" 0.000000 0.000000 ellipse 
+1204 "Arian" 0.000000 0.000000 ellipse 
+1205 "Ioscius Rocchius" 0.000000 0.000000 ellipse 
+1206 "Cicero89" 0.000000 0.000000 ellipse 
+1207 "Wikiborg2" 0.000000 0.000000 ellipse 
+1208 "Dbl2010" 0.000000 0.000000 ellipse 
+1209 "Cyon" 0.000000 0.000000 ellipse 
+1210 "Ottavio" 0.000000 0.000000 ellipse 
+1211 "Εν" 0.000000 0.000000 ellipse 
+1212 "Daqo89" 0.000000 0.000000 ellipse 
+1213 "VillemusAlexander" 0.000000 0.000000 ellipse 
+1214 "Jackomalley2008" 0.000000 0.000000 ellipse 
+1215 "Goslicius" 0.000000 0.000000 ellipse 
+1216 "Calc rulz" 0.000000 0.000000 ellipse 
+1217 "Brutus" 0.000000 0.000000 ellipse 
+1218 "Greenwave" 0.000000 0.000000 ellipse 
+1219 "Bap" 0.000000 0.000000 ellipse 
+1220 "Fabior1984" 0.000000 0.000000 ellipse 
+1221 "Tiwido" 0.000000 0.000000 ellipse 
+1222 "Mihai Andrei" 0.000000 0.000000 ellipse 
+1223 "Bartolomeo ex Cracovia" 0.000000 0.000000 ellipse 
+1224 "Dominik" 0.000000 0.000000 ellipse 
+1225 "Joe Byrne" 0.000000 0.000000 ellipse 
+1226 "Erik Maximus Optimus" 0.000000 0.000000 ellipse 
+1227 "GrafZahl" 0.000000 0.000000 ellipse 
+1228 "Raf" 0.000000 0.000000 ellipse 
+1229 "Fluence" 0.000000 0.000000 ellipse 
+1230 "IdoZi" 0.000000 0.000000 ellipse 
+1231 "Obenj1zw" 0.000000 0.000000 ellipse 
+1232 "Sandik" 0.000000 0.000000 ellipse 
+1233 "Latinic" 0.000000 0.000000 ellipse 
+1234 "Upior polnocy" 0.000000 0.000000 ellipse 
+1235 "Murasaki Sutibu" 0.000000 0.000000 ellipse 
+1236 "Matasg" 0.000000 0.000000 ellipse 
+1237 "Cistus" 0.000000 0.000000 ellipse 
+1238 "Rurp" 0.000000 0.000000 ellipse 
+1239 "Brya" 0.000000 0.000000 ellipse 
+1240 "Phoneus" 0.000000 0.000000 ellipse 
+1241 "Mue" 0.000000 0.000000 ellipse 
+1242 "Aido2002" 0.000000 0.000000 ellipse 
+1243 "IP Quindicenne" 0.000000 0.000000 ellipse 
+1244 "Daniel bg" 0.000000 0.000000 ellipse 
+1245 "Tvarkytojas" 0.000000 0.000000 ellipse 
+1246 "Ironicon" 0.000000 0.000000 ellipse 
+1247 "Elbbom" 0.000000 0.000000 ellipse 
+1248 "Viskonsas" 0.000000 0.000000 ellipse 
+1249 "Fabrice Ferrer" 0.000000 0.000000 ellipse 
+1250 "Mo4jolo" 0.000000 0.000000 ellipse 
+1251 "Tubantia" 0.000000 0.000000 ellipse 
+1252 "Keko dc" 0.000000 0.000000 ellipse 
+1253 "Adiel" 0.000000 0.000000 ellipse 
+1254 "Guido Ferro Canale" 0.000000 0.000000 ellipse 
+1255 "Widefox" 0.000000 0.000000 ellipse 
+1256 "Lo2u" 0.000000 0.000000 ellipse 
+1257 "Venividivici" 0.000000 0.000000 ellipse 
+1258 "Rogerius" 0.000000 0.000000 ellipse 
+1259 "Lou Crazy" 0.000000 0.000000 ellipse 
+1260 "Peruvianbeatle" 0.000000 0.000000 ellipse 
+1261 "W1k13rh3nry" 0.000000 0.000000 ellipse 
+1262 "Dabazec" 0.000000 0.000000 ellipse 
+1263 "Latinitas" 0.000000 0.000000 ellipse 
+1264 "Athena0584" 0.000000 0.000000 ellipse 
+1265 "Lativm" 0.000000 0.000000 ellipse 
+1266 "Dcoetzee" 0.000000 0.000000 ellipse 
+1267 "Batavia" 0.000000 0.000000 ellipse 
+1268 "Egmontaz" 0.000000 0.000000 ellipse 
+1269 "Tehnyt" 0.000000 0.000000 ellipse 
+1270 "Iordanus Loreni" 0.000000 0.000000 ellipse 
+1271 "Ev" 0.000000 0.000000 ellipse 
+1272 "LeighvsOptimvsMaximvs" 0.000000 0.000000 ellipse 
+1273 "Willtron" 0.000000 0.000000 ellipse 
+1274 "Necator" 0.000000 0.000000 ellipse 
+1275 "Gregre" 0.000000 0.000000 ellipse 
+1276 "OliverZena" 0.000000 0.000000 ellipse 
+1277 "Martial75" 0.000000 0.000000 ellipse 
+1278 "RexMortui" 0.000000 0.000000 ellipse 
+1279 "Deivid" 0.000000 0.000000 ellipse 
+1280 "Vicente Carolino Filho" 0.000000 0.000000 ellipse 
+1281 "G Pecunia" 0.000000 0.000000 ellipse 
+1282 "Dzyus Himiquum" 0.000000 0.000000 ellipse 
+1283 "IvanLanin" 0.000000 0.000000 ellipse 
+1284 "Quirinus" 0.000000 0.000000 ellipse 
+1285 "Aaker" 0.000000 0.000000 ellipse 
+1286 "Serenitas otiumque" 0.000000 0.000000 ellipse 
+1287 "Dsprag" 0.000000 0.000000 ellipse 
+1288 "Weatherfield12" 0.000000 0.000000 ellipse 
+1289 "Dangerous" 0.000000 0.000000 ellipse 
+1290 "Zagrabiensis" 0.000000 0.000000 ellipse 
+1291 "Sogeking" 0.000000 0.000000 ellipse 
+1292 "Onof" 0.000000 0.000000 ellipse 
+1293 "DarkAp89" 0.000000 0.000000 ellipse 
+1294 "Joystick" 0.000000 0.000000 ellipse 
+1295 "Vulpinus" 0.000000 0.000000 ellipse 
+1296 "$1" 0.000000 0.000000 ellipse 
+1297 "David Malone" 0.000000 0.000000 ellipse 
+1298 "Philologus" 0.000000 0.000000 ellipse 
+1299 "Misericordia" 0.000000 0.000000 ellipse 
+1300 "Mr. Q" 0.000000 0.000000 ellipse 
+1301 "Albert Krantz" 0.000000 0.000000 ellipse 
+1302 "Scultetus" 0.000000 0.000000 ellipse 
+1303 "Atomia" 0.000000 0.000000 ellipse 
+1304 "Daniel Fattore" 0.000000 0.000000 ellipse 
+1305 "Mostarac" 0.000000 0.000000 ellipse 
+1306 "J014" 0.000000 0.000000 ellipse 
+1307 "ITurtle" 0.000000 0.000000 ellipse 
+1308 "Xaverius" 0.000000 0.000000 ellipse 
+1309 "Moszczynski" 0.000000 0.000000 ellipse 
+1310 "Fatfuck" 0.000000 0.000000 ellipse 
+1311 "Parerga" 0.000000 0.000000 ellipse 
+1312 "GermanX" 0.000000 0.000000 ellipse 
+1313 "Tuesday Afternoons" 0.000000 0.000000 ellipse 
+1314 "Aliquis" 0.000000 0.000000 ellipse 
+1315 "Cerrigno" 0.000000 0.000000 ellipse 
+1316 "Aequo" 0.000000 0.000000 ellipse 
+1317 "Arap" 0.000000 0.000000 ellipse 
+1318 "Tavyrob" 0.000000 0.000000 ellipse 
+1319 "Cominensis" 0.000000 0.000000 ellipse 
+1320 "AMAPO" 0.000000 0.000000 ellipse 
+1321 "Gbnogkfs" 0.000000 0.000000 ellipse 
+1322 "Finkenauer" 0.000000 0.000000 ellipse 
+1323 "Johnkerr" 0.000000 0.000000 ellipse 
+1324 "E80" 0.000000 0.000000 ellipse 
+1325 "Rommel2" 0.000000 0.000000 ellipse 
+1326 "Whispermane" 0.000000 0.000000 ellipse 
+1327 "Jose77" 0.000000 0.000000 ellipse 
+1328 "Fortissime" 0.000000 0.000000 ellipse 
+1329 "Gutovisk" 0.000000 0.000000 ellipse 
+1330 "Cerberus™" 0.000000 0.000000 ellipse 
+1331 "Henskridonier" 0.000000 0.000000 ellipse 
+1332 "Jackregan" 0.000000 0.000000 ellipse 
+1333 "Massachi" 0.000000 0.000000 ellipse 
+1334 "A.V.Vázquez" 0.000000 0.000000 ellipse 
+1335 "Postscript" 0.000000 0.000000 ellipse 
+1336 "Bertinho" 0.000000 0.000000 ellipse 
+1337 "ROMANVS CIVIS" 0.000000 0.000000 ellipse 
+1338 "Ulvapes" 0.000000 0.000000 ellipse 
+1339 "Eric Kvaalen" 0.000000 0.000000 ellipse 
+1340 "EgoSumBene2" 0.000000 0.000000 ellipse 
+1341 "Exlex" 0.000000 0.000000 ellipse 
+1342 "Dbuckner" 0.000000 0.000000 ellipse 
+1343 "Wheels on Willys" 0.000000 0.000000 ellipse 
+1344 "Londonbashi" 0.000000 0.000000 ellipse 
+1345 "Stattloch1" 0.000000 0.000000 ellipse 
+1346 "Latingrappone" 0.000000 0.000000 ellipse 
+1347 "Helmi" 0.000000 0.000000 ellipse 
+1348 "Meronicus" 0.000000 0.000000 ellipse 
+1349 "Marqvess" 0.000000 0.000000 ellipse 
+1350 "Michi1308" 0.000000 0.000000 ellipse 
+1351 "Decimus" 0.000000 0.000000 ellipse 
+1352 "Plattmaster" 0.000000 0.000000 ellipse 
+1353 "Dunnhaupt" 0.000000 0.000000 ellipse 
+1354 "J budissin" 0.000000 0.000000 ellipse 
+1355 "Nuada33" 0.000000 0.000000 ellipse 
+1356 "El Suizo" 0.000000 0.000000 ellipse 
+1357 "-xfi-" 0.000000 0.000000 ellipse 
+1358 "Shikeishu" 0.000000 0.000000 ellipse 
+1359 "Xarthat Xio" 0.000000 0.000000 ellipse 
+1360 "Apcbg" 0.000000 0.000000 ellipse 
+1361 "Eudyptes" 0.000000 0.000000 ellipse 
+1362 "Pishogue" 0.000000 0.000000 ellipse 
+1363 "Dominator fulminis" 0.000000 0.000000 ellipse 
+1364 "HENRICVS" 0.000000 0.000000 ellipse 
+1365 "Aphoticom" 0.000000 0.000000 ellipse 
+1366 "Nh.jg" 0.000000 0.000000 ellipse 
+1367 "5erpool" 0.000000 0.000000 ellipse 
+1368 "Yakoo" 0.000000 0.000000 ellipse 
+1369 "Quintus" 0.000000 0.000000 ellipse 
+1370 "The wub" 0.000000 0.000000 ellipse 
+1371 "Lmbuga" 0.000000 0.000000 ellipse 
+1372 "Sg647112c" 0.000000 0.000000 ellipse 
+1373 "Leo R." 0.000000 0.000000 ellipse 
+1374 "Jcummings" 0.000000 0.000000 ellipse 
+1375 "Davin7" 0.000000 0.000000 ellipse 
+1376 "Marcus Cyron" 0.000000 0.000000 ellipse 
+1377 "ThoRr" 0.000000 0.000000 ellipse 
+1378 "RetypePassword" 0.000000 0.000000 ellipse 
+1379 "Deep Impact" 0.000000 0.000000 ellipse 
+1380 "Fixus" 0.000000 0.000000 ellipse 
+1381 "Franck" 0.000000 0.000000 ellipse 
+1382 "Varlaam" 0.000000 0.000000 ellipse 
+1383 "Gasti" 0.000000 0.000000 ellipse 
+1384 "Palkin" 0.000000 0.000000 ellipse 
+1385 "Letty" 0.000000 0.000000 ellipse 
+1386 "Anakletos" 0.000000 0.000000 ellipse 
+1387 "Anthrcer" 0.000000 0.000000 ellipse 
+1388 "Birnuson" 0.000000 0.000000 ellipse 
+1389 "Nickshanks" 0.000000 0.000000 ellipse 
+1390 "Foo 2938" 0.000000 0.000000 ellipse 
+1391 "Rusmir Gadžo" 0.000000 0.000000 ellipse 
+1392 "Faustus" 0.000000 0.000000 ellipse 
+1393 "Cassandro" 0.000000 0.000000 ellipse 
+1394 "Eboracum" 0.000000 0.000000 ellipse 
+1395 "Eduardoferreira" 0.000000 0.000000 ellipse 
+1396 "Tafkas" 0.000000 0.000000 ellipse 
+1397 "Radulfr" 0.000000 0.000000 ellipse 
+1398 "L.V." 0.000000 0.000000 ellipse 
+1399 "Secundus Zephyrus" 0.000000 0.000000 ellipse 
+1400 "JayCeeH" 0.000000 0.000000 ellipse 
+1401 "MaximLitvin" 0.000000 0.000000 ellipse 
+1402 "Zacke" 0.000000 0.000000 ellipse 
+1403 "Christan Hahne" 0.000000 0.000000 ellipse 
+1404 "Dani" 0.000000 0.000000 ellipse 
+1405 "Ahib" 0.000000 0.000000 ellipse 
+1406 "Szczepan1990" 0.000000 0.000000 ellipse 
+1407 "Gianfranco" 0.000000 0.000000 ellipse 
+1408 "Bonnot" 0.000000 0.000000 ellipse 
+1409 "Stefanuccio" 0.000000 0.000000 ellipse 
+1410 "Sevela.p" 0.000000 0.000000 ellipse 
+1411 "Neronis" 0.000000 0.000000 ellipse 
+1412 "Omnipaedista" 0.000000 0.000000 ellipse 
+1413 "Ebereck" 0.000000 0.000000 ellipse 
+1414 "Johann Wolfgang" 0.000000 0.000000 ellipse 
+1415 "Francesco Gabrielli" 0.000000 0.000000 ellipse 
+1416 "Florentyna" 0.000000 0.000000 ellipse 
+1417 "Scriptor17" 0.000000 0.000000 ellipse 
+1418 "Maxos" 0.000000 0.000000 ellipse 
+1419 "Thisisbossi" 0.000000 0.000000 ellipse 
+1420 "Rogrema" 0.000000 0.000000 ellipse 
+1421 "Latineloquor1" 0.000000 0.000000 ellipse 
+1422 "Enlil2" 0.000000 0.000000 ellipse 
+1423 "Lovam" 0.000000 0.000000 ellipse 
+1424 "RCBot" 0.000000 0.000000 ellipse 
+1425 "Axelgh07" 0.000000 0.000000 ellipse 
+1426 "Revena" 0.000000 0.000000 ellipse 
+1427 "Calculus" 0.000000 0.000000 ellipse 
+1428 "Biadrum" 0.000000 0.000000 ellipse 
+1429 "Mariana" 0.000000 0.000000 ellipse 
+1430 "Sotineolog" 0.000000 0.000000 ellipse 
+1431 "Algcor" 0.000000 0.000000 ellipse 
+1432 "Kyoko" 0.000000 0.000000 ellipse 
+1433 "Chrisandtaund" 0.000000 0.000000 ellipse 
+1434 "Callidior" 0.000000 0.000000 ellipse 
+1435 "Remember the dot" 0.000000 0.000000 ellipse 
+1436 "Liist" 0.000000 0.000000 ellipse 
+1437 "Badseed" 0.000000 0.000000 ellipse 
+1438 "Tarheel 47" 0.000000 0.000000 ellipse 
+1439 "Balderdash707" 0.000000 0.000000 ellipse 
+1440 "N" 0.000000 0.000000 ellipse 
+1441 "Ctxppc" 0.000000 0.000000 ellipse 
+1442 "Leonardus Bottilerius" 0.000000 0.000000 ellipse 
+1443 "Colindo" 0.000000 0.000000 ellipse 
+1444 "Dcljr" 0.000000 0.000000 ellipse 
+1445 "Osu-mike" 0.000000 0.000000 ellipse 
+1446 "Roberto2008" 0.000000 0.000000 ellipse 
+1447 "HansEo" 0.000000 0.000000 ellipse 
+1448 "Juliuscaesar" 0.000000 0.000000 ellipse 
+1449 "Fxcxt" 0.000000 0.000000 ellipse 
+1450 "Geek Vandal" 0.000000 0.000000 ellipse 
+1451 "Hibernius" 0.000000 0.000000 ellipse 
+1452 "Proto-iaponicus" 0.000000 0.000000 ellipse 
+1453 "Felixum" 0.000000 0.000000 ellipse 
+1454 "Nov ialiste" 0.000000 0.000000 ellipse 
+1455 "D V S" 0.000000 0.000000 ellipse 
+1456 "Meistersinger" 0.000000 0.000000 ellipse 
+1457 "Escarbot" 0.000000 0.000000 ellipse 
+1458 "Mona" 0.000000 0.000000 ellipse 
+1459 "Jorunn" 0.000000 0.000000 ellipse 
+1460 "Ms2ger" 0.000000 0.000000 ellipse 
+1461 "Aeneas88" 0.000000 0.000000 ellipse 
+1462 "Frederik" 0.000000 0.000000 ellipse 
+1463 "Van der Hoorn" 0.000000 0.000000 ellipse 
+1464 "Apollocrinitus" 0.000000 0.000000 ellipse 
+1465 "Pumpie" 0.000000 0.000000 ellipse 
+1466 "Yegoyan" 0.000000 0.000000 ellipse 
+1467 "Doncsecz" 0.000000 0.000000 ellipse 
+1468 "Sir Lestaty de Lioncourt" 0.000000 0.000000 ellipse 
+1469 "Edax" 0.000000 0.000000 ellipse 
+1470 "Kedemus" 0.000000 0.000000 ellipse 
+1471 "Gagonis" 0.000000 0.000000 ellipse 
+1472 "Carolus" 0.000000 0.000000 ellipse 
+1473 "Alvarus" 0.000000 0.000000 ellipse 
+1474 "Tsheehan" 0.000000 0.000000 ellipse 
+1475 "Snake707" 0.000000 0.000000 ellipse 
+1476 "Seth Nimbosa" 0.000000 0.000000 ellipse 
+1477 "Gnothise" 0.000000 0.000000 ellipse 
+1478 "Baroccomoderno" 0.000000 0.000000 ellipse 
+1479 "Multichill" 0.000000 0.000000 ellipse 
+1480 "Gundisalvus" 0.000000 0.000000 ellipse 
+1481 "Columba pacis" 0.000000 0.000000 ellipse 
+1482 "Olafds" 0.000000 0.000000 ellipse 
+1483 "Dischdeldritsch" 0.000000 0.000000 ellipse 
+1484 "Cincinnatus" 0.000000 0.000000 ellipse 
+1485 "Furscollis" 0.000000 0.000000 ellipse 
+1486 "Gemstone" 0.000000 0.000000 ellipse 
+1487 "ALE!" 0.000000 0.000000 ellipse 
+1488 "Janbrogger" 0.000000 0.000000 ellipse 
+1489 "Muniswede" 0.000000 0.000000 ellipse 
+1490 "C0pernicus" 0.000000 0.000000 ellipse 
+1491 "Cool Cat" 0.000000 0.000000 ellipse 
+1492 "Nolanus" 0.000000 0.000000 ellipse 
+1493 "Wahhmaster" 0.000000 0.000000 ellipse 
+1494 "Hameryko" 0.000000 0.000000 ellipse 
+1495 "Gyre" 0.000000 0.000000 ellipse 
+1496 "Pemu" 0.000000 0.000000 ellipse 
+1497 "Iacomus" 0.000000 0.000000 ellipse 
+1498 "Bacairns" 0.000000 0.000000 ellipse 
+1499 "Partonopier" 0.000000 0.000000 ellipse 
+1500 "Blackhole89" 0.000000 0.000000 ellipse 
+1501 "Antoniusgonzalez" 0.000000 0.000000 ellipse 
+1502 "Shizawana" 0.000000 0.000000 ellipse 
+1503 "Iac Pirat" 0.000000 0.000000 ellipse 
+1504 "Alex Lazar" 0.000000 0.000000 ellipse 
+1505 "Jozlus" 0.000000 0.000000 ellipse 
+1506 "Bonel" 0.000000 0.000000 ellipse 
+1507 "George cowie" 0.000000 0.000000 ellipse 
+1508 "ChopinEstBonus" 0.000000 0.000000 ellipse 
+1509 "Solkoll" 0.000000 0.000000 ellipse 
+1510 "Gualterius II" 0.000000 0.000000 ellipse 
+1511 "Bernstein2291" 0.000000 0.000000 ellipse 
+1512 "Bassus" 0.000000 0.000000 ellipse 
+1513 "RoyFocker" 0.000000 0.000000 ellipse 
+1514 "Afed" 0.000000 0.000000 ellipse 
+1515 "DocteurCosmos" 0.000000 0.000000 ellipse 
+1516 "Dezidor" 0.000000 0.000000 ellipse 
+1517 "Anatiomaros" 0.000000 0.000000 ellipse 
+1518 "Dominus de Gattemara" 0.000000 0.000000 ellipse 
+1519 "Clive Sweeting" 0.000000 0.000000 ellipse 
+1520 "Excelsus" 0.000000 0.000000 ellipse 
+1521 "Jasonc65" 0.000000 0.000000 ellipse 
+1522 "Rafaelgarcia" 0.000000 0.000000 ellipse 
+1523 "Frank Mento" 0.000000 0.000000 ellipse 
+1524 "Tibisoles" 0.000000 0.000000 ellipse 
+1525 "Mr Accountable" 0.000000 0.000000 ellipse 
+1526 "Leo rain" 0.000000 0.000000 ellipse 
+1527 "Robertum49" 0.000000 0.000000 ellipse 
+1528 "Evolution7931" 0.000000 0.000000 ellipse 
+1529 "Spockezri" 0.000000 0.000000 ellipse 
+1530 "Caesar" 0.000000 0.000000 ellipse 
+1531 "Tadacunius" 0.000000 0.000000 ellipse 
+1532 "IacobusReyes" 0.000000 0.000000 ellipse 
+1533 "Medellia" 0.000000 0.000000 ellipse 
+1534 "O" 0.000000 0.000000 ellipse 
+1535 "Antoninus1" 0.000000 0.000000 ellipse 
+1536 "Wikix" 0.000000 0.000000 ellipse 
+1537 "Agari" 0.000000 0.000000 ellipse 
+1538 "Yosri" 0.000000 0.000000 ellipse 
+1539 "Caiaffa" 0.000000 0.000000 ellipse 
+1540 "AugustusXII" 0.000000 0.000000 ellipse 
+1541 "Gatewaycat" 0.000000 0.000000 ellipse 
+1542 "Jgist" 0.000000 0.000000 ellipse 
+1543 "Paynewarren" 0.000000 0.000000 ellipse 
+1544 "Thogo" 0.000000 0.000000 ellipse 
+1545 "Osk" 0.000000 0.000000 ellipse 
+1546 "Th1979" 0.000000 0.000000 ellipse 
+1547 "QuackyQuackDuck" 0.000000 0.000000 ellipse 
+1548 "Nikola" 0.000000 0.000000 ellipse 
+1549 "Optimus Primus" 0.000000 0.000000 ellipse 
+1550 "Rigel" 0.000000 0.000000 ellipse 
+1551 "Grzegorz Dąbrowski" 0.000000 0.000000 ellipse 
+1552 "Xic667" 0.000000 0.000000 ellipse 
+1553 "ReyBrujo" 0.000000 0.000000 ellipse 
+1554 "Paulus" 0.000000 0.000000 ellipse 
+1555 "Callipides" 0.000000 0.000000 ellipse 
+1556 "Mrbowtie" 0.000000 0.000000 ellipse 
+1557 "Paulus82" 0.000000 0.000000 ellipse 
+1558 "CriticusFortuitus" 0.000000 0.000000 ellipse 
+1559 "Honoratus" 0.000000 0.000000 ellipse 
+1560 "Trovatore" 0.000000 0.000000 ellipse 
+1561 "Vrad" 0.000000 0.000000 ellipse 
+1562 "Alexscho" 0.000000 0.000000 ellipse 
+1563 "KAMERONUS MAXIMUS" 0.000000 0.000000 ellipse 
+1564 "SeriousNiger" 0.000000 0.000000 ellipse 
+1565 "Ioshus Rocchius" 0.000000 0.000000 ellipse 
+1566 "Msalpiperius" 0.000000 0.000000 ellipse 
+1567 "PatPeter" 0.000000 0.000000 ellipse 
+1568 "Vargenau" 0.000000 0.000000 ellipse 
+1569 "Sergius" 0.000000 0.000000 ellipse 
+1570 "Schulz-Hameln" 0.000000 0.000000 ellipse 
+1571 "Nuada" 0.000000 0.000000 ellipse 
+1572 "GoGi" 0.000000 0.000000 ellipse 
+1573 "Alois Bembel" 0.000000 0.000000 ellipse 
+1574 "Xotras" 0.000000 0.000000 ellipse 
+1575 "Belisarius" 0.000000 0.000000 ellipse 
+1576 "MF-Warburg" 0.000000 0.000000 ellipse 
+1577 "Fenoxielo" 0.000000 0.000000 ellipse 
+1578 "A.A.J.S." 0.000000 0.000000 ellipse 
+1579 "Byrial" 0.000000 0.000000 ellipse 
+1580 "Riccardov" 0.000000 0.000000 ellipse 
+1581 "Julianus" 0.000000 0.000000 ellipse 
+1582 "Ngemedjiev" 0.000000 0.000000 ellipse 
+1583 "Macrina" 0.000000 0.000000 ellipse 
+1584 "Thetis Amat Animalias" 0.000000 0.000000 ellipse 
+1585 "Awesimo" 0.000000 0.000000 ellipse 
+1586 "Kostisl" 0.000000 0.000000 ellipse 
+1587 "Alexander Potes" 0.000000 0.000000 ellipse 
+1588 "Iovis Fulmen" 0.000000 0.000000 ellipse 
+1589 "Nnaluci" 0.000000 0.000000 ellipse 
+1590 "Orba" 0.000000 0.000000 ellipse 
+1591 "Trang Oul" 0.000000 0.000000 ellipse 
+1592 "Jnovich" 0.000000 0.000000 ellipse 
+1593 "Nathanus" 0.000000 0.000000 ellipse 
+1594 "Ibericus" 0.000000 0.000000 ellipse 
+1595 "Smilodon" 0.000000 0.000000 ellipse 
+1596 "Masti" 0.000000 0.000000 ellipse 
+1597 "Aethralis" 0.000000 0.000000 ellipse 
+1598 "Eldad" 0.000000 0.000000 ellipse 
+1599 "DannyDaWriter" 0.000000 0.000000 ellipse 
+1600 "Adsodamelk" 0.000000 0.000000 ellipse 
+1601 "Fides" 0.000000 0.000000 ellipse 
+1602 "Nioger" 0.000000 0.000000 ellipse 
+1603 "Frosty0814snowman" 0.000000 0.000000 ellipse 
+1604 "Linas Lituanus" 0.000000 0.000000 ellipse 
+1605 "Nigger" 0.000000 0.000000 ellipse 
+1606 "Vincentius" 0.000000 0.000000 ellipse 
+1607 "CommonsTicker" 0.000000 0.000000 ellipse 
+1608 "Drengur" 0.000000 0.000000 ellipse 
+1609 "Jonpro" 0.000000 0.000000 ellipse 
+1610 "Timuche" 0.000000 0.000000 ellipse 
+1611 "Franck000" 0.000000 0.000000 ellipse 
+1612 "Luscinius" 0.000000 0.000000 ellipse 
+1613 "Lex Philippus Praetorius" 0.000000 0.000000 ellipse 
+1614 "Lyonski" 0.000000 0.000000 ellipse 
+1615 "Bkell" 0.000000 0.000000 ellipse 
+1616 "Mauricio Maluff" 0.000000 0.000000 ellipse 
+1617 "DoppioM" 0.000000 0.000000 ellipse 
+1618 "Duomillia" 0.000000 0.000000 ellipse 
+1619 "Belgian man" 0.000000 0.000000 ellipse 
+1620 "Dodo von den Bergen" 0.000000 0.000000 ellipse 
+1621 "Revolucion" 0.000000 0.000000 ellipse 
+1622 "Dr. Marcus Gossler" 0.000000 0.000000 ellipse 
+1623 "Arfrever" 0.000000 0.000000 ellipse 
+1624 "Cuxlejal" 0.000000 0.000000 ellipse 
+1625 "Mietchen" 0.000000 0.000000 ellipse 
+1626 "Derek Ross" 0.000000 0.000000 ellipse 
+1627 "Spock" 0.000000 0.000000 ellipse 
+1628 "Pietras1988" 0.000000 0.000000 ellipse 
+1629 "LA2" 0.000000 0.000000 ellipse 
+1630 "Martinoza" 0.000000 0.000000 ellipse 
+1631 "Kyrios" 0.000000 0.000000 ellipse 
+1632 "Chick Bowen" 0.000000 0.000000 ellipse 
+1633 "Payne" 0.000000 0.000000 ellipse 
+1634 "Waarden" 0.000000 0.000000 ellipse 
+1635 "NettledZealot" 0.000000 0.000000 ellipse 
+1636 "RedCoat" 0.000000 0.000000 ellipse 
+1637 "Quintus.C.I." 0.000000 0.000000 ellipse 
+1638 "Lorenzop2007" 0.000000 0.000000 ellipse 
+1639 "Interfector" 0.000000 0.000000 ellipse 
+1640 "Ziame" 0.000000 0.000000 ellipse 
+1641 "Torodash" 0.000000 0.000000 ellipse 
+1642 "A.Z." 0.000000 0.000000 ellipse 
+1643 "UVbot" 0.000000 0.000000 ellipse 
+1644 "Cfmag" 0.000000 0.000000 ellipse 
+1645 "Astirmays" 0.000000 0.000000 ellipse 
+1646 "Angusdwyer" 0.000000 0.000000 ellipse 
+1647 "Jochen Kiene" 0.000000 0.000000 ellipse 
+1648 "Caligula" 0.000000 0.000000 ellipse 
+1649 "Racapa" 0.000000 0.000000 ellipse 
+1650 "Acertus" 0.000000 0.000000 ellipse 
+1651 "Siandt" 0.000000 0.000000 ellipse 
+1652 "Dev920" 0.000000 0.000000 ellipse 
+1653 "Rodericus" 0.000000 0.000000 ellipse 
+1654 "Marrovi" 0.000000 0.000000 ellipse 
+1655 "Filiusnovaeangliae" 0.000000 0.000000 ellipse 
+1656 "Maximus de Monpontus" 0.000000 0.000000 ellipse 
+1657 "Krzysiu Jarzyna" 0.000000 0.000000 ellipse 
+1658 "Renzokuken" 0.000000 0.000000 ellipse 
+1659 "Red guelf" 0.000000 0.000000 ellipse 
+1660 "Martinus" 0.000000 0.000000 ellipse 
+1661 "StefanCaliniuc" 0.000000 0.000000 ellipse 
+1662 "Gabadubo" 0.000000 0.000000 ellipse 
+1663 "Andreas D" 0.000000 0.000000 ellipse 
+1664 "Elnegrojose" 0.000000 0.000000 ellipse 
+1665 "Jarzecki" 0.000000 0.000000 ellipse 
+1666 "Funkmistress" 0.000000 0.000000 ellipse 
+1667 "Cbrown1023" 0.000000 0.000000 ellipse 
+1668 "Gualterius de Reptilibus" 0.000000 0.000000 ellipse 
+1669 "A.Cython" 0.000000 0.000000 ellipse 
+1670 "Mschlindwein" 0.000000 0.000000 ellipse 
+1671 "Zetud" 0.000000 0.000000 ellipse 
+1672 "NielsF" 0.000000 0.000000 ellipse 
+1673 "Nivek1385" 0.000000 0.000000 ellipse 
+1674 "Magistertatnall" 0.000000 0.000000 ellipse 
+1675 "Remus" 0.000000 0.000000 ellipse 
+1676 "Steven washburn" 0.000000 0.000000 ellipse 
+1677 "Marcus.heifetz" 0.000000 0.000000 ellipse 
+1678 "Stigmj" 0.000000 0.000000 ellipse 
+1679 "Ted Jameson" 0.000000 0.000000 ellipse 
+1680 "Mark Taffen" 0.000000 0.000000 ellipse 
+1681 "Mario Eberhardt" 0.000000 0.000000 ellipse 
+1682 "Augustulo" 0.000000 0.000000 ellipse 
+1683 "Jovanes" 0.000000 0.000000 ellipse 
+1684 "Zappa.jake" 0.000000 0.000000 ellipse 
+1685 "Brynolphus" 0.000000 0.000000 ellipse 
+1686 "Vneiomazza" 0.000000 0.000000 ellipse 
+1687 "G.zuccala" 0.000000 0.000000 ellipse 
+1688 "Saluk" 0.000000 0.000000 ellipse 
+1689 "Cucullatus" 0.000000 0.000000 ellipse 
+1690 "Ktopper" 0.000000 0.000000 ellipse 
+1691 "Guillom" 0.000000 0.000000 ellipse 
+1692 "Orange9956" 0.000000 0.000000 ellipse 
+1693 "Kjoonlee" 0.000000 0.000000 ellipse 
+1694 "Gbust" 0.000000 0.000000 ellipse 
+1695 "DuncanHill" 0.000000 0.000000 ellipse 
+1696 "GillesC" 0.000000 0.000000 ellipse 
+1697 "RealMadrid82" 0.000000 0.000000 ellipse 
+1698 "Magistrawilson" 0.000000 0.000000 ellipse 
+1699 "Christian Kotnik" 0.000000 0.000000 ellipse 
+1700 "Rodericus Portella Sanctius" 0.000000 0.000000 ellipse 
+1701 "Tomahiv" 0.000000 0.000000 ellipse 
+1702 "Juppiter" 0.000000 0.000000 ellipse 
+1703 "Rociosanchez" 0.000000 0.000000 ellipse 
+1704 "Didelphis marsupialis" 0.000000 0.000000 ellipse 
+1705 "Ganaijiulai" 0.000000 0.000000 ellipse 
+1706 "Imperatrix" 0.000000 0.000000 ellipse 
+1707 "Naso" 0.000000 0.000000 ellipse 
+1708 "GeoLatina" 0.000000 0.000000 ellipse 
+1709 "Nicolaus" 0.000000 0.000000 ellipse 
+1710 "Alvin Blaine" 0.000000 0.000000 ellipse 
+1711 "YasmineJay" 0.000000 0.000000 ellipse 
+1712 "Petruspot" 0.000000 0.000000 ellipse 
+1713 "Skeptic griggsy" 0.000000 0.000000 ellipse 
+1714 "VashiDonsk" 0.000000 0.000000 ellipse 
+1715 "Migou" 0.000000 0.000000 ellipse 
+1716 "Gulielmus Secheu" 0.000000 0.000000 ellipse 
+1717 "Lodewijk Vadacchino" 0.000000 0.000000 ellipse 
+1718 "BBKurt" 0.000000 0.000000 ellipse 
+1719 "Timotheus" 0.000000 0.000000 ellipse 
+1720 "Rex Turnus" 0.000000 0.000000 ellipse 
+1721 "Josisb" 0.000000 0.000000 ellipse 
+1722 "Agricola" 0.000000 0.000000 ellipse 
+1723 "KINETVS·MAGNVS" 0.000000 0.000000 ellipse 
+1724 "Drini" 0.000000 0.000000 ellipse 
+1725 "KaIanus" 0.000000 0.000000 ellipse 
+1726 "Betoqa" 0.000000 0.000000 ellipse 
+1727 "Caesepta" 0.000000 0.000000 ellipse 
+1728 "Ghost" 0.000000 0.000000 ellipse 
+1729 "Nathan" 0.000000 0.000000 ellipse 
+1730 "ABF" 0.000000 0.000000 ellipse 
+1731 "112ahern" 0.000000 0.000000 ellipse 
+1732 "Q" 0.000000 0.000000 ellipse 
+1733 "Greudin" 0.000000 0.000000 ellipse 
+1734 "Alvise" 0.000000 0.000000 ellipse 
+1735 "Kahlil" 0.000000 0.000000 ellipse 
+1736 "Barbarus" 0.000000 0.000000 ellipse 
+1737 "Kerrysheehy" 0.000000 0.000000 ellipse 
+1738 "Eltharion" 0.000000 0.000000 ellipse 
+1739 "Beta.s2ph" 0.000000 0.000000 ellipse 
+1740 "Yago" 0.000000 0.000000 ellipse 
+1741 "Imperator" 0.000000 0.000000 ellipse 
+1742 "Beetstra" 0.000000 0.000000 ellipse 
+1743 "Ioannesbosius" 0.000000 0.000000 ellipse 
+1744 "Bottomline" 0.000000 0.000000 ellipse 
+1745 "Oldnag85" 0.000000 0.000000 ellipse 
+1746 "Michele-massilia" 0.000000 0.000000 ellipse 
+1747 "Kaare" 0.000000 0.000000 ellipse 
+1748 "Sdobnikov A." 0.000000 0.000000 ellipse 
+1749 "Reywas92" 0.000000 0.000000 ellipse 
+1750 "Swatjester" 0.000000 0.000000 ellipse 
+1751 "Rhenusriuus" 0.000000 0.000000 ellipse 
+1752 "Armedblowfish" 0.000000 0.000000 ellipse 
+1753 "Manzo" 0.000000 0.000000 ellipse 
+1754 "Vincolla" 0.000000 0.000000 ellipse 
+1755 "ExplorerCDT" 0.000000 0.000000 ellipse 
+1756 "Iosephvs" 0.000000 0.000000 ellipse 
+1757 "Orland" 0.000000 0.000000 ellipse 
+1758 "Cjs2111" 0.000000 0.000000 ellipse 
+1759 "Tomaxer" 0.000000 0.000000 ellipse 
+1760 "JoeyD" 0.000000 0.000000 ellipse 
+1761 "Ceylon" 0.000000 0.000000 ellipse 
+1762 "Orpheus" 0.000000 0.000000 ellipse 
+1763 "Crispinus211" 0.000000 0.000000 ellipse 
+1764 "Wikiborg" 0.000000 0.000000 ellipse 
+1765 "Vincens Ramus" 0.000000 0.000000 ellipse 
+1766 "Gualterius Reptilarius" 0.000000 0.000000 ellipse 
+1767 "Odin of Trondheim" 0.000000 0.000000 ellipse 
+1768 "Leardeia" 0.000000 0.000000 ellipse 
+1769 "LucretiaQuodSelegisti" 0.000000 0.000000 ellipse 
+1770 "CKeiffer" 0.000000 0.000000 ellipse 
+1771 "Yekrats" 0.000000 0.000000 ellipse 
+1772 "Ornas" 0.000000 0.000000 ellipse 
+1773 "Caligula Ceasar1" 0.000000 0.000000 ellipse 
+1774 "pdeleuw" 0.000000 0.000000 ellipse 
+1775 "Ingeborg Hartung" 0.000000 0.000000 ellipse 
+1776 "Justine Evans" 0.000000 0.000000 ellipse 
+1777 "Monobi" 0.000000 0.000000 ellipse 
+1778 "Flaviusitalicus" 0.000000 0.000000 ellipse 
+1779 "Menchi" 0.000000 0.000000 ellipse 
+1780 "St.Gera" 0.000000 0.000000 ellipse 
+1781 "Andre Engels" 0.000000 0.000000 ellipse 
+1782 "M. Vince" 0.000000 0.000000 ellipse 
+1783 "Igrek" 0.000000 0.000000 ellipse 
+1784 "APAAsociate" 0.000000 0.000000 ellipse 
+1785 "Lobifer" 0.000000 0.000000 ellipse 
+1786 "Tadas12" 0.000000 0.000000 ellipse 
+1787 "VKokielov" 0.000000 0.000000 ellipse 
+1788 "VARGUX" 0.000000 0.000000 ellipse 
+1789 "Ajur" 0.000000 0.000000 ellipse 
+1790 "Cameltrader" 0.000000 0.000000 ellipse 
+1791 "Derbeobachter" 0.000000 0.000000 ellipse 
+1792 "MatthiasPL" 0.000000 0.000000 ellipse 
+1793 "Eeamoscopolecrushuva" 0.000000 0.000000 ellipse 
+1794 "Tolanor" 0.000000 0.000000 ellipse 
+1795 "Antodav" 0.000000 0.000000 ellipse 
+1796 "Mikhailov Kusserow" 0.000000 0.000000 ellipse 
+1797 "Emmo827" 0.000000 0.000000 ellipse 
+1798 "Kate" 0.000000 0.000000 ellipse 
+1799 "Δικαεοπολις" 0.000000 0.000000 ellipse 
+1800 "Josef Spindelböck" 0.000000 0.000000 ellipse 
+1801 "Jftsang" 0.000000 0.000000 ellipse 
+1802 "JakobVoss" 0.000000 0.000000 ellipse 
+1803 "Valachorum" 0.000000 0.000000 ellipse 
+1804 "Correon" 0.000000 0.000000 ellipse 
+1805 "Gregorius" 0.000000 0.000000 ellipse 
+1806 "Walter Konyk" 0.000000 0.000000 ellipse 
+1807 "Steschke" 0.000000 0.000000 ellipse 
+1808 "Adoomer" 0.000000 0.000000 ellipse 
+1809 "Augustinus" 0.000000 0.000000 ellipse 
+1810 "Scipio" 0.000000 0.000000 ellipse 
+1811 "Alexander Gerashchenko" 0.000000 0.000000 ellipse 
+1812 "DaithíÓ" 0.000000 0.000000 ellipse 
+1813 "Phantomious" 0.000000 0.000000 ellipse 
+1814 "LinkLink" 0.000000 0.000000 ellipse 
+1815 "Musicas2" 0.000000 0.000000 ellipse 
+1816 "Thetis44" 0.000000 0.000000 ellipse 
+1817 "Teolinda" 0.000000 0.000000 ellipse 
+1818 "Riwnodennyk" 0.000000 0.000000 ellipse 
+1819 "Tazzari" 0.000000 0.000000 ellipse 
+1820 "Presbyter" 0.000000 0.000000 ellipse 
+1821 "ChoumX" 0.000000 0.000000 ellipse 
+1822 "Maximillion Pegasus" 0.000000 0.000000 ellipse 
+1823 "Freiberg" 0.000000 0.000000 ellipse 
+1824 "Camstervs" 0.000000 0.000000 ellipse 
+1825 "Neumeiko" 0.000000 0.000000 ellipse 
+1826 "Trulexicon" 0.000000 0.000000 ellipse 
+1827 ".jhc." 0.000000 0.000000 ellipse 
+1828 "Eisenberg" 0.000000 0.000000 ellipse 
+1829 "HERODOTUS" 0.000000 0.000000 ellipse 
+1830 "The one that edits" 0.000000 0.000000 ellipse 
+1831 "Nlu" 0.000000 0.000000 ellipse 
+1832 "Bachmai" 0.000000 0.000000 ellipse 
+1833 "Fritz Jörn" 0.000000 0.000000 ellipse 
+1834 "Dacxjo" 0.000000 0.000000 ellipse 
+1835 "Decimus Canus" 0.000000 0.000000 ellipse 
+1836 "Hugo-Ball" 0.000000 0.000000 ellipse 
+1837 "Fayenatic londinium" 0.000000 0.000000 ellipse 
+1838 "霧木諒二" 0.000000 0.000000 ellipse 
+1839 "Locke Cole" 0.000000 0.000000 ellipse 
+1840 "Carabottorff" 0.000000 0.000000 ellipse 
+1841 "Don Garellos" 0.000000 0.000000 ellipse 
+1842 "Niggeria" 0.000000 0.000000 ellipse 
+1843 "Tankman" 0.000000 0.000000 ellipse 
+1844 "Rsazevedo" 0.000000 0.000000 ellipse 
+1845 "Primetimemime" 0.000000 0.000000 ellipse 
+1846 "Axiotheia" 0.000000 0.000000 ellipse 
+1847 "Borix" 0.000000 0.000000 ellipse 
+1848 "Denwid" 0.000000 0.000000 ellipse 
+1849 "Lucius Caecilius Iucundus" 0.000000 0.000000 ellipse 
+1850 "Emc2" 0.000000 0.000000 ellipse 
+1851 "Centrx" 0.000000 0.000000 ellipse 
+1852 "Art Tatum" 0.000000 0.000000 ellipse 
+1853 "Pindobusu" 0.000000 0.000000 ellipse 
+1854 "Anthony Appleyard" 0.000000 0.000000 ellipse 
+1855 "Munion" 0.000000 0.000000 ellipse 
+1856 "Cucullus" 0.000000 0.000000 ellipse 
+1857 "NikePelera" 0.000000 0.000000 ellipse 
+1858 "Atsushi" 0.000000 0.000000 ellipse 
+1859 "Plubius" 0.000000 0.000000 ellipse 
+1860 "לערי ריינהארט" 0.000000 0.000000 ellipse 
+1861 "Carsrac" 0.000000 0.000000 ellipse 
+1862 "Dastmen" 0.000000 0.000000 ellipse 
+1863 "Matheus" 0.000000 0.000000 ellipse 
+1864 "Hchristophersen" 0.000000 0.000000 ellipse 
+1865 "Casper" 0.000000 0.000000 ellipse 
+1866 "Curdeius" 0.000000 0.000000 ellipse 
+1867 "Cornu" 0.000000 0.000000 ellipse 
+1868 "Anta" 0.000000 0.000000 ellipse 
+1869 "BodhisattvaBot" 0.000000 0.000000 ellipse 
+1870 "Harry S." 0.000000 0.000000 ellipse 
+1871 "Zargulum" 0.000000 0.000000 ellipse 
+1872 "Quaerenssapientiam" 0.000000 0.000000 ellipse 
+1873 "Kanesue" 0.000000 0.000000 ellipse 
+1874 "Mario Žamić" 0.000000 0.000000 ellipse 
+1875 "Nramone" 0.000000 0.000000 ellipse 
+1876 "Djacnov" 0.000000 0.000000 ellipse 
+1877 "Flex" 0.000000 0.000000 ellipse 
+1878 "Lucio Di Madaura" 0.000000 0.000000 ellipse 
+1879 "Ingo Ulpts-Stöckmann" 0.000000 0.000000 ellipse 
+1880 "GdMercurius" 0.000000 0.000000 ellipse 
+1881 "Wiendietry" 0.000000 0.000000 ellipse 
+1882 "Damien Perrotin" 0.000000 0.000000 ellipse 
+1883 "Nakon" 0.000000 0.000000 ellipse 
+1884 "Yreglwys" 0.000000 0.000000 ellipse 
+1885 "Corvus37" 0.000000 0.000000 ellipse 
+1886 "Lucretia" 0.000000 0.000000 ellipse 
+1887 "Wydlock" 0.000000 0.000000 ellipse 
+1888 "Emanuele Saiu" 0.000000 0.000000 ellipse 
+1889 "CarsracBot" 0.000000 0.000000 ellipse 
+1890 "Alexander Mang" 0.000000 0.000000 ellipse 
+1891 "Alucardxxx" 0.000000 0.000000 ellipse 
+1892 "Gerard Way" 0.000000 0.000000 ellipse 
+1893 "OinkOink" 0.000000 0.000000 ellipse 
+1894 "Gaudio" 0.000000 0.000000 ellipse 
+1895 "Evaja" 0.000000 0.000000 ellipse 
+1896 "Jollyroger" 0.000000 0.000000 ellipse 
+1897 "Casmith 789" 0.000000 0.000000 ellipse 
+1898 "Bestia de traal" 0.000000 0.000000 ellipse 
+1899 "Parthenias" 0.000000 0.000000 ellipse 
+1900 "Roccuz" 0.000000 0.000000 ellipse 
+1901 "ITA32" 0.000000 0.000000 ellipse 
+1902 "Medievalista" 0.000000 0.000000 ellipse 
+1903 "Amire80" 0.000000 0.000000 ellipse 
+1904 "LuciusValens" 0.000000 0.000000 ellipse 
+1905 "Marcial" 0.000000 0.000000 ellipse 
+1906 "David Schneider" 0.000000 0.000000 ellipse 
+1907 "Kurtkizzi" 0.000000 0.000000 ellipse 
+1908 "Arturus" 0.000000 0.000000 ellipse 
+1909 "Gulielmus Valachus" 0.000000 0.000000 ellipse 
+1910 "Leptictidium" 0.000000 0.000000 ellipse 
+1911 "Vaikunda Raja" 0.000000 0.000000 ellipse 
+1912 "Sutcideneb" 0.000000 0.000000 ellipse 
+1913 "Didymus" 0.000000 0.000000 ellipse 
+1914 "Zanimum" 0.000000 0.000000 ellipse 
+1915 "Lituanicus" 0.000000 0.000000 ellipse 
+1916 "Napoleon Quattuor" 0.000000 0.000000 ellipse 
+1917 "Maurice Carbonaro" 0.000000 0.000000 ellipse 
+1918 "Waelsch" 0.000000 0.000000 ellipse 
+1919 "Felix Portier" 0.000000 0.000000 ellipse 
+1920 "Nikai" 0.000000 0.000000 ellipse 
+1921 "JdH" 0.000000 0.000000 ellipse 
+1922 "Cerasus" 0.000000 0.000000 ellipse 
+1923 "Geleynsius" 0.000000 0.000000 ellipse 
+1924 "Insaneinside" 0.000000 0.000000 ellipse 
+1925 "Dragons" 0.000000 0.000000 ellipse 
+1926 "Werner" 0.000000 0.000000 ellipse 
+1927 "Pingi" 0.000000 0.000000 ellipse 
+1928 "Julius1990" 0.000000 0.000000 ellipse 
+1929 "Mustafaa" 0.000000 0.000000 ellipse 
+1930 "Rklawton" 0.000000 0.000000 ellipse 
+1931 "Thaddaeus Gacia" 0.000000 0.000000 ellipse 
+1932 "Equula" 0.000000 0.000000 ellipse 
+1933 "Petris Mari" 0.000000 0.000000 ellipse 
+1934 "Не А" 0.000000 0.000000 ellipse 
+1935 "Bubamara" 0.000000 0.000000 ellipse 
+1936 "Alexius" 0.000000 0.000000 ellipse 
+1937 "Dinsdagskind" 0.000000 0.000000 ellipse 
+1938 "Doyler" 0.000000 0.000000 ellipse 
+1939 "Catilina82" 0.000000 0.000000 ellipse 
+1940 "Meister Stoss" 0.000000 0.000000 ellipse 
+1941 "Dbmag9" 0.000000 0.000000 ellipse 
+1942 "Wumpka" 0.000000 0.000000 ellipse 
+1943 "Vriullop" 0.000000 0.000000 ellipse 
+1944 "Nicelotus" 0.000000 0.000000 ellipse 
+1945 "Leegomes" 0.000000 0.000000 ellipse 
+1946 "Richie" 0.000000 0.000000 ellipse 
+1947 "JoergenB" 0.000000 0.000000 ellipse 
+1948 "Rmarti41" 0.000000 0.000000 ellipse 
+1949 "Cicerina" 0.000000 0.000000 ellipse 
+1950 "Zingebar" 0.000000 0.000000 ellipse 
+1951 "White Cat" 0.000000 0.000000 ellipse 
+1952 "Iason Slanga" 0.000000 0.000000 ellipse 
+1953 "Insane99" 0.000000 0.000000 ellipse 
+1954 "Ar7emis" 0.000000 0.000000 ellipse 
+1955 "Alkab" 0.000000 0.000000 ellipse 
+1956 "Jonathunder" 0.000000 0.000000 ellipse 
+1957 "In aggere serpens" 0.000000 0.000000 ellipse 
+1958 "Alynna Kasmira" 0.000000 0.000000 ellipse 
+1959 "Calle Widmann" 0.000000 0.000000 ellipse 
+1960 "Neddius" 0.000000 0.000000 ellipse 
+1961 "TuvicBot" 0.000000 0.000000 ellipse 
+1962 "AxG" 0.000000 0.000000 ellipse 
+1963 "Cesco" 0.000000 0.000000 ellipse 
+1964 "Tiyoringo" 0.000000 0.000000 ellipse 
+1965 "Shayit" 0.000000 0.000000 ellipse 
+1966 "Nudimmud" 0.000000 0.000000 ellipse 
+1967 "Tacitus Minimus" 0.000000 0.000000 ellipse 
+1968 "Leylomah" 0.000000 0.000000 ellipse 
+1969 "AbcD - New" 0.000000 0.000000 ellipse 
+1970 "Mollyy15" 0.000000 0.000000 ellipse 
+1971 "Edelvang" 0.000000 0.000000 ellipse 
+1972 "Kamranus" 0.000000 0.000000 ellipse 
+1973 "Floccifacio" 0.000000 0.000000 ellipse 
+1974 "KatherineJean" 0.000000 0.000000 ellipse 
+1975 "Delta Echo Foxtrott" 0.000000 0.000000 ellipse 
+1976 "Ji-Elle" 0.000000 0.000000 ellipse 
+1977 "Takabeg" 0.000000 0.000000 ellipse 
+1978 "Akendall" 0.000000 0.000000 ellipse 
+1979 "Erkan Yilmaz" 0.000000 0.000000 ellipse 
+1980 "MarcAurel" 0.000000 0.000000 ellipse 
+1981 "Rgwilberforce" 0.000000 0.000000 ellipse 
+1982 "Steinbach" 0.000000 0.000000 ellipse 
+1983 "Timotheus MMVIII" 0.000000 0.000000 ellipse 
+1984 "Sedgefoot" 0.000000 0.000000 ellipse 
+1985 "Titus Avunculus" 0.000000 0.000000 ellipse 
+1986 "Hari" 0.000000 0.000000 ellipse 
+1987 "W Tanoto" 0.000000 0.000000 ellipse 
+1988 "Dungodung" 0.000000 0.000000 ellipse 
+1989 "Thorsten1" 0.000000 0.000000 ellipse 
+1990 "Rolandus" 0.000000 0.000000 ellipse 
+1991 "Portalian" 0.000000 0.000000 ellipse 
+1992 "Kynikos" 0.000000 0.000000 ellipse 
+1993 "Fabius Bavaricus" 0.000000 0.000000 ellipse 
+1994 "Mglovesfun" 0.000000 0.000000 ellipse 
+1995 "Pier-6" 0.000000 0.000000 ellipse 
+1996 "Derozari" 0.000000 0.000000 ellipse 
+1997 "Thomas Aquinas" 0.000000 0.000000 ellipse 
+1998 "MaartenVidal" 0.000000 0.000000 ellipse 
+1999 "Jamesp" 0.000000 0.000000 ellipse 
+2000 "Tivedshambo" 0.000000 0.000000 ellipse 
+2001 "Antonio Capuozzo" 0.000000 0.000000 ellipse 
+2002 "DrTorstenHenning" 0.000000 0.000000 ellipse 
+2003 "Lvis" 0.000000 0.000000 ellipse 
+2004 "Branddobbe" 0.000000 0.000000 ellipse 
+2005 "Bertrand77" 0.000000 0.000000 ellipse 
+2006 "The Fish" 0.000000 0.000000 ellipse 
+2007 "Zaphod" 0.000000 0.000000 ellipse 
+2008 "Erik Optimus Maximus" 0.000000 0.000000 ellipse 
+2009 " Caius Iulius Caesar Octavius Augustus" 0.000000 0.000000 ellipse 
+2010 "Schreibergasse" 0.000000 0.000000 ellipse 
+2011 "Geja" 0.000000 0.000000 ellipse 
+2012 "Latinology" 0.000000 0.000000 ellipse 
+2013 "Isidorus" 0.000000 0.000000 ellipse 
+2014 "Servuspruinosus" 0.000000 0.000000 ellipse 
+2015 "Bacchias" 0.000000 0.000000 ellipse 
+2016 "Cactus007" 0.000000 0.000000 ellipse 
+2017 "Patriciamclarke" 0.000000 0.000000 ellipse 
+2018 "Ptolemaius75" 0.000000 0.000000 ellipse 
+2019 "Riccardobot" 0.000000 0.000000 ellipse 
+2020 "Deipnosophista" 0.000000 0.000000 ellipse 
+2021 "Ambiorix" 0.000000 0.000000 ellipse 
+2022 "Qrc" 0.000000 0.000000 ellipse 
+2023 "Sfabia" 0.000000 0.000000 ellipse 
+2024 "Meatstack" 0.000000 0.000000 ellipse 
+2025 "Aobogatov" 0.000000 0.000000 ellipse 
+2026 "Brunoy Anastasiya Seryozhenko" 0.000000 0.000000 ellipse 
+2027 "Majorly" 0.000000 0.000000 ellipse 
+2028 "Keziah" 0.000000 0.000000 ellipse 
+2029 "Davidandrade" 0.000000 0.000000 ellipse 
+2030 "Kraus.engelthal" 0.000000 0.000000 ellipse 
+2031 "Asterias rubens" 0.000000 0.000000 ellipse 
+2032 "Petrusserraprimus" 0.000000 0.000000 ellipse 
+2033 "Argentino" 0.000000 0.000000 ellipse 
+2034 "Epternacus" 0.000000 0.000000 ellipse 
+2035 "Shinta" 0.000000 0.000000 ellipse 
+2036 "Iber" 0.000000 0.000000 ellipse 
+2037 "Cofe" 0.000000 0.000000 ellipse 
+2038 "Egidiofc" 0.000000 0.000000 ellipse 
+2039 "Lutheran" 0.000000 0.000000 ellipse 
+2040 "Mpc" 0.000000 0.000000 ellipse 
+2041 "Kairos" 0.000000 0.000000 ellipse 
+2042 "Bi" 0.000000 0.000000 ellipse 
+2043 "Bu" 0.000000 0.000000 ellipse 
+2044 "Theresavanessaneele" 0.000000 0.000000 ellipse 
+2045 "Jacobius" 0.000000 0.000000 ellipse 
+2046 "Мико" 0.000000 0.000000 ellipse 
+2047 "Heiko" 0.000000 0.000000 ellipse 
+2048 "Pdeleuw" 0.000000 0.000000 ellipse 
+2049 "Eckibavariae" 0.000000 0.000000 ellipse 
+2050 "Montesquieu" 0.000000 0.000000 ellipse 
+2051 "Danielus Pugnatorius" 0.000000 0.000000 ellipse 
+2052 "FeodorBezuhov" 0.000000 0.000000 ellipse 
+2053 "Sedicinoni" 0.000000 0.000000 ellipse 
+2054 "Massimo Macconi" 0.000000 0.000000 ellipse 
+2055 "Grimhelm" 0.000000 0.000000 ellipse 
+2056 "Nigga" 0.000000 0.000000 ellipse 
+2057 "Jaqen" 0.000000 0.000000 ellipse 
+2058 "Sampo Torgo" 0.000000 0.000000 ellipse 
+2059 "Micke" 0.000000 0.000000 ellipse 
+2060 "Enzian44" 0.000000 0.000000 ellipse 
+2061 "Plaicy" 0.000000 0.000000 ellipse 
+2062 "Gfuturo" 0.000000 0.000000 ellipse 
+2063 "José Fontaine" 0.000000 0.000000 ellipse 
+2064 "Thoma D." 0.000000 0.000000 ellipse 
+2065 "Luccaro" 0.000000 0.000000 ellipse 
+2066 "Rogeliolopez" 0.000000 0.000000 ellipse 
+2067 "Stercus.caput" 0.000000 0.000000 ellipse 
+2068 "Minimus" 0.000000 0.000000 ellipse 
+2069 "kai_su_teknon" 0.000000 0.000000 ellipse 
+2070 "WTHarvey" 0.000000 0.000000 ellipse 
+2071 "Johsan" 0.000000 0.000000 ellipse 
+2072 "Brulovos" 0.000000 0.000000 ellipse 
+2073 "Lrz35" 0.000000 0.000000 ellipse 
+2074 "Caius Iulius Caesar Octavius Augustus" 0.000000 0.000000 ellipse 
+2075 "Frollo" 0.000000 0.000000 ellipse 
+2076 "CNUT REX ANGLORUM" 0.000000 0.000000 ellipse 
+2077 "Greyor" 0.000000 0.000000 ellipse 
+2078 "Parttimehippy" 0.000000 0.000000 ellipse 
+2079 "Vyasa" 0.000000 0.000000 ellipse 
+2080 "Agnus" 0.000000 0.000000 ellipse 
+2081 "Claus Ableiter" 0.000000 0.000000 ellipse 
+2082 "Brennus" 0.000000 0.000000 ellipse 
+2083 "Cicero Augustus" 0.000000 0.000000 ellipse 
+2084 "Darklock" 0.000000 0.000000 ellipse 
+2085 "Lembacher" 0.000000 0.000000 ellipse 
+2086 "Turkcell" 0.000000 0.000000 ellipse 
+2087 "I have a dream" 0.000000 0.000000 ellipse 
+2088 "Terrasidius" 0.000000 0.000000 ellipse 
+2089 "Runningfridgesrule" 0.000000 0.000000 ellipse 
+2090 "LuckyLindy" 0.000000 0.000000 ellipse 
+2091 "Emufarmers" 0.000000 0.000000 ellipse 
+2092 "Kanjy" 0.000000 0.000000 ellipse 
+2093 "Kibert" 0.000000 0.000000 ellipse 
+2094 "Homo Barocus" 0.000000 0.000000 ellipse 
+2095 "Keenan Pepper" 0.000000 0.000000 ellipse 
+2096 "Xatufan" 0.000000 0.000000 ellipse 
+2097 "UV" 0.000000 0.000000 ellipse 
+2098 "Rickss" 0.000000 0.000000 ellipse 
+2099 "Epierre" 0.000000 0.000000 ellipse 
+2100 "Flagrantinertia" 0.000000 0.000000 ellipse 
+2101 "Sgecko" 0.000000 0.000000 ellipse 
+2102 "Koppany" 0.000000 0.000000 ellipse 
+2103 "Scooter" 0.000000 0.000000 ellipse 
+2104 "Plato" 0.000000 0.000000 ellipse 
+2105 "PeregrinusSolus" 0.000000 0.000000 ellipse 
+2106 "ALBEIROR XXIV" 0.000000 0.000000 ellipse 
+2107 "Miko Stavrev" 0.000000 0.000000 ellipse 
+2108 "Jedudedek" 0.000000 0.000000 ellipse 
+2109 "Pieter Kuiper" 0.000000 0.000000 ellipse 
+2110 "Cheriebc" 0.000000 0.000000 ellipse 
+2111 "Cfmagrans" 0.000000 0.000000 ellipse 
+2112 ".snoopy." 0.000000 0.000000 ellipse 
+2113 "PMG" 0.000000 0.000000 ellipse 
+2114 "Mathemaster" 0.000000 0.000000 ellipse 
+2115 "N-true" 0.000000 0.000000 ellipse 
+2116 "Dex" 0.000000 0.000000 ellipse 
+2117 "Eidolon87" 0.000000 0.000000 ellipse 
+2118 "Ahoerstemeier" 0.000000 0.000000 ellipse 
+2119 "Julila" 0.000000 0.000000 ellipse 
+2120 "Baladid" 0.000000 0.000000 ellipse 
+2121 "DerHexer" 0.000000 0.000000 ellipse 
+2122 "Aramgar" 0.000000 0.000000 ellipse 
+2123 "Nigga stole my bike" 0.000000 0.000000 ellipse 
+2124 "Crusader" 0.000000 0.000000 ellipse 
+2125 "Flaviusiulianus" 0.000000 0.000000 ellipse 
+2126 "Patruccuus" 0.000000 0.000000 ellipse 
+2127 "TimiusVIII XX" 0.000000 0.000000 ellipse 
+2128 "KooBooLdd" 0.000000 0.000000 ellipse 
+2129 "Treesareas" 0.000000 0.000000 ellipse 
+2130 "Δικαιοπολις" 0.000000 0.000000 ellipse 
+2131 "Computatrum" 0.000000 0.000000 ellipse 
+2132 "Atom3000" 0.000000 0.000000 ellipse 
+2133 "Xn4" 0.000000 0.000000 ellipse 
+2134 "Ogram" 0.000000 0.000000 ellipse 
+2135 "TwoWings" 0.000000 0.000000 ellipse 
+2136 "Der Mario" 0.000000 0.000000 ellipse 
+2137 "Paulus Iesus" 0.000000 0.000000 ellipse 
+2138 "Kamikaze" 0.000000 0.000000 ellipse 
+2139 "Jrundin" 0.000000 0.000000 ellipse 
+2140 "Caffagianfraliceit" 0.000000 0.000000 ellipse 
+2141 "Antidrugue" 0.000000 0.000000 ellipse 
+2142 "PETF" 0.000000 0.000000 ellipse 
+2143 "Tityrus" 0.000000 0.000000 ellipse 
+2144 "Publius Vergilius Hadrianus" 0.000000 0.000000 ellipse 
+2145 "Quentin" 0.000000 0.000000 ellipse 
+2146 "Petrus Ovis" 0.000000 0.000000 ellipse 
+2147 "Haud" 0.000000 0.000000 ellipse 
+2148 "Larissa" 0.000000 0.000000 ellipse 
+2149 "Augustus Julius" 0.000000 0.000000 ellipse 
+2150 "Apengu" 0.000000 0.000000 ellipse 
+2151 "Eknelson" 0.000000 0.000000 ellipse 
+2152 "Ogrizzo" 0.000000 0.000000 ellipse 
+2153 "Nebrascanus" 0.000000 0.000000 ellipse 
+2154 "Nate128" 0.000000 0.000000 ellipse 
+2155 "Lschyt" 0.000000 0.000000 ellipse 
+2156 "Bautsch" 0.000000 0.000000 ellipse 
+2157 "Polarlys" 0.000000 0.000000 ellipse 
+2158 "L'Aquatique" 0.000000 0.000000 ellipse 
+2159 "IosciusUsurped" 0.000000 0.000000 ellipse 
+2160 "Komischn" 0.000000 0.000000 ellipse 
+2161 "KnowledgeNL" 0.000000 0.000000 ellipse 
+*arcs
+2 1081 1.000000 
+2 1069 1.000000 
+10 27 1.000000 
+14 1990 2.000000 
+16 1069 1.000000 
+23 1272 2.000000 
+27 1081 2.000000 
+27 599 1.000000 
+27 1243 1.000000 
+27 177 1.000000 
+27 1628 1.000000 
+27 2075 1.000000 
+27 1375 1.000000 
+27 2078 1.000000 
+27 784 1.000000 
+27 1909 1.000000 
+27 1955 5.000000 
+27 1156 1.000000 
+27 232 1.000000 
+27 2150 1.000000 
+27 1069 2.000000 
+27 449 3.000000 
+27 715 1.000000 
+27 2121 1.000000 
+27 1035 1.000000 
+27 418 1.000000 
+27 1295 1.000000 
+27 318 2.000000 
+27 1985 1.000000 
+27 289 2.000000 
+27 1990 13.000000 
+27 564 1.000000 
+27 135 1.000000 
+27 1414 1.000000 
+34 700 3.000000 
+35 2097 3.000000 
+36 950 1.000000 
+36 28 1.000000 
+36 1104 1.000000 
+39 912 1.000000 
+39 1081 5.000000 
+39 2054 2.000000 
+39 2064 1.000000 
+42 2054 1.000000 
+46 254 2.000000 
+50 1081 1.000000 
+50 2064 9.000000 
+50 2097 5.000000 
+53 1081 2.000000 
+60 1035 3.000000 
+60 2097 1.000000 
+68 700 1.000000 
+74 700 1.000000 
+76 1081 1.000000 
+79 431 5.000000 
+79 1248 2.000000 
+79 520 2.000000 
+79 1389 1.000000 
+79 1465 1.000000 
+79 1129 3.000000 
+79 1944 1.000000 
+79 1914 1.000000 
+79 1860 2.000000 
+79 616 1.000000 
+79 1730 1.000000 
+79 1982 1.000000 
+79 254 2.000000 
+79 1951 1.000000 
+79 1569 3.000000 
+79 449 1.000000 
+79 1035 1.000000 
+79 1694 2.000000 
+79 1611 2.000000 
+79 2097 2.000000 
+79 1522 1.000000 
+79 289 1.000000 
+79 1510 1.000000 
+86 700 6.000000 
+86 299 1.000000 
+86 1081 5.000000 
+86 600 1.000000 
+86 799 1.000000 
+86 2097 1.000000 
+86 1069 1.000000 
+86 431 1.000000 
+86 1522 10.000000 
+86 1990 1.000000 
+86 2054 3.000000 
+86 1035 9.000000 
+91 1299 1.000000 
+92 950 2.000000 
+92 567 1.000000 
+92 600 1.000000 
+92 1997 7.000000 
+92 642 1.000000 
+92 1990 13.000000 
+92 476 1.000000 
+92 239 4.000000 
+93 1389 1.000000 
+100 1081 1.000000 
+100 1308 1.000000 
+100 1522 2.000000 
+100 1570 1.000000 
+100 1737 1.000000 
+100 1035 2.000000 
+120 1061 1.000000 
+122 2097 2.000000 
+127 700 4.000000 
+134 923 1.000000 
+151 2097 3.000000 
+185 1867 1.000000 
+185 2124 1.000000 
+185 1941 1.000000 
+191 2054 1.000000 
+191 1069 1.000000 
+197 1990 3.000000 
+197 1811 5.000000 
+197 1065 3.000000 
+200 79 1.000000 
+204 911 1.000000 
+208 451 1.000000 
+215 1 1.000000 
+215 567 2.000000 
+215 1623 1.000000 
+215 22 1.000000 
+215 1084 1.000000 
+215 1114 1.000000 
+215 1086 1.000000 
+215 1087 7.000000 
+215 8 1.000000 
+215 9 1.000000 
+215 573 1.000000 
+215 1092 1.000000 
+215 653 1.000000 
+215 575 1.000000 
+215 1131 1.000000 
+215 14 1.000000 
+215 580 1.000000 
+215 98 1.000000 
+215 1638 1.000000 
+215 19 1.000000 
+215 20 1.000000 
+215 123 1.000000 
+215 21 1.000000 
+215 583 1.000000 
+215 834 1.000000 
+215 1371 1.000000 
+215 1160 1.000000 
+215 584 1.000000 
+215 1106 1.000000 
+215 1108 1.000000 
+215 27 9.000000 
+215 1110 2.000000 
+215 590 1.000000 
+215 1646 1.000000 
+215 28 1.000000 
+215 591 1.000000 
+215 592 1.000000 
+215 593 1.000000 
+215 1029 1.000000 
+215 198 1.000000 
+215 598 1.000000 
+215 599 1.000000 
+215 600 6.000000 
+215 1652 1.000000 
+215 35 3.000000 
+215 1120 1.000000 
+215 1675 1.000000 
+215 603 1.000000 
+215 396 1.000000 
+215 1951 1.000000 
+215 262 1.000000 
+215 39 1.000000 
+215 605 1.000000 
+215 1656 1.000000 
+215 277 1.000000 
+215 606 1.000000 
+215 1124 1.000000 
+215 1660 1.000000 
+215 608 3.000000 
+215 1126 1.000000 
+215 609 1.000000 
+215 610 1.000000 
+215 611 4.000000 
+215 612 1.000000 
+215 613 1.000000 
+215 44 1.000000 
+215 1130 1.000000 
+215 615 1.000000 
+215 45 1.000000 
+215 1395 1.000000 
+215 1666 1.000000 
+215 48 1.000000 
+215 49 1.000000 
+215 51 1.000000 
+215 1135 1.000000 
+215 1137 1.000000 
+215 1438 1.000000 
+215 1673 1.000000 
+215 303 1.000000 
+215 625 1.000000 
+215 626 1.000000 
+215 56 1.000000 
+215 922 1.000000 
+215 57 1.000000 
+215 1939 1.000000 
+215 630 1.000000 
+215 1502 1.000000 
+215 1147 1.000000 
+215 1684 3.000000 
+215 64 1.000000 
+215 1516 1.000000 
+215 637 1.000000 
+215 2035 1.000000 
+215 639 1.000000 
+215 70 1.000000 
+215 203 1.000000 
+215 642 10.000000 
+215 643 1.000000 
+215 1154 1.000000 
+215 646 1.000000 
+215 75 3.000000 
+215 1158 1.000000 
+215 1576 1.000000 
+215 78 1.000000 
+215 79 5.000000 
+215 80 1.000000 
+215 1719 1.000000 
+215 1159 1.000000 
+215 842 1.000000 
+215 1700 1.000000 
+215 1163 1.000000 
+215 651 1.000000 
+215 87 1.000000 
+215 1706 1.000000 
+215 654 1.000000 
+215 1710 1.000000 
+215 1651 1.000000 
+215 91 1.000000 
+215 1170 11.000000 
+215 97 1.000000 
+215 1171 1.000000 
+215 209 1.000000 
+215 664 1.000000 
+215 648 1.000000 
+215 102 1.000000 
+215 669 1.000000 
+215 665 1.000000 
+215 103 1.000000 
+215 104 1.000000 
+215 1721 2.000000 
+215 1177 1.000000 
+215 1722 1.000000 
+215 105 1.000000 
+215 1179 1.000000 
+215 106 1.000000 
+215 1724 1.000000 
+215 1725 1.000000 
+215 706 2.000000 
+215 1183 1.000000 
+215 1184 1.000000 
+215 115 1.000000 
+215 1728 1.000000 
+215 681 1.000000 
+215 1809 1.000000 
+215 119 1.000000 
+215 1730 1.000000 
+215 683 1.000000 
+215 1731 1.000000 
+215 2029 1.000000 
+215 1190 1.000000 
+215 1191 1.000000 
+215 127 2.000000 
+215 688 1.000000 
+215 768 1.000000 
+215 1739 1.000000 
+215 130 1.000000 
+215 1853 1.000000 
+215 1919 1.000000 
+215 1741 1.000000 
+215 690 2.000000 
+215 409 1.000000 
+215 1556 1.000000 
+215 1747 1.000000 
+215 1198 1.000000 
+215 1199 1.000000 
+215 1657 1.000000 
+215 1202 1.000000 
+215 137 1.000000 
+215 693 1.000000 
+215 1755 1.000000 
+215 1206 1.000000 
+215 1917 1.000000 
+215 143 1.000000 
+215 1760 1.000000 
+215 1763 1.000000 
+215 1764 1.000000 
+215 146 1.000000 
+215 1765 1.000000 
+215 149 1.000000 
+215 700 1.000000 
+215 1767 1.000000 
+215 153 1.000000 
+215 703 1.000000 
+215 894 1.000000 
+215 157 1.000000 
+215 1691 1.000000 
+215 1218 1.000000 
+215 709 1.000000 
+215 162 1.000000 
+215 1780 1.000000 
+215 2004 1.000000 
+215 1783 1.000000 
+215 1221 1.000000 
+215 165 1.000000 
+215 1224 1.000000 
+215 587 1.000000 
+215 1225 2.000000 
+215 1789 1.000000 
+215 1790 1.000000 
+215 1229 1.000000 
+215 719 1.000000 
+215 1232 1.000000 
+215 721 8.000000 
+215 2070 1.000000 
+215 172 1.000000 
+215 1233 1.000000 
+215 176 2.000000 
+215 1235 1.000000 
+215 1799 1.000000 
+215 1800 1.000000 
+215 117 1.000000 
+215 1803 3.000000 
+215 1239 1.000000 
+215 178 1.000000 
+215 1240 1.000000 
+215 1242 1.000000 
+215 183 1.000000 
+215 1969 1.000000 
+215 1808 1.000000 
+215 2138 2.000000 
+215 1060 1.000000 
+215 323 1.000000 
+215 187 1.000000 
+215 2156 1.000000 
+215 1518 1.000000 
+215 190 1.000000 
+215 192 1.000000 
+215 943 1.000000 
+215 193 1.000000 
+215 194 1.000000 
+215 1252 2.000000 
+215 1815 1.000000 
+215 1817 1.000000 
+215 1254 1.000000 
+215 196 1.000000 
+215 197 3.000000 
+215 31 1.000000 
+215 1255 1.000000 
+215 1821 1.000000 
+215 1823 1.000000 
+215 1257 1.000000 
+215 1258 1.000000 
+215 50 4.000000 
+215 1259 1.000000 
+215 1260 1.000000 
+215 1261 5.000000 
+215 1928 1.000000 
+215 202 1.000000 
+215 1829 1.000000 
+215 205 1.000000 
+215 745 1.000000 
+215 746 1.000000 
+215 1834 2.000000 
+215 1835 1.000000 
+215 211 1.000000 
+215 749 1.000000 
+215 750 1.000000 
+215 1269 1.000000 
+215 1271 3.000000 
+215 1272 4.000000 
+215 1274 2.000000 
+215 218 1.000000 
+215 1276 1.000000 
+215 576 1.000000 
+215 220 1.000000 
+215 1841 2.000000 
+215 757 1.000000 
+215 759 1.000000 
+215 223 1.000000 
+215 1560 1.000000 
+215 1193 1.000000 
+215 2128 1.000000 
+215 1846 1.000000 
+215 1847 1.000000 
+215 227 1.000000 
+215 1849 1.000000 
+215 1384 1.000000 
+215 1709 1.000000 
+215 1850 1.000000 
+215 1851 3.000000 
+215 230 1.000000 
+215 1852 1.000000 
+215 250 1.000000 
+215 1740 1.000000 
+215 1854 1.000000 
+215 775 1.000000 
+215 232 2.000000 
+215 776 1.000000 
+215 1291 1.000000 
+215 1856 1.000000 
+215 234 1.000000 
+215 1292 1.000000 
+215 237 1.000000 
+215 780 1.000000 
+215 862 1.000000 
+215 781 2.000000 
+215 782 1.000000 
+215 239 37.000000 
+215 783 1.000000 
+215 785 1.000000 
+215 1297 1.000000 
+215 241 1.000000 
+215 787 1.000000 
+215 1862 1.000000 
+215 243 1.000000 
+215 790 1.000000 
+215 1300 1.000000 
+215 245 1.000000 
+215 246 1.000000 
+215 1302 1.000000 
+215 1303 1.000000 
+215 792 1.000000 
+215 794 1.000000 
+215 1868 1.000000 
+215 1304 2.000000 
+215 1871 2.000000 
+215 256 1.000000 
+215 1311 1.000000 
+215 231 1.000000 
+215 807 1.000000 
+215 38 1.000000 
+215 1877 1.000000 
+215 264 1.000000 
+215 266 1.000000 
+215 2025 1.000000 
+215 433 2.000000 
+215 269 1.000000 
+215 1880 1.000000 
+215 1318 2.000000 
+215 1947 1.000000 
+215 273 1.000000 
+215 1882 1.000000 
+215 1321 1.000000 
+215 425 1.000000 
+215 1322 1.000000 
+215 40 1.000000 
+215 279 1.000000 
+215 281 1.000000 
+215 496 1.000000 
+215 1324 1.000000 
+215 151 1.000000 
+215 1714 1.000000 
+215 820 1.000000 
+215 284 1.000000 
+215 285 1.000000 
+215 2023 1.000000 
+215 286 1.000000 
+215 287 1.000000 
+215 288 1.000000 
+215 289 17.000000 
+215 290 1.000000 
+215 291 1.000000 
+215 1893 1.000000 
+215 1339 1.000000 
+215 1896 1.000000 
+215 295 7.000000 
+215 831 2.000000 
+215 1897 1.000000 
+215 832 1.000000 
+215 490 1.000000 
+215 1344 1.000000 
+215 1345 7.000000 
+215 1900 1.000000 
+215 821 1.000000 
+215 1356 1.000000 
+215 301 10.000000 
+215 836 4.000000 
+215 837 1.000000 
+215 838 1.000000 
+215 1127 1.000000 
+215 958 1.000000 
+215 1350 1.000000 
+215 1351 1.000000 
+215 1906 2.000000 
+215 141 1.000000 
+215 2095 1.000000 
+215 1354 1.000000 
+215 841 1.000000 
+215 1912 1.000000 
+215 1699 1.000000 
+215 526 1.000000 
+215 844 3.000000 
+215 309 1.000000 
+215 344 1.000000 
+215 1360 1.000000 
+215 2125 1.000000 
+215 677 1.000000 
+215 848 2.000000 
+215 1364 4.000000 
+215 313 1.000000 
+215 875 1.000000 
+215 1370 1.000000 
+215 963 1.000000 
+215 851 1.000000 
+215 1922 5.000000 
+215 1923 1.000000 
+215 1793 1.000000 
+215 321 1.000000 
+215 789 1.000000 
+215 965 1.000000 
+215 1924 2.000000 
+215 1251 1.000000 
+215 324 5.000000 
+215 1376 1.000000 
+215 1927 3.000000 
+215 1822 2.000000 
+215 327 1.000000 
+215 854 1.000000 
+215 1379 1.000000 
+215 855 1.000000 
+215 753 1.000000 
+215 755 1.000000 
+215 1382 1.000000 
+215 859 1.000000 
+215 860 1.000000 
+215 1855 1.000000 
+215 331 1.000000 
+215 864 1.000000 
+215 1386 1.000000 
+215 1870 1.000000 
+215 865 1.000000 
+215 1934 1.000000 
+215 1388 1.000000 
+215 806 1.000000 
+215 866 1.000000 
+215 727 1.000000 
+215 337 1.000000 
+215 868 1.000000 
+215 1938 1.000000 
+215 339 1.000000 
+215 1665 1.000000 
+215 870 2.000000 
+215 341 1.000000 
+215 47 1.000000 
+215 1398 1.000000 
+215 873 2.000000 
+215 1399 2.000000 
+215 1400 1.000000 
+215 850 1.000000 
+215 876 1.000000 
+215 877 1.000000 
+215 1211 1.000000 
+215 350 1.000000 
+215 1402 1.000000 
+215 436 1.000000 
+215 880 1.000000 
+215 1953 1.000000 
+215 1866 2.000000 
+215 1403 1.000000 
+215 353 1.000000 
+215 884 1.000000 
+215 885 1.000000 
+215 1955 2.000000 
+215 1081 13.000000 
+215 886 1.000000 
+215 887 11.000000 
+215 888 1.000000 
+215 1958 2.000000 
+215 1941 6.000000 
+215 771 4.000000 
+215 890 1.000000 
+215 360 1.000000 
+215 892 1.000000 
+215 362 1.000000 
+215 1964 1.000000 
+215 953 1.000000 
+215 1627 1.000000 
+215 1967 1.000000 
+215 895 2.000000 
+215 1420 1.000000 
+215 896 1.000000 
+215 367 1.000000 
+215 897 1.000000 
+215 1423 2.000000 
+215 898 1.000000 
+215 899 1.000000 
+215 370 1.000000 
+215 1972 1.000000 
+215 372 1.000000 
+215 902 4.000000 
+215 2099 1.000000 
+215 903 1.000000 
+215 904 1.000000 
+215 905 1.000000 
+215 1433 1.000000 
+215 906 1.000000 
+215 1976 1.000000 
+215 541 1.000000 
+215 1437 1.000000 
+215 761 1.000000 
+215 1439 1.000000 
+215 158 1.000000 
+215 1441 1.000000 
+215 385 2.000000 
+215 1615 1.000000 
+215 388 4.000000 
+215 1401 1.000000 
+215 1074 1.000000 
+215 1442 1.000000 
+215 1118 1.000000 
+215 1443 1.000000 
+215 394 1.000000 
+215 1989 1.000000 
+215 917 1.000000 
+215 1990 97.000000 
+215 1992 1.000000 
+215 557 1.000000 
+215 1448 1.000000 
+215 1140 1.000000 
+215 1450 1.000000 
+215 923 3.000000 
+215 1996 2.000000 
+215 398 1.000000 
+215 1998 1.000000 
+215 1454 1.000000 
+215 359 11.000000 
+215 927 5.000000 
+215 1455 2.000000 
+215 930 1.000000 
+215 932 1.000000 
+215 933 1.000000 
+215 2001 1.000000 
+215 936 1.000000 
+215 2003 1.000000 
+215 1459 1.000000 
+215 410 1.000000 
+215 2006 1.000000 
+215 1462 1.000000 
+215 1463 1.000000 
+215 778 1.000000 
+215 941 1.000000 
+215 414 1.000000 
+215 2013 7.000000 
+215 415 1.000000 
+215 944 1.000000 
+215 2014 1.000000 
+215 1222 1.000000 
+215 1265 1.000000 
+215 1273 1.000000 
+215 2019 1.000000 
+215 737 1.000000 
+215 950 3.000000 
+215 951 1.000000 
+215 2022 1.000000 
+215 1470 1.000000 
+215 422 2.000000 
+215 1471 1.000000 
+215 2024 1.000000 
+215 1476 1.000000 
+215 275 1.000000 
+215 954 1.000000 
+215 1478 1.000000 
+215 426 1.000000 
+215 1325 1.000000 
+215 1971 1.000000 
+215 1634 1.000000 
+215 1486 1.000000 
+215 400 1.000000 
+215 427 7.000000 
+215 430 1.000000 
+215 547 1.000000 
+215 431 44.000000 
+215 2033 2.000000 
+215 1485 1.000000 
+215 2034 1.000000 
+215 1391 1.000000 
+215 434 3.000000 
+215 1487 1.000000 
+215 2039 1.000000 
+215 1811 2.000000 
+215 525 1.000000 
+215 2041 1.000000 
+215 438 1.000000 
+215 2042 1.000000 
+215 440 1.000000 
+215 1430 1.000000 
+215 444 1.000000 
+215 386 1.000000 
+215 1494 1.000000 
+215 445 1.000000 
+215 1496 1.000000 
+215 448 1.000000 
+215 449 5.000000 
+215 982 1.000000 
+215 2054 28.000000 
+215 634 1.000000 
+215 2055 1.000000 
+215 1503 1.000000 
+215 455 1.000000 
+215 2058 1.000000 
+215 987 1.000000 
+215 1522 1.000000 
+215 1508 1.000000 
+215 460 1.000000 
+215 494 1.000000 
+215 2065 1.000000 
+215 1517 1.000000 
+215 1507 1.000000 
+215 2067 1.000000 
+215 552 1.000000 
+215 995 1.000000 
+215 1686 1.000000 
+215 469 1.000000 
+215 2073 1.000000 
+215 2074 5.000000 
+215 1523 1.000000 
+215 1525 1.000000 
+215 471 1.000000 
+215 999 1.000000 
+215 473 3.000000 
+215 475 1.000000 
+215 476 2.000000 
+215 956 1.000000 
+215 724 1.000000 
+215 479 1.000000 
+215 1533 1.000000 
+215 2088 1.000000 
+215 621 1.000000 
+215 1536 1.000000 
+215 1537 1.000000 
+215 2091 7.000000 
+215 1285 3.000000 
+215 482 1.000000 
+215 1008 1.000000 
+215 949 1.000000 
+215 2097 83.000000 
+215 1541 1.000000 
+215 2154 1.000000 
+215 1542 1.000000 
+215 1544 2.000000 
+215 1011 1.000000 
+215 1514 1.000000 
+215 818 1.000000 
+215 497 1.000000 
+215 1776 1.000000 
+215 1551 1.000000 
+215 1256 2.000000 
+215 1553 1.000000 
+215 2106 1.000000 
+215 1555 1.000000 
+215 957 1.000000 
+215 501 1.000000 
+215 1526 3.000000 
+215 1930 1.000000 
+215 503 1.000000 
+215 505 1.000000 
+215 507 1.000000 
+215 377 5.000000 
+215 283 4.000000 
+215 510 1.000000 
+215 2116 1.000000 
+215 2117 1.000000 
+215 1566 1.000000 
+215 514 1.000000 
+215 515 1.000000 
+215 517 1.000000 
+215 2118 1.000000 
+215 1567 1.000000 
+215 521 4.000000 
+215 522 1.000000 
+215 1890 1.000000 
+215 1034 2.000000 
+215 524 5.000000 
+215 1332 1.000000 
+215 2124 3.000000 
+215 527 1.000000 
+215 847 1.000000 
+215 1921 1.000000 
+215 2127 1.000000 
+215 1696 1.000000 
+215 1577 1.000000 
+215 1039 1.000000 
+215 1040 2.000000 
+215 1041 1.000000 
+215 2129 1.000000 
+215 2130 1.000000 
+215 531 1.000000 
+215 1584 2.000000 
+215 534 1.000000 
+215 1047 1.000000 
+215 537 1.000000 
+215 2133 3.000000 
+215 1586 1.000000 
+215 1588 3.000000 
+215 1374 1.000000 
+215 189 1.000000 
+215 543 1.000000 
+215 1050 1.000000 
+215 545 1.000000 
+215 1590 1.000000 
+215 1054 2.000000 
+215 2141 1.000000 
+215 1058 1.000000 
+215 318 8.000000 
+215 2144 1.000000 
+215 955 1.000000 
+215 1597 1.000000 
+215 2071 1.000000 
+215 1601 1.000000 
+215 393 2.000000 
+215 1299 1.000000 
+215 1065 20.000000 
+215 551 1.000000 
+215 1603 1.000000 
+215 1066 1.000000 
+215 2149 1.000000 
+215 553 1.000000 
+215 555 1.000000 
+215 1069 49.000000 
+215 1070 1.000000 
+215 1071 1.000000 
+215 2152 3.000000 
+215 556 1.000000 
+215 1072 2.000000 
+215 402 2.000000 
+215 2155 1.000000 
+215 1017 1.000000 
+215 558 1.000000 
+215 1610 1.000000 
+215 1611 1.000000 
+215 1073 1.000000 
+215 1075 1.000000 
+215 1052 1.000000 
+215 1613 2.000000 
+215 1614 1.000000 
+215 1078 1.000000 
+215 2161 1.000000 
+235 431 1.000000 
+235 2054 1.000000 
+239 10 1.000000 
+239 82 1.000000 
+239 1891 1.000000 
+239 318 1.000000 
+239 1550 1.000000 
+239 1811 1.000000 
+239 2103 1.000000 
+239 2097 4.000000 
+239 1069 7.000000 
+239 255 3.000000 
+239 1924 2.000000 
+239 92 2.000000 
+239 289 2.000000 
+239 1990 25.000000 
+239 2054 2.000000 
+239 642 3.000000 
+239 431 46.000000 
+239 923 3.000000 
+243 1990 3.000000 
+254 79 2.000000 
+254 1107 1.000000 
+254 1392 1.000000 
+254 1472 2.000000 
+254 642 3.000000 
+254 743 1.000000 
+254 2115 1.000000 
+254 431 3.000000 
+254 201 1.000000 
+254 1046 1.000000 
+254 1138 1.000000 
+255 1059 2.000000 
+255 1990 6.000000 
+255 239 3.000000 
+255 369 1.000000 
+257 1694 1.000000 
+257 79 1.000000 
+259 1081 2.000000 
+261 1721 1.000000 
+272 1129 1.000000 
+289 1081 4.000000 
+289 799 4.000000 
+289 255 1.000000 
+289 1761 1.000000 
+289 239 1.000000 
+289 10 1.000000 
+289 1526 1.000000 
+289 611 1.000000 
+289 1699 1.000000 
+289 941 1.000000 
+289 1399 1.000000 
+289 1668 2.000000 
+289 1069 5.000000 
+289 385 1.000000 
+289 781 2.000000 
+289 1573 1.000000 
+289 2054 8.000000 
+289 1035 1.000000 
+289 27 1.000000 
+289 2097 5.000000 
+289 431 4.000000 
+289 1522 2.000000 
+289 1990 11.000000 
+289 1510 1.000000 
+289 1822 1.000000 
+299 799 1.000000 
+300 2034 1.000000 
+301 700 1.000000 
+301 1069 6.000000 
+301 642 1.000000 
+302 2097 1.000000 
+303 431 1.000000 
+307 2097 2.000000 
+318 27 1.000000 
+318 2097 2.000000 
+318 359 1.000000 
+318 385 1.000000 
+318 1990 2.000000 
+318 2054 2.000000 
+343 431 1.000000 
+349 79 1.000000 
+355 2097 1.000000 
+358 2097 1.000000 
+359 318 2.000000 
+359 2124 2.000000 
+359 239 1.000000 
+359 1588 2.000000 
+359 2097 3.000000 
+359 1069 3.000000 
+359 431 9.000000 
+359 642 1.000000 
+359 385 3.000000 
+359 1990 5.000000 
+359 592 2.000000 
+359 476 2.000000 
+359 434 1.000000 
+359 2054 1.000000 
+366 79 7.000000 
+366 385 1.000000 
+366 431 7.000000 
+366 642 1.000000 
+366 1860 1.000000 
+369 1990 1.000000 
+377 431 3.000000 
+377 2097 1.000000 
+382 79 1.000000 
+385 1201 1.000000 
+385 2054 1.000000 
+385 1990 9.000000 
+385 642 1.000000 
+389 431 1.000000 
+395 700 1.000000 
+399 289 1.000000 
+399 1922 4.000000 
+401 1990 1.000000 
+403 1081 1.000000 
+403 1717 1.000000 
+407 431 1.000000 
+408 1990 1.000000 
+431 1621 2.000000 
+431 567 2.000000 
+431 427 1.000000 
+431 568 1.000000 
+431 962 1.000000 
+431 1345 4.000000 
+431 1082 1.000000 
+431 5 1.000000 
+431 301 4.000000 
+431 7 1.000000 
+431 700 4.000000 
+431 1035 16.000000 
+431 3 1.000000 
+431 303 4.000000 
+431 444 1.000000 
+431 343 2.000000 
+431 1495 1.000000 
+431 449 1.000000 
+431 24 1.000000 
+431 2054 3.000000 
+431 27 1.000000 
+431 1110 1.000000 
+431 28 1.000000 
+431 1522 1.000000 
+431 592 7.000000 
+431 991 1.000000 
+431 1929 3.000000 
+431 857 2.000000 
+431 1081 14.000000 
+431 600 3.000000 
+431 860 1.000000 
+431 36 1.000000 
+431 1811 8.000000 
+431 1389 12.000000 
+431 1392 2.000000 
+431 1126 1.000000 
+431 1526 1.000000 
+431 1397 1.000000 
+431 1632 1.000000 
+431 1509 1.000000 
+431 1000 4.000000 
+431 2082 3.000000 
+431 878 3.000000 
+431 1532 4.000000 
+431 1395 1.000000 
+431 1823 1.000000 
+431 254 3.000000 
+431 1951 1.000000 
+431 1668 1.000000 
+431 1993 3.000000 
+431 623 2.000000 
+431 1732 1.000000 
+431 355 1.000000 
+431 486 1.000000 
+431 2097 24.000000 
+431 359 8.000000 
+431 1941 1.000000 
+431 59 1.000000 
+431 1210 1.000000 
+431 1278 1.000000 
+431 1972 1.000000 
+431 1558 2.000000 
+431 642 2.000000 
+431 377 2.000000 
+431 800 1.000000 
+431 75 2.000000 
+431 1854 2.000000 
+431 235 1.000000 
+431 541 1.000000 
+431 771 6.000000 
+431 779 1.000000 
+431 238 1.000000 
+431 239 38.000000 
+431 783 1.000000 
+431 1908 1.000000 
+431 1470 2.000000 
+431 1165 1.000000 
+431 390 1.000000 
+431 243 1.000000 
+431 392 1.000000 
+431 1444 1.000000 
+431 92 1.000000 
+431 1990 15.000000 
+431 1867 1.000000 
+431 795 1.000000 
+431 923 2.000000 
+431 1305 1.000000 
+431 1871 1.000000 
+431 1872 2.000000 
+431 799 4.000000 
+431 1588 2.000000 
+431 672 3.000000 
+431 934 2.000000 
+431 407 1.000000 
+431 2143 1.000000 
+431 1061 2.000000 
+431 1182 1.000000 
+431 111 2.000000 
+431 272 1.000000 
+431 2146 1.000000 
+431 117 5.000000 
+431 2013 1.000000 
+431 1069 17.000000 
+431 1924 3.000000 
+431 743 1.000000 
+431 1608 3.000000 
+431 1330 1.000000 
+431 690 6.000000 
+431 560 1.000000 
+431 1569 1.000000 
+431 1472 2.000000 
+431 289 5.000000 
+431 1894 1.000000 
+431 295 1.000000 
+441 431 3.000000 
+441 2082 1.000000 
+444 431 1.000000 
+449 1990 6.000000 
+449 1069 1.000000 
+449 27 1.000000 
+451 1522 5.000000 
+459 1081 2.000000 
+461 700 1.000000 
+476 359 1.000000 
+476 600 1.000000 
+491 1952 1.000000 
+506 1069 1.000000 
+508 2097 1.000000 
+513 1535 1.000000 
+513 346 1.000000 
+513 805 1.000000 
+518 79 1.000000 
+520 79 1.000000 
+524 2054 1.000000 
+524 1081 1.000000 
+529 1961 2.000000 
+533 700 1.000000 
+533 79 2.000000 
+540 700 2.000000 
+540 1480 3.000000 
+551 1069 1.000000 
+556 1768 1.000000 
+563 1081 2.000000 
+566 1069 1.000000 
+567 771 2.000000 
+567 431 1.000000 
+567 923 2.000000 
+567 92 1.000000 
+592 1952 1.000000 
+592 1081 1.000000 
+592 799 1.000000 
+592 2097 1.000000 
+592 491 1.000000 
+592 431 1.000000 
+599 27 1.000000 
+611 700 3.000000 
+611 1081 1.000000 
+611 799 3.000000 
+611 1399 1.000000 
+611 1990 1.000000 
+611 289 3.000000 
+611 1761 1.000000 
+611 2054 1.000000 
+616 79 3.000000 
+623 431 1.000000 
+631 779 1.000000 
+636 79 1.000000 
+641 700 2.000000 
+642 1860 1.000000 
+642 1389 3.000000 
+642 1854 1.000000 
+642 779 2.000000 
+642 2097 2.000000 
+642 1069 11.000000 
+642 1621 2.000000 
+642 28 1.000000 
+642 92 1.000000 
+642 1522 1.000000 
+642 1848 1.000000 
+642 1990 2.000000 
+642 1941 1.000000 
+642 2082 1.000000 
+642 771 3.000000 
+642 1564 1.000000 
+642 239 3.000000 
+642 1811 5.000000 
+642 431 4.000000 
+642 1461 1.000000 
+643 1722 1.000000 
+647 1990 1.000000 
+650 2064 1.000000 
+652 1308 1.000000 
+668 1990 1.000000 
+671 2097 1.000000 
+671 2082 1.000000 
+672 1990 1.000000 
+672 28 2.000000 
+674 1069 1.000000 
+676 1308 1.000000 
+677 1522 5.000000 
+677 12 1.000000 
+677 1990 2.000000 
+677 1081 3.000000 
+677 1069 4.000000 
+679 2054 1.000000 
+680 1481 1.000000 
+689 987 2.000000 
+690 431 1.000000 
+691 1990 1.000000 
+698 278 1.000000 
+700 2054 2.000000 
+708 79 2.000000 
+708 642 1.000000 
+714 79 3.000000 
+714 2097 1.000000 
+720 390 1.000000 
+721 2054 1.000000 
+721 2097 1.000000 
+721 1069 1.000000 
+725 1081 2.000000 
+727 1990 1.000000 
+730 1081 2.000000 
+744 289 1.000000 
+771 79 1.000000 
+771 950 1.000000 
+771 567 1.000000 
+771 397 1.000000 
+771 254 1.000000 
+771 2097 1.000000 
+771 1061 1.000000 
+771 1345 1.000000 
+771 1569 1.000000 
+771 431 2.000000 
+771 1182 1.000000 
+771 1065 1.000000 
+771 1822 1.000000 
+771 1733 1.000000 
+771 1990 1.000000 
+771 642 1.000000 
+771 1090 1.000000 
+771 294 1.000000 
+779 431 2.000000 
+779 642 3.000000 
+784 27 1.000000 
+793 2054 1.000000 
+798 431 1.000000 
+798 1522 1.000000 
+798 289 2.000000 
+798 1990 2.000000 
+798 86 1.000000 
+798 923 1.000000 
+799 912 1.000000 
+799 1081 13.000000 
+799 1308 1.000000 
+799 611 2.000000 
+799 1621 1.000000 
+799 1668 1.000000 
+799 1069 9.000000 
+799 10 1.000000 
+799 299 2.000000 
+799 289 5.000000 
+799 1761 3.000000 
+799 86 2.000000 
+799 1990 9.000000 
+799 1035 5.000000 
+799 1811 1.000000 
+799 451 2.000000 
+799 431 3.000000 
+805 1990 1.000000 
+808 1941 1.000000 
+812 1272 1.000000 
+813 1081 2.000000 
+817 2122 1.000000 
+833 700 1.000000 
+833 2097 2.000000 
+845 2054 1.000000 
+857 1621 3.000000 
+857 567 1.000000 
+857 427 4.000000 
+857 431 22.000000 
+857 1762 1.000000 
+857 1087 2.000000 
+857 434 6.000000 
+857 1942 1.000000 
+857 10 1.000000 
+857 156 1.000000 
+857 14 2.000000 
+857 1689 2.000000 
+857 1911 5.000000 
+857 1360 2.000000 
+857 1497 2.000000 
+857 1500 2.000000 
+857 1104 1.000000 
+857 1367 1.000000 
+857 2054 4.000000 
+857 476 1.000000 
+857 318 7.000000 
+857 1645 1.000000 
+857 985 1.000000 
+857 721 14.000000 
+857 1927 1.000000 
+857 600 4.000000 
+857 1244 1.000000 
+857 1811 2.000000 
+857 1126 2.000000 
+857 999 1.000000 
+857 611 2.000000 
+857 614 1.000000 
+857 197 5.000000 
+857 616 4.000000 
+857 1256 1.000000 
+857 2091 1.000000 
+857 1170 1.000000 
+857 1955 2.000000 
+857 2097 56.000000 
+857 359 7.000000 
+857 1941 6.000000 
+857 1272 1.000000 
+857 1305 1.000000 
+857 1483 2.000000 
+857 668 2.000000 
+857 1839 1.000000 
+857 369 1.000000 
+857 642 11.000000 
+857 1848 1.000000 
+857 769 3.000000 
+857 1563 2.000000 
+857 771 2.000000 
+857 79 2.000000 
+857 1030 3.000000 
+857 232 2.000000 
+857 382 2.000000 
+857 1807 1.000000 
+857 385 10.000000 
+857 1704 3.000000 
+857 239 16.000000 
+857 1295 2.000000 
+857 243 6.000000 
+857 1299 1.000000 
+857 91 8.000000 
+857 92 18.000000 
+857 1990 41.000000 
+857 247 1.000000 
+857 1867 1.000000 
+857 923 17.000000 
+857 1996 1.000000 
+857 1997 1.000000 
+857 1588 2.000000 
+857 255 5.000000 
+857 401 2.000000 
+857 1958 14.000000 
+857 1317 2.000000 
+857 1722 2.000000 
+857 1065 8.000000 
+857 1069 14.000000 
+857 2015 1.000000 
+857 1608 1.000000 
+857 2124 2.000000 
+857 914 1.000000 
+857 692 1.000000 
+857 289 18.000000 
+857 1201 4.000000 
+857 1752 1.000000 
+878 431 1.000000 
+882 700 1.000000 
+887 700 6.000000 
+887 164 2.000000 
+887 2054 1.000000 
+887 1081 2.000000 
+887 1990 1.000000 
+889 226 1.000000 
+895 431 1.000000 
+902 1666 1.000000 
+902 1572 1.000000 
+907 700 2.000000 
+912 700 4.000000 
+912 1081 26.000000 
+912 27 1.000000 
+912 1035 21.000000 
+912 2097 2.000000 
+912 1069 16.000000 
+912 2054 22.000000 
+912 39 1.000000 
+919 700 2.000000 
+923 2124 1.000000 
+923 600 1.000000 
+923 779 1.000000 
+923 1941 2.000000 
+923 642 2.000000 
+923 431 5.000000 
+923 134 2.000000 
+923 1990 6.000000 
+923 239 1.000000 
+923 2054 1.000000 
+941 289 3.000000 
+941 2097 3.000000 
+946 1522 1.000000 
+950 1030 1.000000 
+950 36 1.000000 
+950 923 2.000000 
+950 92 1.000000 
+962 431 2.000000 
+987 689 2.000000 
+994 2097 1.000000 
+997 1081 1.000000 
+999 1990 1.000000 
+1005 672 2.000000 
+1021 79 1.000000 
+1026 700 1.000000 
+1034 1069 1.000000 
+1035 1990 1.000000 
+1043 2054 1.000000 
+1050 1069 3.000000 
+1051 2097 1.000000 
+1059 255 1.000000 
+1061 950 2.000000 
+1061 1389 2.000000 
+1061 1465 1.000000 
+1061 682 1.000000 
+1061 2002 1.000000 
+1061 254 7.000000 
+1061 642 3.000000 
+1061 937 1.000000 
+1061 431 2.000000 
+1061 201 1.000000 
+1061 923 1.000000 
+1061 1619 1.000000 
+1065 700 11.000000 
+1065 1621 1.000000 
+1065 1081 2.000000 
+1065 1308 3.000000 
+1065 600 1.000000 
+1065 2097 2.000000 
+1065 1069 7.000000 
+1065 431 4.000000 
+1065 28 2.000000 
+1065 1522 1.000000 
+1065 1990 4.000000 
+1065 771 1.000000 
+1065 672 1.000000 
+1069 60 1.000000 
+1069 1081 18.000000 
+1069 1308 27.000000 
+1069 100 1.000000 
+1069 1758 1.000000 
+1069 1345 1.000000 
+1069 299 7.000000 
+1069 431 12.000000 
+1069 1470 1.000000 
+1069 259 1.000000 
+1069 301 1.000000 
+1069 239 8.000000 
+1069 2064 4.000000 
+1069 700 14.000000 
+1069 1826 2.000000 
+1069 1990 53.000000 
+1069 2080 1.000000 
+1069 677 2.000000 
+1069 912 9.000000 
+1069 2012 1.000000 
+1069 2013 1.000000 
+1069 164 1.000000 
+1069 385 1.000000 
+1069 1570 1.000000 
+1069 1034 1.000000 
+1069 2054 3.000000 
+1069 1035 11.000000 
+1069 27 1.000000 
+1069 1922 2.000000 
+1069 2097 9.000000 
+1069 721 9.000000 
+1069 1522 10.000000 
+1069 325 1.000000 
+1069 1510 1.000000 
+1069 1966 1.000000 
+1081 139 1.000000 
+1081 2 1.000000 
+1081 1480 1.000000 
+1081 1757 1.000000 
+1081 1345 3.000000 
+1081 299 8.000000 
+1081 1761 5.000000 
+1081 1203 1.000000 
+1081 1526 1.000000 
+1081 571 1.000000 
+1081 498 1.000000 
+1081 700 13.000000 
+1081 1631 3.000000 
+1081 973 1.000000 
+1081 2040 1.000000 
+1081 110 1.000000 
+1081 1905 1.000000 
+1081 524 2.000000 
+1081 1097 1.000000 
+1081 594 2.000000 
+1081 1773 1.000000 
+1081 1217 1.000000 
+1081 845 1.000000 
+1081 310 1.000000 
+1081 677 1.000000 
+1081 2051 1.000000 
+1081 2011 1.000000 
+1081 1499 2.000000 
+1081 1104 1.000000 
+1081 1226 1.000000 
+1081 24 2.000000 
+1081 2054 34.000000 
+1081 451 1.000000 
+1081 851 1.000000 
+1081 2056 1.000000 
+1081 27 9.000000 
+1081 1793 1.000000 
+1081 1794 3.000000 
+1081 431 14.000000 
+1081 28 2.000000 
+1081 730 4.000000 
+1081 1522 13.000000 
+1081 1510 14.000000 
+1081 204 1.000000 
+1081 991 3.000000 
+1081 2061 1.000000 
+1081 1685 1.000000 
+1081 600 1.000000 
+1081 1187 1.000000 
+1081 462 2.000000 
+1081 180 1.000000 
+1081 1243 4.000000 
+1081 276 1.000000 
+1081 39 6.000000 
+1081 1811 1.000000 
+1081 997 1.000000 
+1081 867 1.000000 
+1081 871 1.000000 
+1081 2080 4.000000 
+1081 195 1.000000 
+1081 1661 1.000000 
+1081 611 1.000000 
+1081 873 1.000000 
+1081 1687 3.000000 
+1081 477 1.000000 
+1081 1004 2.000000 
+1081 971 1.000000 
+1081 2087 1.000000 
+1081 351 1.000000 
+1081 1069 41.000000 
+1081 1668 6.000000 
+1081 50 2.000000 
+1081 881 1.000000 
+1081 352 2.000000 
+1081 199 1.000000 
+1081 1261 1.000000 
+1081 739 1.000000 
+1081 481 1.000000 
+1081 887 4.000000 
+1081 1117 1.000000 
+1081 2097 18.000000 
+1081 107 2.000000 
+1081 2098 1.000000 
+1081 1966 3.000000 
+1081 1274 2.000000 
+1081 1007 1.000000 
+1081 1792 1.000000 
+1081 1842 1.000000 
+1081 1844 4.000000 
+1081 763 1.000000 
+1081 858 1.000000 
+1081 721 3.000000 
+1081 68 3.000000 
+1081 642 1.000000 
+1081 644 1.000000 
+1081 1693 1.000000 
+1081 1474 1.000000 
+1081 79 2.000000 
+1081 912 48.000000 
+1081 255 1.000000 
+1081 1423 1.000000 
+1081 158 1.000000 
+1081 1031 1.000000 
+1081 1570 1.000000 
+1081 650 9.000000 
+1081 1571 2.000000 
+1081 239 3.000000 
+1081 1035 43.000000 
+1081 2122 3.000000 
+1081 2123 1.000000 
+1081 544 1.000000 
+1081 89 1.000000 
+1081 1038 1.000000 
+1081 1999 3.000000 
+1081 1990 36.000000 
+1081 658 1.000000 
+1081 920 1.000000 
+1081 661 1.000000 
+1081 797 1.000000 
+1081 1729 1.000000 
+1081 1308 10.000000 
+1081 799 3.000000 
+1081 253 1.000000 
+1081 100 2.000000 
+1081 2136 1.000000 
+1081 2064 8.000000 
+1081 403 3.000000 
+1081 1313 1.000000 
+1081 259 3.000000 
+1081 406 1.000000 
+1081 546 1.000000 
+1081 1592 2.000000 
+1081 828 2.000000 
+1081 2145 3.000000 
+1081 1215 3.000000 
+1081 676 2.000000 
+1081 1063 2.000000 
+1081 164 4.000000 
+1081 1064 1.000000 
+1081 1065 2.000000 
+1081 459 3.000000 
+1081 2012 1.000000 
+1081 1250 1.000000 
+1081 1980 1.000000 
+1081 122 1.000000 
+1081 1886 1.000000 
+1081 125 1.000000 
+1081 1888 1.000000 
+1081 1470 1.000000 
+1081 422 2.000000 
+1081 1746 1.000000 
+1081 289 14.000000 
+1081 86 7.000000 
+1082 431 14.000000 
+1085 700 1.000000 
+1085 2122 1.000000 
+1087 1990 2.000000 
+1090 672 1.000000 
+1090 968 1.000000 
+1097 1522 3.000000 
+1104 431 2.000000 
+1123 700 3.000000 
+1123 1081 1.000000 
+1123 390 5.000000 
+1123 1308 5.000000 
+1123 600 1.000000 
+1123 385 1.000000 
+1123 2097 1.000000 
+1123 1522 10.000000 
+1123 289 3.000000 
+1123 1990 1.000000 
+1123 1244 1.000000 
+1123 2054 9.000000 
+1129 79 2.000000 
+1141 2054 3.000000 
+1197 2097 1.000000 
+1199 1069 3.000000 
+1200 79 1.000000 
+1200 1920 1.000000 
+1200 254 2.000000 
+1200 1107 1.000000 
+1200 1005 2.000000 
+1201 385 1.000000 
+1201 1990 2.000000 
+1205 1081 10.000000 
+1205 2 1.000000 
+1205 569 2.000000 
+1205 1626 3.000000 
+1205 1530 1.000000 
+1205 6 1.000000 
+1205 1096 1.000000 
+1205 577 1.000000 
+1205 1098 1.000000 
+1205 17 1.000000 
+1205 18 1.000000 
+1205 1637 1.000000 
+1205 582 1.000000 
+1205 90 1.000000 
+1205 1640 1.000000 
+1205 390 1.000000 
+1205 25 1.000000 
+1205 586 1.000000 
+1205 1109 1.000000 
+1205 27 2.000000 
+1205 1111 1.000000 
+1205 4 1.000000 
+1205 29 1.000000 
+1205 30 1.000000 
+1205 1648 1.000000 
+1205 1649 1.000000 
+1205 597 2.000000 
+1205 1277 1.000000 
+1205 1281 1.000000 
+1205 607 1.000000 
+1205 1125 1.000000 
+1205 41 1.000000 
+1205 1128 1.000000 
+1205 617 1.000000 
+1205 1399 1.000000 
+1205 2137 1.000000 
+1205 354 1.000000 
+1205 1136 1.000000 
+1205 1431 1.000000 
+1205 1677 1.000000 
+1205 629 1.000000 
+1205 1145 1.000000 
+1205 1680 1.000000 
+1205 1681 1.000000 
+1205 633 1.000000 
+1205 1682 1.000000 
+1205 63 1.000000 
+1205 1813 1.000000 
+1205 65 1.000000 
+1205 1685 1.000000 
+1205 1149 1.000000 
+1205 840 1.000000 
+1205 742 1.000000 
+1205 1688 1.000000 
+1205 69 1.000000 
+1205 640 1.000000 
+1205 641 1.000000 
+1205 642 1.000000 
+1205 1559 1.000000 
+1205 305 1.000000 
+1205 1155 1.000000 
+1205 74 1.000000 
+1205 76 1.000000 
+1205 1697 1.000000 
+1205 1698 1.000000 
+1205 1701 1.000000 
+1205 1162 1.000000 
+1205 650 13.000000 
+1205 88 2.000000 
+1205 656 1.000000 
+1205 1945 2.000000 
+1205 1715 1.000000 
+1205 96 1.000000 
+1205 1717 1.000000 
+1205 1173 1.000000 
+1205 663 1.000000 
+1205 1718 1.000000 
+1205 99 1.000000 
+1205 1720 1.000000 
+1205 931 1.000000 
+1205 210 1.000000 
+1205 670 1.000000 
+1205 1723 1.000000 
+1205 1180 1.000000 
+1205 1751 1.000000 
+1205 108 1.000000 
+1205 110 1.000000 
+1205 1727 1.000000 
+1205 1730 1.000000 
+1205 1362 1.000000 
+1205 928 1.000000 
+1205 1192 1.000000 
+1205 1734 1.000000 
+1205 687 1.000000 
+1205 126 1.000000 
+1205 1745 1.000000 
+1205 815 1.000000 
+1205 1750 1.000000 
+1205 1753 1.000000 
+1205 1756 2.000000 
+1205 1207 1.000000 
+1205 1759 1.000000 
+1205 695 1.000000 
+1205 696 1.000000 
+1205 700 39.000000 
+1205 1952 8.000000 
+1205 1768 1.000000 
+1205 1769 1.000000 
+1205 1213 1.000000 
+1205 1214 1.000000 
+1205 1770 1.000000 
+1205 705 1.000000 
+1205 1981 1.000000 
+1205 159 1.000000 
+1205 707 1.000000 
+1205 160 1.000000 
+1205 1338 1.000000 
+1205 1777 1.000000 
+1205 2000 1.000000 
+1205 164 4.000000 
+1205 711 1.000000 
+1205 713 1.000000 
+1205 1786 1.000000 
+1205 168 1.000000 
+1205 1788 1.000000 
+1205 169 1.000000 
+1205 718 1.000000 
+1205 721 3.000000 
+1205 412 1.000000 
+1205 173 1.000000 
+1205 1796 2.000000 
+1205 1797 1.000000 
+1205 1798 1.000000 
+1205 1236 1.000000 
+1205 1805 1.000000 
+1205 182 1.000000 
+1205 1042 2.000000 
+1205 729 1.000000 
+1205 1925 1.000000 
+1205 188 1.000000 
+1205 1812 1.000000 
+1205 1814 1.000000 
+1205 195 1.000000 
+1205 734 1.000000 
+1205 1816 1.000000 
+1205 735 1.000000 
+1205 1819 1.000000 
+1205 1824 1.000000 
+1205 1825 1.000000 
+1205 2110 1.000000 
+1205 1262 1.000000 
+1205 1830 1.000000 
+1205 206 1.000000 
+1205 1831 1.000000 
+1205 207 2.000000 
+1205 329 1.000000 
+1205 1836 1.000000 
+1205 1270 1.000000 
+1205 213 1.000000 
+1205 124 1.000000 
+1205 1840 1.000000 
+1205 222 1.000000 
+1205 1842 1.000000 
+1205 1421 3.000000 
+1205 224 2.000000 
+1205 1844 2.000000 
+1205 1289 1.000000 
+1205 777 1.000000 
+1205 1328 1.000000 
+1205 1293 1.000000 
+1205 240 1.000000 
+1205 1298 2.000000 
+1205 1863 2.000000 
+1205 1393 1.000000 
+1205 1864 1.000000 
+1205 249 1.000000 
+1205 1306 1.000000 
+1205 1307 1.000000 
+1205 1308 6.000000 
+1205 252 1.000000 
+1205 799 2.000000 
+1205 1435 1.000000 
+1205 801 1.000000 
+1205 258 1.000000 
+1205 803 1.000000 
+1205 1312 1.000000 
+1205 1453 1.000000 
+1205 260 1.000000 
+1205 263 1.000000 
+1205 1878 1.000000 
+1205 268 1.000000 
+1205 1664 1.000000 
+1205 810 1.000000 
+1205 1881 1.000000 
+1205 274 1.000000 
+1205 1323 1.000000 
+1205 819 1.000000 
+1205 1327 1.000000 
+1205 1887 1.000000 
+1205 1329 1.000000 
+1205 822 1.000000 
+1205 825 1.000000 
+1205 1334 1.000000 
+1205 1595 1.000000 
+1205 1892 1.000000 
+1205 1337 1.000000 
+1205 829 1.000000 
+1205 1617 2.000000 
+1205 1340 1.000000 
+1205 833 1.000000 
+1205 1342 1.000000 
+1205 1899 1.000000 
+1205 299 12.000000 
+1205 1901 1.000000 
+1205 1347 1.000000 
+1205 304 1.000000 
+1205 1352 1.000000 
+1205 839 1.000000 
+1205 1353 2.000000 
+1205 1692 1.000000 
+1205 843 1.000000 
+1205 306 1.000000 
+1205 1913 1.000000 
+1205 308 1.000000 
+1205 845 1.000000 
+1205 1916 1.000000 
+1205 1359 2.000000 
+1205 1918 1.000000 
+1205 142 1.000000 
+1205 316 1.000000 
+1205 1784 1.000000 
+1205 319 1.000000 
+1205 1372 1.000000 
+1205 320 1.000000 
+1205 1957 1.000000 
+1205 328 1.000000 
+1205 1380 1.000000 
+1205 1470 2.000000 
+1205 1879 1.000000 
+1205 1390 1.000000 
+1205 823 1.000000 
+1205 1940 1.000000 
+1205 1396 1.000000 
+1205 872 1.000000 
+1205 1477 1.000000 
+1205 348 2.000000 
+1205 1949 1.000000 
+1205 352 2.000000 
+1205 1404 1.000000 
+1205 1406 1.000000 
+1205 357 1.000000 
+1205 1408 6.000000 
+1205 1941 1.000000 
+1205 2007 1.000000 
+1205 1962 1.000000 
+1205 361 1.000000 
+1205 1411 1.000000 
+1205 1883 1.000000 
+1205 961 2.000000 
+1205 364 1.000000 
+1205 1968 1.000000 
+1205 1422 1.000000 
+1205 1425 1.000000 
+1205 901 1.000000 
+1205 373 1.000000 
+1205 1974 1.000000 
+1205 1432 2.000000 
+1205 1434 1.000000 
+1205 907 4.000000 
+1205 378 1.000000 
+1205 908 1.000000 
+1205 1979 1.000000 
+1205 912 11.000000 
+1205 381 1.000000 
+1205 1984 1.000000 
+1205 1873 1.000000 
+1205 887 2.000000 
+1205 1105 1.000000 
+1205 1986 1.000000 
+1205 391 1.000000 
+1205 1988 1.000000 
+1205 916 1.000000 
+1205 395 1.000000 
+1205 1445 1.000000 
+1205 1990 1.000000 
+1205 1991 1.000000 
+1205 919 3.000000 
+1205 925 1.000000 
+1205 161 1.000000 
+1205 1168 1.000000 
+1205 1455 1.000000 
+1205 404 1.000000 
+1205 938 1.000000 
+1205 1642 1.000000 
+1205 413 1.000000 
+1205 2010 1.000000 
+1205 2012 7.000000 
+1205 2016 1.000000 
+1205 420 1.000000 
+1205 421 1.000000 
+1205 423 1.000000 
+1205 1473 1.000000 
+1205 424 1.000000 
+1205 2027 1.000000 
+1205 1480 2.000000 
+1205 2030 1.000000 
+1205 429 1.000000 
+1205 964 1.000000 
+1205 138 1.000000 
+1205 1227 1.000000 
+1205 969 1.000000 
+1205 2037 1.000000 
+1205 2038 1.000000 
+1205 1488 2.000000 
+1205 972 1.000000 
+1205 442 1.000000 
+1205 976 1.000000 
+1205 446 1.000000 
+1205 979 1.000000 
+1205 447 1.000000 
+1205 1498 1.000000 
+1205 1499 1.000000 
+1205 2054 1.000000 
+1205 984 1.000000 
+1205 1504 1.000000 
+1205 2056 1.000000 
+1205 1505 1.000000 
+1205 453 1.000000 
+1205 2057 1.000000 
+1205 986 1.000000 
+1205 2059 2.000000 
+1205 988 1.000000 
+1205 2060 1.000000 
+1205 635 1.000000 
+1205 991 1.000000 
+1205 461 6.000000 
+1205 993 1.000000 
+1205 2066 1.000000 
+1205 464 1.000000 
+1205 466 1.000000 
+1205 1581 2.000000 
+1205 467 1.000000 
+1205 1520 1.000000 
+1205 2072 1.000000 
+1205 1522 15.000000 
+1205 998 1.000000 
+1205 2077 1.000000 
+1205 472 1.000000 
+1205 1526 1.000000 
+1205 2080 3.000000 
+1205 1001 1.000000 
+1205 2084 1.000000 
+1205 1006 4.000000 
+1205 1670 1.000000 
+1205 68 1.000000 
+1205 485 1.000000 
+1205 1539 1.000000 
+1205 2096 1.000000 
+1205 488 1.000000 
+1205 2097 7.000000 
+1205 491 1.000000 
+1205 1009 1.000000 
+1205 1545 1.000000 
+1205 2032 1.000000 
+1205 2100 1.000000 
+1205 495 1.000000 
+1205 1548 1.000000 
+1205 72 1.000000 
+1205 282 1.000000 
+1205 499 1.000000 
+1205 1467 1.000000 
+1205 1018 1.000000 
+1205 2109 1.000000 
+1205 1826 2.000000 
+1205 502 1.000000 
+1205 643 1.000000 
+1205 506 1.000000 
+1205 1022 2.000000 
+1205 1561 1.000000 
+1205 1562 1.000000 
+1205 1564 2.000000 
+1205 510 1.000000 
+1205 1024 1.000000 
+1205 1027 1.000000 
+1205 516 1.000000 
+1205 1032 1.000000 
+1205 824 1.000000 
+1205 2119 1.000000 
+1205 2120 1.000000 
+1205 1573 1.000000 
+1205 1035 8.000000 
+1205 2122 2.000000 
+1205 2123 1.000000 
+1205 528 1.000000 
+1205 852 1.000000 
+1205 1037 1.000000 
+1205 1243 5.000000 
+1205 1580 1.000000 
+1205 532 1.000000 
+1205 1044 1.000000 
+1205 533 2.000000 
+1205 536 1.000000 
+1205 539 1.000000 
+1205 1587 1.000000 
+1205 2135 1.000000 
+1205 1053 1.000000 
+1205 1056 1.000000 
+1205 289 2.000000 
+1205 1596 1.000000 
+1205 548 1.000000 
+1205 686 1.000000 
+1205 1600 1.000000 
+1205 2147 1.000000 
+1205 1065 2.000000 
+1205 554 1.000000 
+1205 2151 1.000000 
+1205 1069 2.000000 
+1205 2153 1.000000 
+1205 1524 1.000000 
+1205 2158 1.000000 
+1205 562 1.000000 
+1205 2159 1.000000 
+1205 1076 1.000000 
+1205 1068 1.000000 
+1205 2160 2.000000 
+1205 1079 1.000000 
+1215 1081 1.000000 
+1243 700 3.000000 
+1243 2054 1.000000 
+1243 2097 2.000000 
+1243 1081 4.000000 
+1243 27 2.000000 
+1244 997 1.000000 
+1244 1308 1.000000 
+1248 79 1.000000 
+1259 1035 2.000000 
+1272 1522 5.000000 
+1272 1990 2.000000 
+1272 1308 1.000000 
+1272 23 1.000000 
+1285 1990 1.000000 
+1291 1069 3.000000 
+1295 289 11.000000 
+1295 1990 2.000000 
+1295 2097 2.000000 
+1295 2054 1.000000 
+1296 2097 1.000000 
+1299 91 2.000000 
+1308 1081 19.000000 
+1308 1480 4.000000 
+1308 1341 1.000000 
+1308 1246 1.000000 
+1308 298 1.000000 
+1308 1082 1.000000 
+1308 431 1.000000 
+1308 570 1.000000 
+1308 301 1.000000 
+1308 698 2.000000 
+1308 1629 1.000000 
+1308 700 9.000000 
+1308 1212 1.000000 
+1308 154 1.000000 
+1308 1624 1.000000 
+1308 1904 1.000000 
+1308 439 1.000000 
+1308 374 1.000000 
+1308 1216 1.000000 
+1308 1099 2.000000 
+1308 1775 1.000000 
+1308 977 1.000000 
+1308 708 1.000000 
+1308 1778 1.000000 
+1308 163 1.000000 
+1308 849 1.000000 
+1308 2053 1.000000 
+1308 23 1.000000 
+1308 2054 5.000000 
+1308 585 1.000000 
+1308 299 2.000000 
+1308 27 2.000000 
+1308 2068 1.000000 
+1308 987 1.000000 
+1308 1522 7.000000 
+1308 989 1.000000 
+1308 1510 1.000000 
+1308 702 1.000000 
+1308 459 1.000000 
+1308 492 1.000000 
+1308 461 1.000000 
+1308 2064 4.000000 
+1308 1802 1.000000 
+1308 601 1.000000 
+1308 330 1.000000 
+1308 1112 1.000000 
+1308 1244 1.000000 
+1308 1387 1.000000 
+1308 1122 1.000000 
+1308 733 1.000000 
+1308 1810 1.000000 
+1308 1248 1.000000 
+1308 335 1.000000 
+1308 336 1.000000 
+1308 1521 1.000000 
+1308 1249 1.000000 
+1308 1937 1.000000 
+1308 2076 1.000000 
+1308 191 1.000000 
+1308 470 1.000000 
+1308 1662 1.000000 
+1308 344 3.000000 
+1308 1528 1.000000 
+1308 1113 1.000000 
+1308 1820 1.000000 
+1308 738 1.000000 
+1308 1885 1.000000 
+1308 1668 2.000000 
+1308 620 1.000000 
+1308 1135 2.000000 
+1308 1669 1.000000 
+1308 1538 1.000000 
+1308 355 1.000000 
+1308 1956 1.000000 
+1308 974 1.000000 
+1308 1674 1.000000 
+1308 747 1.000000 
+1308 101 1.000000 
+1308 1676 1.000000 
+1308 1460 1.000000 
+1308 629 1.000000 
+1308 58 1.000000 
+1308 1272 1.000000 
+1308 498 1.000000 
+1308 1015 1.000000 
+1308 740 1.000000 
+1308 500 1.000000 
+1308 1801 1.000000 
+1308 1482 1.000000 
+1308 766 1.000000 
+1308 2111 1.000000 
+1308 504 1.000000 
+1308 2113 1.000000 
+1308 644 1.000000 
+1308 770 1.000000 
+1308 1023 1.000000 
+1308 1695 1.000000 
+1308 647 1.000000 
+1308 79 1.000000 
+1308 912 1.000000 
+1308 1309 1.000000 
+1308 2021 1.000000 
+1308 83 1.000000 
+1308 233 1.000000 
+1308 1290 2.000000 
+1308 913 1.000000 
+1308 84 2.000000 
+1308 86 3.000000 
+1308 869 1.000000 
+1308 652 1.000000 
+1308 1035 7.000000 
+1308 1036 1.000000 
+1308 1708 1.000000 
+1308 786 1.000000 
+1308 1166 1.000000 
+1308 1167 1.000000 
+1308 1863 1.000000 
+1308 1712 1.000000 
+1308 530 1.000000 
+1308 1990 2.000000 
+1308 1301 1.000000 
+1308 659 1.000000 
+1308 95 1.000000 
+1308 661 2.000000 
+1308 1915 1.000000 
+1308 1995 1.000000 
+1308 236 1.000000 
+1308 662 1.000000 
+1308 2097 3.000000 
+1308 1579 1.000000 
+1308 1587 1.000000 
+1308 100 1.000000 
+1308 1999 2.000000 
+1308 1874 1.000000 
+1308 929 1.000000 
+1308 1279 1.000000 
+1308 1591 2.000000 
+1308 1876 1.000000 
+1308 1594 2.000000 
+1308 1811 2.000000 
+1308 2145 1.000000 
+1308 1484 1.000000 
+1308 676 1.000000 
+1308 1063 1.000000 
+1308 1319 1.000000 
+1308 1065 1.000000 
+1308 118 1.000000 
+1308 2012 2.000000 
+1308 1188 1.000000 
+1308 2093 1.000000 
+1308 1069 16.000000 
+1308 122 1.000000 
+1308 1466 1.000000 
+1308 1263 1.000000 
+1308 1143 1.000000 
+1308 1738 1.000000 
+1308 2157 1.000000 
+1308 1470 1.000000 
+1308 1333 1.000000 
+1308 1197 1.000000 
+1308 826 1.000000 
+1308 289 1.000000 
+1308 1337 1.000000 
+1308 1119 1.000000 
+1308 1618 1.000000 
+1310 431 1.000000 
+1327 700 1.000000 
+1338 1522 1.000000 
+1338 700 2.000000 
+1338 1069 1.000000 
+1345 2054 1.000000 
+1345 431 1.000000 
+1359 700 1.000000 
+1360 1990 1.000000 
+1368 1990 1.000000 
+1381 79 1.000000 
+1381 1990 1.000000 
+1389 79 3.000000 
+1389 1854 1.000000 
+1389 254 1.000000 
+1389 1061 1.000000 
+1389 1621 1.000000 
+1389 28 1.000000 
+1389 642 1.000000 
+1389 1848 3.000000 
+1389 431 4.000000 
+1389 480 1.000000 
+1399 700 1.000000 
+1399 2012 2.000000 
+1399 1069 2.000000 
+1399 1990 1.000000 
+1399 1522 2.000000 
+1399 289 3.000000 
+1399 611 1.000000 
+1405 1990 1.000000 
+1408 1522 2.000000 
+1408 1756 4.000000 
+1408 2054 1.000000 
+1408 2064 2.000000 
+1408 700 9.000000 
+1415 79 1.000000 
+1424 431 1.000000 
+1427 79 1.000000 
+1432 700 1.000000 
+1452 1035 1.000000 
+1456 1089 1.000000 
+1457 79 2.000000 
+1461 1522 2.000000 
+1465 431 6.000000 
+1465 1061 1.000000 
+1472 431 1.000000 
+1479 79 1.000000 
+1491 79 1.000000 
+1499 1081 1.000000 
+1509 254 1.000000 
+1509 431 10.000000 
+1522 1620 1.000000 
+1522 1080 1.000000 
+1522 1081 1.000000 
+1522 1083 1.000000 
+1522 1091 1.000000 
+1522 572 1.000000 
+1522 574 1.000000 
+1522 12 1.000000 
+1522 1093 1.000000 
+1522 1094 1.000000 
+1522 13 1.000000 
+1522 1095 1.000000 
+1522 1097 2.000000 
+1522 1633 1.000000 
+1522 578 1.000000 
+1522 579 1.000000 
+1522 1636 1.000000 
+1522 1100 1.000000 
+1522 1189 1.000000 
+1522 1102 1.000000 
+1522 1639 1.000000 
+1522 1104 1.000000 
+1522 26 1.000000 
+1522 27 1.000000 
+1522 589 1.000000 
+1522 1115 1.000000 
+1522 596 1.000000 
+1522 1116 1.000000 
+1522 32 1.000000 
+1522 600 1.000000 
+1522 1653 1.000000 
+1522 602 1.000000 
+1522 1121 1.000000 
+1522 1314 1.000000 
+1522 1655 1.000000 
+1522 1659 1.000000 
+1522 1990 5.000000 
+1522 611 1.000000 
+1522 1629 2.000000 
+1522 1399 1.000000 
+1522 1132 1.000000 
+1522 618 1.000000 
+1522 1006 1.000000 
+1522 1134 1.000000 
+1522 1413 1.000000 
+1522 1135 3.000000 
+1522 622 1.000000 
+1522 1671 1.000000 
+1522 1139 1.000000 
+1522 55 3.000000 
+1522 1994 1.000000 
+1522 627 1.000000 
+1522 1142 1.000000 
+1522 1144 1.000000 
+1522 1679 1.000000 
+1522 61 1.000000 
+1522 632 1.000000 
+1522 1683 1.000000 
+1522 1146 1.000000 
+1522 1148 1.000000 
+1522 458 1.000000 
+1522 1150 1.000000 
+1522 1151 1.000000 
+1522 67 1.000000 
+1522 483 2.000000 
+1522 1152 1.000000 
+1522 493 1.000000 
+1522 71 1.000000 
+1522 642 1.000000 
+1522 1559 1.000000 
+1522 73 1.000000 
+1522 645 1.000000 
+1522 1157 1.000000 
+1522 81 1.000000 
+1522 2148 1.000000 
+1522 1716 1.000000 
+1522 1161 2.000000 
+1522 85 1.000000 
+1522 650 2.000000 
+1522 86 5.000000 
+1522 1043 1.000000 
+1522 1703 1.000000 
+1522 1705 1.000000 
+1522 1707 1.000000 
+1522 1164 1.000000 
+1522 2086 1.000000 
+1522 657 1.000000 
+1522 1713 1.000000 
+1522 94 1.000000 
+1522 660 1.000000 
+1522 100 3.000000 
+1522 667 1.000000 
+1522 1176 1.000000 
+1522 1178 1.000000 
+1522 675 1.000000 
+1522 109 1.000000 
+1522 110 1.000000 
+1522 1181 1.000000 
+1522 112 1.000000 
+1522 113 1.000000 
+1522 114 1.000000 
+1522 1185 4.000000 
+1522 116 1.000000 
+1522 1186 1.000000 
+1522 1187 1.000000 
+1522 684 2.000000 
+1522 1737 1.000000 
+1522 673 1.000000 
+1522 1641 1.000000 
+1522 1194 1.000000 
+1522 1195 1.000000 
+1522 132 1.000000 
+1522 133 1.000000 
+1522 1748 1.000000 
+1522 1749 1.000000 
+1522 136 1.000000 
+1522 221 1.000000 
+1522 140 1.000000 
+1522 1754 1.000000 
+1522 1756 1.000000 
+1522 1758 1.000000 
+1522 694 1.000000 
+1522 144 2.000000 
+1522 1761 1.000000 
+1522 697 1.000000 
+1522 147 1.000000 
+1522 700 3.000000 
+1522 152 1.000000 
+1522 883 2.000000 
+1522 704 1.000000 
+1522 1338 1.000000 
+1522 1779 1.000000 
+1522 1950 1.000000 
+1522 1781 1.000000 
+1522 164 1.000000 
+1522 1782 1.000000 
+1522 712 1.000000 
+1522 945 1.000000 
+1522 166 1.000000 
+1522 1785 1.000000 
+1522 2026 1.000000 
+1522 1226 1.000000 
+1522 1787 1.000000 
+1522 716 1.000000 
+1522 588 1.000000 
+1522 1228 1.000000 
+1522 980 1.000000 
+1522 170 1.000000 
+1522 1230 1.000000 
+1522 171 1.000000 
+1522 723 1.000000 
+1522 174 1.000000 
+1522 175 1.000000 
+1522 725 1.000000 
+1522 1234 1.000000 
+1522 1237 1.000000 
+1522 1238 1.000000 
+1522 1804 1.000000 
+1522 179 1.000000 
+1522 1241 1.000000 
+1522 728 1.000000 
+1522 184 1.000000 
+1522 186 1.000000 
+1522 731 1.000000 
+1522 1280 1.000000 
+1522 732 1.000000 
+1522 365 1.000000 
+1522 2028 1.000000 
+1522 1818 1.000000 
+1522 2005 1.000000 
+1522 1827 1.000000 
+1522 1828 2.000000 
+1522 1832 1.000000 
+1522 1833 1.000000 
+1522 1267 1.000000 
+1522 748 1.000000 
+1522 1268 1.000000 
+1522 212 1.000000 
+1522 37 1.000000 
+1522 214 1.000000 
+1522 417 1.000000 
+1522 216 1.000000 
+1522 754 1.000000 
+1522 219 1.000000 
+1522 756 1.000000 
+1522 1841 1.000000 
+1522 2017 1.000000 
+1522 1625 1.000000 
+1522 224 1.000000 
+1522 1843 1.000000 
+1522 1844 3.000000 
+1522 225 1.000000 
+1522 1845 1.000000 
+1522 1282 1.000000 
+1522 767 1.000000 
+1522 129 1.000000 
+1522 1286 1.000000 
+1522 229 1.000000 
+1522 1287 1.000000 
+1522 1288 1.000000 
+1522 774 1.000000 
+1522 1857 1.000000 
+1522 1858 2.000000 
+1522 1859 1.000000 
+1522 1294 1.000000 
+1522 1861 2.000000 
+1522 242 2.000000 
+1522 791 1.000000 
+1522 345 2.000000 
+1522 1865 1.000000 
+1522 793 1.000000 
+1522 773 1.000000 
+1522 248 1.000000 
+1522 1869 1.000000 
+1522 251 1.000000 
+1522 1308 3.000000 
+1522 802 1.000000 
+1522 1654 1.000000 
+1522 1875 2.000000 
+1522 1316 1.000000 
+1522 265 1.000000 
+1522 267 1.000000 
+1522 809 1.000000 
+1522 1489 1.000000 
+1522 443 1.000000 
+1522 1493 1.000000 
+1522 811 1.000000 
+1522 1501 1.000000 
+1522 814 1.000000 
+1522 817 1.000000 
+1522 280 1.000000 
+1522 1886 1.000000 
+1522 822 1.000000 
+1522 828 1.000000 
+1522 1598 1.000000 
+1522 292 1.000000 
+1522 293 1.000000 
+1522 830 1.000000 
+1522 296 1.000000 
+1522 297 1.000000 
+1522 1343 1.000000 
+1522 1898 2.000000 
+1522 1345 1.000000 
+1522 1346 1.000000 
+1522 301 1.000000 
+1522 1903 1.000000 
+1522 1355 1.000000 
+1522 1358 1.000000 
+1522 846 1.000000 
+1522 311 1.000000 
+1522 677 3.000000 
+1522 717 1.000000 
+1522 1363 1.000000 
+1522 1743 1.000000 
+1522 312 1.000000 
+1522 1366 1.000000 
+1522 314 1.000000 
+1522 1369 1.000000 
+1522 315 1.000000 
+1522 1795 2.000000 
+1522 322 1.000000 
+1522 325 1.000000 
+1522 1926 1.000000 
+1522 853 1.000000 
+1522 856 1.000000 
+1522 1383 1.000000 
+1522 1931 1.000000 
+1522 1385 1.000000 
+1522 332 1.000000 
+1522 1933 1.000000 
+1522 333 1.000000 
+1522 334 2.000000 
+1522 1935 1.000000 
+1522 1936 1.000000 
+1522 1394 1.000000 
+1522 340 1.000000 
+1522 435 1.000000 
+1522 1910 1.000000 
+1522 1943 1.000000 
+1522 347 1.000000 
+1522 349 1.000000 
+1522 1948 1.000000 
+1522 879 1.000000 
+1522 352 1.000000 
+1522 701 1.000000 
+1522 1405 1.000000 
+1522 1408 2.000000 
+1522 358 1.000000 
+1522 1959 1.000000 
+1522 1960 1.000000 
+1522 1409 1.000000 
+1522 891 1.000000 
+1522 796 1.000000 
+1522 1412 1.000000 
+1522 363 1.000000 
+1522 1965 1.000000 
+1522 1417 1.000000 
+1522 1418 1.000000 
+1522 368 1.000000 
+1522 1970 1.000000 
+1522 1426 1.000000 
+1522 900 1.000000 
+1522 1428 1.000000 
+1522 1973 1.000000 
+1522 1429 1.000000 
+1522 975 1.000000 
+1522 375 1.000000 
+1522 376 1.000000 
+1522 1977 1.000000 
+1522 909 1.000000 
+1522 910 1.000000 
+1522 380 1.000000 
+1522 383 1.000000 
+1522 384 1.000000 
+1522 1983 1.000000 
+1522 915 1.000000 
+1522 1987 1.000000 
+1522 1446 1.000000 
+1522 1447 1.000000 
+1522 921 1.000000 
+1522 1449 1.000000 
+1522 1451 1.000000 
+1522 926 3.000000 
+1522 259 1.000000 
+1522 403 1.000000 
+1522 1219 1.000000 
+1522 1456 1.000000 
+1522 1461 1.000000 
+1522 940 1.000000 
+1522 2008 1.000000 
+1522 1464 1.000000 
+1522 2011 1.000000 
+1522 2012 1.000000 
+1522 416 1.000000 
+1522 1599 1.000000 
+1522 946 1.000000 
+1522 1963 1.000000 
+1522 947 1.000000 
+1522 2018 1.000000 
+1522 948 1.000000 
+1522 1468 1.000000 
+1522 1469 1.000000 
+1522 1013 1.000000 
+1522 167 1.000000 
+1522 1475 1.000000 
+1522 959 1.000000 
+1522 428 1.000000 
+1522 1373 1.000000 
+1522 967 1.000000 
+1522 432 1.000000 
+1522 970 1.000000 
+1522 542 1.000000 
+1522 437 1.000000 
+1522 2043 1.000000 
+1522 2044 1.000000 
+1522 2045 1.000000 
+1522 2048 6.000000 
+1522 2049 1.000000 
+1522 1458 1.000000 
+1522 2050 1.000000 
+1522 2052 1.000000 
+1522 450 1.000000 
+1522 2054 9.000000 
+1522 451 12.000000 
+1522 452 1.000000 
+1522 454 1.000000 
+1522 1506 1.000000 
+1522 456 1.000000 
+1522 2059 4.000000 
+1522 990 1.000000 
+1522 457 1.000000 
+1522 1513 1.000000 
+1522 992 1.000000 
+1522 2062 1.000000 
+1522 2063 1.000000 
+1522 1515 1.000000 
+1522 2064 1.000000 
+1522 2066 3.000000 
+1522 465 1.000000 
+1522 1519 1.000000 
+1522 549 1.000000 
+1522 2079 1.000000 
+1522 2081 1.000000 
+1522 474 1.000000 
+1522 2083 1.000000 
+1522 1002 1.000000 
+1522 1527 1.000000 
+1522 1003 1.000000 
+1522 1529 1.000000 
+1522 1531 1.000000 
+1522 2085 1.000000 
+1522 1663 1.000000 
+1522 918 1.000000 
+1522 2090 1.000000 
+1522 2092 1.000000 
+1522 484 1.000000 
+1522 2094 1.000000 
+1522 487 1.000000 
+1522 1540 1.000000 
+1522 489 1.000000 
+1522 2097 7.000000 
+1522 1543 1.000000 
+1522 1545 1.000000 
+1522 1546 1.000000 
+1522 2101 1.000000 
+1522 1547 1.000000 
+1522 1548 1.000000 
+1522 1549 1.000000 
+1522 1552 1.000000 
+1522 2112 1.000000 
+1522 509 1.000000 
+1522 2114 1.000000 
+1522 1564 1.000000 
+1522 511 1.000000 
+1522 512 1.000000 
+1522 2020 1.000000 
+1522 1028 1.000000 
+1522 519 1.000000 
+1522 1570 3.000000 
+1522 1033 1.000000 
+1522 1331 1.000000 
+1522 1035 4.000000 
+1522 181 1.000000 
+1522 1574 1.000000 
+1522 2126 1.000000 
+1522 1220 1.000000 
+1522 1582 1.000000 
+1522 1169 1.000000 
+1522 1583 1.000000 
+1522 1045 1.000000 
+1522 1245 1.000000 
+1522 1667 1.000000 
+1522 2139 1.000000 
+1522 2140 1.000000 
+1522 939 1.000000 
+1522 1055 1.000000 
+1522 1593 1.000000 
+1522 2142 2.000000 
+1522 1223 1.000000 
+1522 289 2.000000 
+1522 1062 1.000000 
+1522 1336 1.000000 
+1522 1602 1.000000 
+1522 1065 1.000000 
+1522 1067 1.000000 
+1522 1069 8.000000 
+1522 2089 1.000000 
+1522 1606 1.000000 
+1522 559 1.000000 
+1522 1612 1.000000 
+1522 1077 1.000000 
+1522 2160 1.000000 
+1522 1616 1.000000 
+1526 1990 1.000000 
+1526 359 1.000000 
+1530 79 2.000000 
+1545 1069 3.000000 
+1553 2097 1.000000 
+1554 1000 1.000000 
+1559 1885 5.000000 
+1563 1666 1.000000 
+1563 1345 1.000000 
+1563 1395 1.000000 
+1565 1081 11.000000 
+1565 2145 1.000000 
+1565 431 1.000000 
+1565 1208 2.000000 
+1565 966 1.000000 
+1565 301 2.000000 
+1565 1088 1.000000 
+1565 148 1.000000 
+1565 970 1.000000 
+1565 700 13.000000 
+1565 1630 1.000000 
+1565 11 1.000000 
+1565 1490 1.000000 
+1565 15 1.000000 
+1565 983 1.000000 
+1565 1492 1.000000 
+1565 1635 1.000000 
+1565 1357 1.000000 
+1565 1101 1.000000 
+1565 710 1.000000 
+1565 449 1.000000 
+1565 1104 4.000000 
+1565 24 1.000000 
+1565 2054 5.000000 
+1565 1215 1.000000 
+1565 1772 1.000000 
+1565 27 7.000000 
+1565 721 1.000000 
+1565 987 1.000000 
+1565 1522 9.000000 
+1565 592 3.000000 
+1565 1511 1.000000 
+1565 1377 1.000000 
+1565 1650 1.000000 
+1565 858 1.000000 
+1565 33 1.000000 
+1565 861 1.000000 
+1565 863 1.000000 
+1565 1247 1.000000 
+1565 1811 1.000000 
+1565 1658 1.000000 
+1565 338 1.000000 
+1565 611 4.000000 
+1565 736 1.000000 
+1565 1399 4.000000 
+1565 1885 1.000000 
+1565 881 1.000000 
+1565 52 1.000000 
+1565 1534 1.000000 
+1565 1261 1.000000 
+1565 765 1.000000 
+1565 741 1.000000 
+1565 54 1.000000 
+1565 1264 2.000000 
+1565 356 1.000000 
+1565 887 2.000000 
+1565 1408 1.000000 
+1565 2097 5.000000 
+1565 491 2.000000 
+1565 1837 1.000000 
+1565 1838 1.000000 
+1565 1410 1.000000 
+1565 1012 1.000000 
+1565 1014 1.000000 
+1565 893 1.000000 
+1565 1954 1.000000 
+1565 535 1.000000 
+1565 2102 1.000000 
+1565 699 1.000000 
+1565 1275 1.000000 
+1565 217 1.000000 
+1565 1016 1.000000 
+1565 2105 1.000000 
+1565 996 1.000000 
+1565 638 1.000000 
+1565 2108 1.000000 
+1565 1687 2.000000 
+1565 1020 1.000000 
+1565 1283 1.000000 
+1565 1690 1.000000 
+1565 1048 1.000000 
+1565 644 3.000000 
+1565 283 1.000000 
+1565 253 1.000000 
+1565 122 1.000000 
+1565 647 1.000000 
+1565 79 1.000000 
+1565 379 1.000000 
+1565 1290 3.000000 
+1565 355 2.000000 
+1565 1440 1.000000 
+1565 650 3.000000 
+1565 86 3.000000 
+1565 523 1.000000 
+1565 1035 19.000000 
+1565 524 1.000000 
+1565 784 1.000000 
+1565 788 1.000000 
+1565 655 1.000000 
+1565 1978 1.000000 
+1565 1711 1.000000 
+1565 244 1.000000 
+1565 1999 1.000000 
+1565 604 1.000000 
+1565 530 1.000000 
+1565 1416 1.000000 
+1565 1308 234.000000 
+1565 799 3.000000 
+1565 666 1.000000 
+1565 804 1.000000 
+1565 1589 3.000000 
+1565 1175 1.000000 
+1565 546 1.000000 
+1565 1057 1.000000 
+1565 581 1.000000 
+1565 271 1.000000 
+1565 978 1.000000 
+1565 1320 1.000000 
+1565 1231 1.000000 
+1565 550 1.000000 
+1565 679 1.000000 
+1565 1884 1.000000 
+1565 1069 2.000000 
+1565 685 2.000000 
+1565 1735 1.000000 
+1565 127 1.000000 
+1565 1609 1.000000 
+1565 419 1.000000 
+1565 772 1.000000 
+1565 1470 3.000000 
+1565 561 1.000000 
+1565 827 1.000000 
+1565 952 1.000000 
+1565 289 1.000000 
+1565 1479 1.000000 
+1568 79 1.000000 
+1569 79 1.000000 
+1569 1389 3.000000 
+1569 431 4.000000 
+1570 1522 1.000000 
+1570 1308 1.000000 
+1571 1081 1.000000 
+1575 289 1.000000 
+1575 1035 1.000000 
+1575 1069 1.000000 
+1578 1081 1.000000 
+1583 1522 1.000000 
+1587 700 1.000000 
+1588 726 1.000000 
+1588 359 3.000000 
+1588 289 4.000000 
+1588 431 3.000000 
+1588 1035 12.000000 
+1588 1811 4.000000 
+1588 2064 2.000000 
+1589 700 1.000000 
+1594 299 1.000000 
+1605 431 1.000000 
+1607 2097 7.000000 
+1611 79 1.000000 
+1617 2097 1.000000 
+1619 1361 1.000000 
+1621 1389 1.000000 
+1621 431 2.000000 
+1621 1990 2.000000 
+1621 642 2.000000 
+1631 1081 1.000000 
+1643 1761 1.000000 
+1643 1081 1.000000 
+1645 600 1.000000 
+1660 1990 1.000000 
+1661 1081 1.000000 
+1668 2054 1.000000 
+1668 1081 1.000000 
+1668 1510 1.000000 
+1672 79 1.000000 
+1672 382 1.000000 
+1678 2097 1.000000 
+1687 700 1.000000 
+1687 1081 1.000000 
+1690 700 1.000000 
+1694 79 3.000000 
+1694 431 1.000000 
+1694 722 1.000000 
+1694 257 2.000000 
+1699 289 1.000000 
+1711 2097 1.000000 
+1717 243 1.000000 
+1717 403 1.000000 
+1717 2054 2.000000 
+1717 1315 1.000000 
+1722 643 1.000000 
+1724 2097 1.000000 
+1736 2054 2.000000 
+1744 567 1.000000 
+1752 1990 2.000000 
+1756 1408 2.000000 
+1761 1858 1.000000 
+1761 912 1.000000 
+1761 1081 12.000000 
+1761 665 1.000000 
+1761 1575 1.000000 
+1761 100 1.000000 
+1761 1069 13.000000 
+1761 730 2.000000 
+1761 1522 7.000000 
+1761 611 1.000000 
+1761 2097 2.000000 
+1761 1461 2.000000 
+1761 1668 1.000000 
+1761 2054 2.000000 
+1761 1035 4.000000 
+1761 1631 1.000000 
+1761 1065 3.000000 
+1768 556 1.000000 
+1768 1035 1.000000 
+1768 1252 1.000000 
+1768 1284 1.000000 
+1771 1081 2.000000 
+1774 2048 1.000000 
+1793 1081 1.000000 
+1795 1522 2.000000 
+1796 79 1.000000 
+1796 700 2.000000 
+1809 431 1.000000 
+1811 84 1.000000 
+1811 197 2.000000 
+1822 771 2.000000 
+1822 1990 1.000000 
+1826 700 1.000000 
+1828 1522 2.000000 
+1844 1081 1.000000 
+1848 1990 1.000000 
+1848 1174 1.000000 
+1848 642 2.000000 
+1851 2054 3.000000 
+1851 27 2.000000 
+1861 912 1.000000 
+1861 1889 1.000000 
+1869 79 1.000000 
+1872 431 1.000000 
+1885 1559 8.000000 
+1886 1522 1.000000 
+1886 1081 2.000000 
+1896 2054 1.000000 
+1898 1522 1.000000 
+1902 1585 1.000000 
+1902 924 1.000000 
+1902 693 1.000000 
+1902 1209 1.000000 
+1902 2134 1.000000 
+1902 799 1.000000 
+1902 960 1.000000 
+1902 62 1.000000 
+1902 463 1.000000 
+1902 101 1.000000 
+1902 317 1.000000 
+1902 431 2.000000 
+1902 1647 1.000000 
+1902 300 1.000000 
+1902 1049 1.000000 
+1902 468 1.000000 
+1902 1811 1.000000 
+1902 66 1.000000 
+1902 538 1.000000 
+1902 127 1.000000 
+1902 1658 1.000000 
+1902 1019 1.000000 
+1902 935 1.000000 
+1902 1557 1.000000 
+1902 1726 1.000000 
+1902 637 1.000000 
+1902 449 2.000000 
+1902 270 1.000000 
+1902 411 1.000000 
+1902 1436 1.000000 
+1902 678 1.000000 
+1902 1025 1.000000 
+1902 2036 1.000000 
+1902 79 1.000000 
+1902 1932 1.000000 
+1902 942 1.000000 
+1902 1665 1.000000 
+1902 1604 1.000000 
+1902 677 1.000000 
+1902 874 1.000000 
+1902 1069 4.000000 
+1902 816 1.000000 
+1902 981 1.000000 
+1902 1365 1.000000 
+1902 86 1.000000 
+1902 752 1.000000 
+1902 1736 1.000000 
+1902 1326 1.000000 
+1902 2054 2.000000 
+1902 387 1.000000 
+1902 1644 1.000000 
+1902 27 1.000000 
+1902 1742 1.000000 
+1902 131 1.000000 
+1902 1266 1.000000 
+1902 1050 6.000000 
+1902 1522 1.000000 
+1902 751 1.000000 
+1902 595 1.000000 
+1902 1512 1.000000 
+1902 1895 1.000000 
+1902 1208 2.000000 
+1902 1378 1.000000 
+1902 1272 3.000000 
+1902 1172 1.000000 
+1908 1153 1.000000 
+1911 1990 5.000000 
+1918 700 2.000000 
+1920 431 1.000000 
+1941 700 1.000000 
+1941 520 1.000000 
+1941 431 1.000000 
+1941 642 3.000000 
+1941 289 1.000000 
+1941 1990 3.000000 
+1941 326 1.000000 
+1941 923 2.000000 
+1942 1684 1.000000 
+1944 79 1.000000 
+1946 431 1.000000 
+1947 700 1.000000 
+1947 1010 1.000000 
+1947 301 1.000000 
+1951 79 5.000000 
+1952 700 2.000000 
+1952 491 1.000000 
+1958 1990 1.000000 
+1966 1081 1.000000 
+1988 2097 1.000000 
+1990 1081 45.000000 
+1990 2064 3.000000 
+1990 600 1.000000 
+1990 799 7.000000 
+1990 1470 2.000000 
+1990 724 1.000000 
+1990 1345 1.000000 
+1990 299 4.000000 
+1990 1761 2.000000 
+1990 835 1.000000 
+1990 1553 1.000000 
+1990 177 1.000000 
+1990 1668 1.000000 
+1990 1947 1.000000 
+1990 78 3.000000 
+1990 2138 1.000000 
+1990 637 1.000000 
+1990 405 2.000000 
+1990 1811 2.000000 
+1990 763 2.000000 
+1990 150 1.000000 
+1990 700 1.000000 
+1990 1522 12.000000 
+1990 39 1.000000 
+1990 1204 1.000000 
+1990 610 1.000000 
+1990 1349 1.000000 
+1990 674 2.000000 
+1990 239 3.000000 
+1990 1941 1.000000 
+1990 1526 9.000000 
+1990 642 1.000000 
+1990 1261 1.000000 
+1990 1285 3.000000 
+1990 1907 1.000000 
+1990 342 1.000000 
+1990 1405 1.000000 
+1990 677 5.000000 
+1990 77 1.000000 
+1990 647 1.000000 
+1990 347 5.000000 
+1990 920 4.000000 
+1990 79 2.000000 
+1990 1972 2.000000 
+1990 552 1.000000 
+1990 1359 1.000000 
+1990 377 1.000000 
+1990 1399 3.000000 
+1990 121 2.000000 
+1990 1069 47.000000 
+1990 122 2.000000 
+1990 1858 1.000000 
+1990 385 4.000000 
+1990 1275 1.000000 
+1990 650 10.000000 
+1990 1571 2.000000 
+1990 781 3.000000 
+1990 854 1.000000 
+1990 1611 1.000000 
+1990 2054 20.000000 
+1990 1035 21.000000 
+1990 1570 2.000000 
+1990 1544 1.000000 
+1990 283 2.000000 
+1990 887 2.000000 
+1990 1448 1.000000 
+1990 390 1.000000 
+1990 27 26.000000 
+1990 422 3.000000 
+1990 86 2.000000 
+1990 2097 28.000000 
+1990 431 3.000000 
+1990 28 4.000000 
+1990 1687 3.000000 
+1990 727 2.000000 
+1990 289 12.000000 
+1990 1510 3.000000 
+1990 1065 2.000000 
+1990 1822 1.000000 
+1990 1660 1.000000 
+1990 449 4.000000 
+1990 661 1.000000 
+1990 987 2.000000 
+1990 1752 1.000000 
+1990 295 1.000000 
+1999 1081 1.000000 
+2009 2074 4.000000 
+2046 79 1.000000 
+2054 597 1.000000 
+2054 1081 25.000000 
+2054 139 1.000000 
+2054 1274 1.000000 
+2054 600 1.000000 
+2054 1588 1.000000 
+2054 42 2.000000 
+2054 1345 1.000000 
+2054 1761 2.000000 
+2054 1244 1.000000 
+2054 1141 1.000000 
+2054 760 1.000000 
+2054 1545 1.000000 
+2054 591 1.000000 
+2054 763 3.000000 
+2054 2064 21.000000 
+2054 700 12.000000 
+2054 1522 5.000000 
+2054 1035 4.000000 
+2054 191 1.000000 
+2054 1398 1.000000 
+2054 642 2.000000 
+2054 611 3.000000 
+2054 342 4.000000 
+2054 1851 1.000000 
+2054 1775 1.000000 
+2054 845 2.000000 
+2054 478 1.000000 
+2054 912 16.000000 
+2054 1677 1.000000 
+2054 941 1.000000 
+2054 310 1.000000 
+2054 1668 6.000000 
+2054 1069 19.000000 
+2054 1990 16.000000 
+2054 1103 1.000000 
+2054 416 1.000000 
+2054 385 2.000000 
+2054 352 4.000000 
+2054 86 4.000000 
+2054 1261 1.000000 
+2054 239 2.000000 
+2054 235 1.000000 
+2054 524 1.000000 
+2054 431 3.000000 
+2054 318 1.000000 
+2054 1267 1.000000 
+2054 390 4.000000 
+2054 27 2.000000 
+2054 1408 1.000000 
+2054 1736 1.000000 
+2054 2097 13.000000 
+2054 721 7.000000 
+2054 987 3.000000 
+2054 1544 1.000000 
+2054 289 9.000000 
+2054 1580 1.000000 
+2054 359 1.000000 
+2054 1717 3.000000 
+2054 793 1.000000 
+2054 923 4.000000 
+2064 1081 3.000000 
+2064 1408 1.000000 
+2064 1458 1.000000 
+2064 1588 1.000000 
+2064 2097 2.000000 
+2064 1069 3.000000 
+2064 50 7.000000 
+2064 1990 2.000000 
+2064 2054 21.000000 
+2064 1035 1.000000 
+2069 700 1.000000 
+2072 27 1.000000 
+2080 1035 4.000000 
+2082 671 1.000000 
+2082 431 1.000000 
+2082 1000 1.000000 
+2097 1081 6.000000 
+2097 833 1.000000 
+2097 1345 1.000000 
+2097 299 2.000000 
+2097 569 2.000000 
+2097 1761 1.000000 
+2097 301 1.000000 
+2097 837 1.000000 
+2097 9 1.000000 
+2097 700 4.000000 
+2097 1766 1.000000 
+2097 1035 4.000000 
+2097 1633 2.000000 
+2097 1861 2.000000 
+2097 1699 1.000000 
+2097 2047 2.000000 
+2097 2048 3.000000 
+2097 873 1.000000 
+2097 164 1.000000 
+2097 431 11.000000 
+2097 2054 11.000000 
+2097 27 3.000000 
+2097 985 5.000000 
+2097 721 14.000000 
+2097 987 3.000000 
+2097 1522 2.000000 
+2097 325 1.000000 
+2097 1510 1.000000 
+2097 1553 1.000000 
+2097 459 2.000000 
+2097 599 3.000000 
+2097 994 1.000000 
+2097 1932 4.000000 
+2097 1806 1.000000 
+2097 862 1.000000 
+2097 1243 2.000000 
+2097 1348 1.000000 
+2097 2072 1.000000 
+2097 2156 2.000000 
+2097 191 1.000000 
+2097 611 1.000000 
+2097 43 3.000000 
+2097 877 1.000000 
+2097 1399 1.000000 
+2097 50 1.000000 
+2097 352 1.000000 
+2097 2091 1.000000 
+2097 1135 1.000000 
+2097 1955 2.000000 
+2097 624 1.000000 
+2097 1674 2.000000 
+2097 1958 1.000000 
+2097 359 4.000000 
+2097 1546 1.000000 
+2097 1272 2.000000 
+2097 961 2.000000 
+2097 1840 2.000000 
+2097 458 1.000000 
+2097 758 2.000000 
+2097 1843 1.000000 
+2097 762 4.000000 
+2097 520 1.000000 
+2097 639 1.000000 
+2097 642 3.000000 
+2097 377 2.000000 
+2097 53 1.000000 
+2097 771 2.000000 
+2097 79 4.000000 
+2097 912 1.000000 
+2097 232 3.000000 
+2097 1982 1.000000 
+2097 649 1.000000 
+2097 2157 1.000000 
+2097 385 2.000000 
+2097 650 4.000000 
+2097 86 1.000000 
+2097 781 1.000000 
+2097 239 5.000000 
+2097 1631 3.000000 
+2097 1295 1.000000 
+2097 390 2.000000 
+2097 243 2.000000 
+2097 1299 1.000000 
+2097 727 1.000000 
+2097 1990 14.000000 
+2097 1301 1.000000 
+2097 2132 1.000000 
+2097 1867 1.000000 
+2097 923 3.000000 
+2097 1996 2.000000 
+2097 1267 4.000000 
+2097 1879 1.000000 
+2097 929 1.000000 
+2097 1875 1.000000 
+2097 1722 3.000000 
+2097 1613 1.000000 
+2097 1119 1.000000 
+2097 433 1.000000 
+2097 552 1.000000 
+2097 941 1.000000 
+2097 121 1.000000 
+2097 1069 8.000000 
+2097 1739 2.000000 
+2097 689 1.000000 
+2097 1889 2.000000 
+2097 1335 2.000000 
+2097 565 2.000000 
+2097 1197 1.000000 
+2097 289 11.000000 
+2097 1337 1.000000 
+2097 1571 7.000000 
+2097 1617 1.000000 
+2098 2097 1.000000 
+2104 79 2.000000 
+2104 431 3.000000 
+2107 79 2.000000 
+2112 1522 1.000000 
+2131 79 1.000000 
+2133 431 1.000000 
+2133 1069 6.000000 
+2146 1367 1.000000 
+2157 2097 2.000000 
