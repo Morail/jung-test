@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-public class Tester {
+public class SwissKnifeTester {
 
 	/**
 	 * @param args
