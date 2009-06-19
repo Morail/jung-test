@@ -17,7 +17,7 @@ import edu.uci.ics.jung.io.PajekNetReader;
 /**
  * A class that shows the minimal work necessary to load and visualize a graph.
  */
-public class SwissKnife 
+public class NetworkAnalyzer 
 {
 			
 	private String dataset;
@@ -92,14 +92,14 @@ public class SwissKnife
 	/**
 	 * Basic constructor for SwissKnife class 
 	 */
-	public SwissKnife(){
-		this.dataset = "datasets/weighted.net";
+	public NetworkAnalyzer(){
+		this.dataset = "test.net";
 	}
 	
 	/**
 	 * Constructor for SwissKnife class
 	 */
-	public SwissKnife(String dataset){
+	public NetworkAnalyzer(String dataset){
 		
 		this.dataset = dataset;
 		

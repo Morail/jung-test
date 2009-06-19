@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-public class SwissKnifeTester {
+public class Tester {
 
 	/**
 	 * @param args
@@ -14,9 +14,9 @@ public class SwissKnifeTester {
     	
         start = System.currentTimeMillis(); // Print vertexes and edges count
         
-		SwissKnife swiss = new SwissKnife(dataset);
+		NetworkAnalyzer netAnalyzer = new NetworkAnalyzer(dataset);
 		
-		swiss.runTest();
+		netAnalyzer.runTest();
 		
         end = System.currentTimeMillis();
         
